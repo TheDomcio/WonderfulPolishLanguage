@@ -11,7 +11,7 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 0. [Preamble (Wstęp - preambuła)](##preamble-(wstęp---preambuła))
 1. [Texts (Teksty)](##texts-(teksty))
    - [Free books (Darmowe książki)](###free-books-(darmowe-książki))
-   - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](###free-books-in-paid-internet bookstores-(darmowe-książki-w-płatnych-księgarniach internetowych))
+   - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](###free-books-in-paid-internet-bookstores-(darmowe-książki-w-płatnych-księgarniach-internetowych))
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](###the-bible-translations---online-and-for-download-(przekłady-bibli---online-i-do-pobrania))
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)]( ###indexes-and-virtual-bookcases-(indeksy-i-wirtualne-biblioteczki))
    - [Dictionaries and etc. (Słowniki itp.)](###dictionaries-and-etc.-(słowniki-itp.) ) 
