@@ -112,6 +112,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Korpusowy Polskiego Słownik Języka Migowego](https://www.slownikpjm.uw.edu.pl/page/opjm) - Polish Sign Language Dictionary. If you are a deaf person or want to communicate with such a person, this is something for you.
 - [Słownik slangu oraz mowy potocznej](https://www.miejski.pl) - A dictionary of slang and colloquial speech - street speech - if you want to become heads of some secret city organizations, this will surely be useful.
 - [Reverso Context]([https://context.reverso.net/t%C5%82umaczenie/](https://context.reverso.net/tłumaczenie/)) - A Polish version of very useful multilingual website where you can understand the meaning of a word, through sentences - contexts of use.
+- [Language Tool](https://languagetool.org) - Great multilingual spell and grammar checker. Useful if you are still not very good at using the comma character in Polish, or you are not sure if you need it in this case, then it may be helpful (it is not perfect, sometimes you may find the comma needed unnecessary). 
 - [Encyklopedia PWN](https://encyklopedia.pwn.pl) - Nice encyclopedia.
 - [Diki](https://www.diki.pl) - Very nice English-Polish dictionary. Often there are also pictures of nouns.
 - [Słownik polszczyzny XVI wieku](https://spxvi.edu.pl) - A dictionary of Polish language from XVI century. If somebody wants to sound like a great nobleman, then thanks to knowing these words will be closer to achieving this.
