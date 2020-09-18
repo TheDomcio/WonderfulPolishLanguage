@@ -1,6 +1,6 @@
 # Wonderful Polish Language
 
-## Preamble (Wstęp - preambuła)
+## Preamble (Preambuła)
 
 Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Confirmation, so it doesn't really count, but it is still worth to mention this powerful name) Rajchel and  I am currently 18 years old. I go to IT school. I have created for you this wonderful list - document of resources for learning - getting more experience with Polish language - I mainly dedicate it to foreigners who are looking for [re]sources to learn the Polish language , but also to my compatriots and aliens [and parrots] and not only for beginners or advanced people, this list is also useful for natives who are looking for new sources of education and entertainment in their language. I think this [**POWERFUL**] Polish is a really great language. Thanks to its flexibility you can create great compositions - poems etc. That's why I would like to really help promote it. Personally, I am constantly expanding the number of known words, because it is a very useful thing in my life. I learn English from the first grade of elementary school ([Szkoła podstawowa](https://pl.wikipedia.org/wiki/Szko%C5%82a_podstawowa)) and German from the first grade of middle school ([Gimnazjum](https://pl.wikipedia.org/wiki/Gimnazjum)), but I give less priority to German because it would only be useful for me to read [Grimms' Fairy Tales in the original language](https://de.wikipedia.org/wiki/Grimms_M%C3%A4rchen). At home I learn mainly Japanese. In the future I am also going to learn other Slavic languages a bit more. The order of the links is mostly random. I add clean links, without any extra and referral code in URLs. Currently I'm focusing on adding free and legal sources or those that also offer free legal content. Maybe in the future I'll also add categories with paid (also legal xD) websites. I hope that the first version of my list is satisfactory, I wanted to publish it in a sensible form. If you know any other good [free :D] websites related to Polish, feel free to let me know when a website has stopped distributing content in an fair way, please report it to me, also in case the website end its activity or changes the URL or project name or the page I added is "really uncool". Pozdrawiam. Have fun.
 
@@ -8,7 +8,7 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 
 (Work in progress - Teleports are still not working because the cables have been bitten by space hamsters with very sharp teeth)
 
-0. [Preamble (Wstęp - preambuła)](##preamble-(wstęp---preambuła))
+0. [Preamble (Preambuła)](#preamble-(preambuła))
 1. [Texts (Teksty)](##texts-(teksty))
    - [Free books (Darmowe książki)](###free-books-(darmowe-książki))
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](###free-books-in-paid-internet-bookstores-(darmowe-książki-w-płatnych-księgarniach-internetowych))
