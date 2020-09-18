@@ -383,6 +383,10 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 
 - [Via comment on my YouTube channel](https://www.youtube.com/Domcio)
 
+- [Via comment on Learn Polish subreddit post about this list](https://www.reddit.com/r/learnpolish/comments/iv4x0i/the_powerful_list_of_resources_for_learning)
+
+- [Via comment on Wykop find about this list](https://www.wykop.pl/link/5703485/moj-potezny-spis-darmowych-i-legalnych-zasobow-w-jezyku-polskim-wpl)
+
 - Discord: Domcio#0223  (Feel free to ask if you have any doubts).
 
 - E-mail: domcio@protonmail.com (Swiss, like a watches).
