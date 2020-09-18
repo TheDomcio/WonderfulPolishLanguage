@@ -6,9 +6,12 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 
 ## Contents (Spis treści)
 
-(Work in progress - Teleports are still not working because the cables have been bitten by space hamsters with very sharp teeth)
+(I offered the hamsters that destroyed the cables from the teleports to cooperate in searching for bugs in the text code. After that I repaired the teleport connections, so in this version all should work)
 
-0. [Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
+  -0. [What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
+
+0. [Contents (Spis treści)](#contents-spis-treści)
+
 1. [Texts (Teksty)](#texts-teksty)
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
@@ -16,7 +19,7 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
    - [Dictionaries and etc. (Słowniki itp.)](##dictionaries-and-etc-słowniki-itp)
    - [Translators (Tłumacze)](#translators-tłumacze)
-   - [Culinary recipes (Przepisy kulinarne)](##culinary-recipes-przepisy-kulinarne)
+   - [Culinary recipes (Przepisy kulinarne)](#culinary-recipes-przepisy-kulinarne)
 2. [Videos (Filmy)](#videos-filmy)
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
    - [YouTube](#youtube)
@@ -368,6 +371,8 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Learn Polish Discord Server](https://discord.gg/4U7Akj6) - A Discord server related to [/r/learnpolish](https://www.reddit.com/r/learnpolish).
 - [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
 - [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
+- [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solusions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? 
+- [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
 - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
 - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
 
