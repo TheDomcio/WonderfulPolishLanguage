@@ -28,7 +28,7 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Song lyrics (Teksty piosenek)](###song-lyrics-(teksty-piosenek))
    - [Internet Radio (Radio internetowe)](###internet-radio-(radio-internetowe))
 
-4. [Games (Gry)](games-(gry))
+4. [Games (Gry)](#games-(gry))
    - [Browser games (Gry przeglądarkowe)](###browser-games-(gry-przeglądarkowe))
 
 5. [Tools and apps (Narzędzia i aplikacje)](##tools-and-apps-(narzędzia-i-aplikacje))
