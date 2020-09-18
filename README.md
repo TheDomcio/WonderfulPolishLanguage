@@ -1,6 +1,6 @@
 # Wonderful Polish Language
 
-## Preamble (Wstęp - preambuła)
+## Preamble (Wstęp - Preambuła)
 
 Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Confirmation, so it doesn't really count, but it is still worth to mention this powerful name) Rajchel and  I am currently 18 years old. I go to IT school. I have created for you this wonderful list - document of resources for learning - getting more experience with Polish language - I mainly dedicate it to foreigners who are looking for [re]sources to learn the Polish language , but also to my compatriots and aliens [and parrots] and not only for beginners or advanced people, this list is also useful for natives who are looking for new sources of education and entertainment in their language. I think this [**POWERFUL**] Polish is a really great language. Thanks to its flexibility you can create great compositions - poems etc. That's why I would like to really help promote it. Personally, I am constantly expanding the number of known words, because it is a very useful thing in my life. I learn English from the first grade of elementary school ([Szkoła podstawowa](https://pl.wikipedia.org/wiki/Szko%C5%82a_podstawowa)) and German from the first grade of middle school ([Gimnazjum](https://pl.wikipedia.org/wiki/Gimnazjum)), but I give less priority to German because it would only be useful for me to read [Grimms' Fairy Tales in the original language](https://de.wikipedia.org/wiki/Grimms_M%C3%A4rchen). At home I learn mainly Japanese. In the future I am also going to learn other Slavic languages a bit more. The order of the links is mostly random. I add clean links, without any extra and referral code in URLs. Currently I'm focusing on adding free and legal sources or those that also offer free legal content. Maybe in the future I'll also add categories with paid (also legal xD) websites. I hope that the first version of my list is satisfactory, I wanted to publish it in a sensible form. If you know any other good [free :D] websites related to Polish, feel free to let me know when a website has stopped distributing content in an fair way, please report it to me, also in case the website end its activity or changes the URL or project name or the page I added is "really uncool". Pozdrawiam. Have fun.
 
@@ -8,42 +8,41 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 
 (Work in progress - Teleports are still not working because the cables have been bitten by space hamsters with very sharp teeth)
 
-0. [Preamble (Preambuła)](#preamble-preambuła)
+0. [Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
 1. [Texts (Teksty)](#texts-teksty)
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
-   - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](###free-books-in-paid-internet-bookstores-(darmowe-książki-w-płatnych-księgarniach-internetowych))
-   - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](###the-bible-translations---online-and-for-download-(przekłady-bibli---online-i-do-pobrania))
-   - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)]( ###indexes-and-virtual-bookcases-(indeksy-i-wirtualne-biblioteczki))
-   - [Dictionaries and etc. (Słowniki itp.)](###dictionaries-and-etc.-(słowniki-itp.))
-   - [Translators (Tłumacze)](###translators-(tłumacze))
-   - [Culinary recipes](##culinary-recipes)
-2. [Videos (Filmy)](##videos-(filmy))
-   - [Pingwin Mroźny (Penguin Frosty)](###pingwin-mroźny-(penguin-frosty))
-   - [YouTube](###youtube)
-   - [VOD](###vod)
-   - [Television (Telewizja)](###television-(telewizja))
-   - [Subtitles (Napisy)](###subtitles-(napisy))
-   - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](###movies-databases-and-social-networks-(bazy-filmowe-oraz-sieci-społecznościowe))
-3. [Audio](##audio)
-   - [Song lyrics (Teksty piosenek)](###song-lyrics-(teksty-piosenek))
-   - [Internet Radio (Radio internetowe)](###internet-radio-(radio-internetowe))
-
-4. [Games (Gry)](#games-(gry))
+   - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
+   - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
+   - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
+   - [Dictionaries and etc. (Słowniki itp.)](##dictionaries-and-etc-słowniki-itp)
+   - [Translators (Tłumacze)](#translators-tłumacze)
+   - [Culinary recipes (Przepisy kulinarne)](##culinary-recipes-przepisy-kulinarne)
+2. [Videos (Filmy)](#videos-filmy)
+   - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
+   - [YouTube](#youtube)
+   - [VOD](#vod)
+   - [Television (Telewizja)](#television-telewizja)
+   - [Subtitles (Napisy)](#subtitles-napisy)
+   - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
+3. [Audio](#audio)
+   - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-teksty-piosenek-nuty-taby)
+   - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
+   - [Karaoke](#karaoke)
+4. [Games (Gry)](#games-gry)
    - [Browser games (Gry przeglądarkowe)](###browser-games-(gry-przeglądarkowe))
-
-5. [Tools and apps (Narzędzia i aplikacje)](##tools-and-apps-(narzędzia-i-aplikacje))
-6. [Services (Serwisy)](##services-(serwisy))
-7. [News and similar (Wiadomości i podobne)](##news-and-similar-(wiadomości-i-podobne))
-   - [Typical news sites (Typowe strony informacyjne)](###typical-news-sites-(typowe-strony-informacyjne))
-   - [Agregators (Agregatory)](###agregators-(agreatory))
-
-8. [Email providers (Dostarczyciele email)](##email-providers-(dostarczyciele-email))
-9. [Social networks (Sieci społecznościowe)](##social-networks-(sieci-społecznościowe))
-10. [Others (Inne)](##others-(inne))
-11. [Contact (Kontakt)](##contact-(kontakt))
-12. [Support (Wsparcie)](##suport-(wsparcie))
-13. [My other projects here (Moje inne tutejsze projekty)](##my-others-projects-here-(moje-inne-tutejsze-projekty))
-14. [Lorem ipsum](##lorem-ipsum)
+5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
+6. [Services (Serwisy)](#services-serwisy)
+7. [News and similar (Wiadomości i podobne)](#news-and-similar-wiadomości-i-podobne)
+   - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
+   - [Agregators (Agregatory)](#agregators-agregatory)
+8. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
+9. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
+10. [Others (Inne)](#others-inne)
+    - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
+11. [Contact (Kontakt)](#contact-kontakt)
+12. [Support (Wsparcie)](#support-wsparcie)
+13. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
+14. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
 
@@ -123,6 +122,10 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 
 - [Translatica](https://translatica.pl) - Language translator. Currently it is able to translate from Polish into English [British], German and Russian.
 - [DeepL](deepl.com) - Very cool neural machine translator. It is becoming increasingly popular ([according to Alexa Rank](https://www.alexa.com/siteinfo/deepl.com)). Currently it supports such languages as: Polish, English (UK), English (US), German, French, Spanish, Portuguese,  Portuguese (BR), Italian, Dutch, Russian, Japanese and Chinese (Simplified)  ([The CEO - dr. Jarosław Kutyłowski](https://www.deepl.com/pl/publisher) is probably from Poland and the company is located in Germany).
+
+### Culinary recipes (Przepisy kulinarne)
+
+- Cooming soon
 
 ## Videos (Filmy)
 
@@ -227,15 +230,20 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Real Polish](https://realpolish.pl/podcast) and [Here is the official Archive.org profile with free podcasts, because some of them require a VIP account, and here you have free podcasts right away](https://archive.org/details/@realpolish)
 - [Great78](https://archive.org/details/georgeblood?&and[]=languageSorter%3A%22Polish%22) - Polish collections from The Great 78 Project, where the local community make preservation, research and discovery 78 rpm records, which are very old vinyl records, so it's a great source to listen to old Polish songs and see what the language and style of the melody sounded like at the time, a really cool thing, I'd like more projects of this kind to be on this list, not just websites that aren't eternal, here you can download these songs (they're in .flac format) and listen them on your favorite device. There are usually several versions available in one archive file, i.e. versions with extra settings and the original version without any additional settings.
 
-### Song lyrics (Teksty piosenek)
+### Song lyrics, notes and tabs (Teksty piosenek, nuty i taby)
 
 - [Tekstowo](https://www.tekstowo.pl) - one of the currently most popular Polish websites offering lyrics to songs. Transcriptions are created by users. You will need it if you want to learn a language by listening to songs, because you will be able, for example, to listen and read at the same time or you can try to write down what you heard and then check the lyrics of the song to see if it is correct, it is certainly a nice method and quite mind friendly and not boring in my opinion. 
-
 - [Groove](https://www.groove.pl) - Another option, there are a lot of song interpretations and, of course, the subtitles themselves, so this will come in handy if we want to understand the deeper meaning of the tracks. Sometimes you have to do some research anyway to find out what song had the true message, especially in case of old Polish songs, like those from the 80s. If you haven't found the meaning of a song, write to me, then I'll try to help you interpret it by helping you know the history of those times and knowing the people who lived then, because I'm from 2001, so hehehe. but I still have a lot of knowledge on this issue, and I also got to know a part of the biographies of the local music artists, which can be useful in this regard.
-
 - [Teksty](https://teksty.org) - service very similar to the above. It has a slightly more old-school look.
-
 - [Tekściory](https://teksciory.interia.pl) - Another alternative.
+- [Śpiewnik Wywroty](https://spiewnik.wywrota.pl) - lyrics of Polish and foreign songs and "the biggest Polish Wiki-Songbook created by guitarists for guitarists!", so of course you will find here the guitar tabs.
+- [Taby na harmonijkę](https://taby-na-harmonijke.pl) - list of many taboos for the harmonica. A really cool website, I learned on it e.g. [intro song from "Pat a Mat"](https://taby-na-harmonijke.pl/sasiedzi-muzyka-z-bajki).
+
+### Karaoke
+
+- [iSing](https://ising.pl) - The most popular Polish karaoke service. You can listen many song covers here.
+
+- [Letsing](https://letsing.pl) - similar to the above.
 
 ### Internet Radio (Radio internetowe)
 
@@ -370,12 +378,18 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - ### Operating systems (Systemy operacyjne)
 
   (Linux distributions created by Polish guys - [Source](https://distrowatch.com/search.php?origin=Poland))
-  [SparkyLinux](https://sparkylinux.org)
-  [4MLinux](https://4mlinux.com/index.php?page=download)
-  [Qubes OS](https://www.qubes-os.org)
-  [EuroLinux](https://pl.euro-linux.com)
-  [PLD Linux](https://www.pld-linux.org)
-  [MaboxLinux](https://pl.maboxlinux.org)
+
+- [SparkyLinux](https://sparkylinux.org)
+
+- [4MLinux](https://4mlinux.com/index.php?page=download)
+
+- [Qubes OS](https://www.qubes-os.org)
+
+- [EuroLinux](https://pl.euro-linux.com)
+
+- [PLD Linux](https://www.pld-linux.org)
+
+- [MaboxLinux](https://pl.maboxlinux.org)
 
 ## Contact (Kontakt)
 
@@ -396,8 +410,6 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 ## Support (Wsparcie)
 
 If you want to support the project, just send people in need a link to this list, surely many people will be happy and the popularity of the project will increase. I also hope that you will help me improve - expand this list. The Internet is huge, so I'm sure I overlooked something. Pingwin Mroźny will be happy if you don't forget him (If you would like to create subtitles for an episode with Pingwin Mroźny, let me know, I will gladly add them if they are in good quality).
-
-
 
 ## My others projects here (Moje inne tutejsze projekty)
 
