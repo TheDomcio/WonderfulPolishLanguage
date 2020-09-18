@@ -14,7 +14,7 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](###free-books-in-paid-internet-bookstores-(darmowe-książki-w-płatnych-księgarniach-internetowych))
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](###the-bible-translations---online-and-for-download-(przekłady-bibli---online-i-do-pobrania))
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)]( ###indexes-and-virtual-bookcases-(indeksy-i-wirtualne-biblioteczki))
-   - [Dictionaries and etc. (Słowniki itp.)](###dictionaries-and-etc.-(słowniki-itp.) ) 
+   - [Dictionaries and etc. (Słowniki itp.)](###dictionaries-and-etc.-(słowniki-itp.))
    - [Translators (Tłumacze)](###translators-(tłumacze))
    - [Culinary recipes](##culinary-recipes)
 2. [Videos (Filmy)](##videos-(filmy))
@@ -113,6 +113,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Słownik slangu oraz mowy potocznej](https://www.miejski.pl) - A dictionary of slang and colloquial speech - street speech - if you want to become heads of some secret city organizations, this will surely be useful.
 - [Reverso Context]([https://context.reverso.net/t%C5%82umaczenie/](https://context.reverso.net/tłumaczenie/)) - A Polish version of very useful multilingual website where you can understand the meaning of a word, through sentences - contexts of use.
 - [Encyklopedia PWN](https://encyklopedia.pwn.pl) - Nice encyclopedia.
+- [Diki](https://www.diki.pl) - Very nice English-Polish dictionary. Often there are also pictures of nouns.
 - [Słownik polszczyzny XVI wieku](https://spxvi.edu.pl) - A dictionary of Polish language from XVI century. If somebody wants to sound like a great nobleman, then thanks to knowing these words will be closer to achieving this.
 - [Słownik staropolski](https://www.staropolska.pl/slownik) - The Old Polish dictionary, a lot of archaic words, will come in handy if you are going to travel in time and communicate with older Polish people.
 - [Gwara więzienna](https://pl.wiktionary.org/wiki/Indeks:Polski_-_Gwara_wi%C4%99zienna) - A set of words used in prison colloquial speech. It certainly won't come in handy, but it's a cool curiosity and after getting to know these words you can show people that you are able to get along with every layer of society.
