@@ -13,6 +13,7 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 0. [Contents (Spis treści)](#contents-spis-treści)
 
 1. [Texts (Teksty)](#texts-teksty)
+
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
@@ -20,31 +21,51 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Dictionaries and etc. (Słowniki itp.)](##dictionaries-and-etc-słowniki-itp)
    - [Translators (Tłumacze)](#translators-tłumacze)
    - [Culinary recipes (Przepisy kulinarne)](#culinary-recipes-przepisy-kulinarne)
+
 2. [Videos (Filmy)](#videos-filmy)
+
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
    - [YouTube](#youtube)
    - [VOD](#vod)
    - [Television (Telewizja)](#television-telewizja)
    - [Subtitles (Napisy)](#subtitles-napisy)
    - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
+
 3. [Audio](#audio)
+
    - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-teksty-piosenek-nuty-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke](#karaoke)
+
 4. [Games (Gry)](#games-gry)
+
    - [Browser games (Gry przeglądarkowe)](###browser-games-(gry-przeglądarkowe))
+
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
+
 6. [Services (Serwisy)](#services-serwisy)
+
 7. [News and similar (Wiadomości i podobne)](#news-and-similar-wiadomości-i-podobne)
+
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
+
 8. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
+
 9. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
+
 10. [Others (Inne)](#others-inne)
+
+    - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
+
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
+
 11. [Contact (Kontakt)](#contact-kontakt)
+
 12. [Support (Wsparcie)](#support-wsparcie)
+
 13. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
+
 14. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
@@ -85,7 +106,7 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 - [Legimi](https://www.legimi.pl/ebooki/darmowe) - The website also runs a subscription service, if you click on a product from the free list, there will be an second option (with #ebookretail in URL) to "buy" it for 0.00 ZŁ (PLN), the first option is a free trial of subscription for 14 days.
 - [Virtualo](https://virtualo.pl/ebooki/?price=1)
 - [Nexto](https://www.nexto.pl/darmowe.xml)
-- [Świat czytników - Index of some free books](https://ebooki.swiatczytnikow.pl/temat/darmowe)
+- [Świat czytników - Index of some free books](https://ebooki.swiatczytnikow.pl/temat/darmowe) and [special category on website for free books](https://swiatczytnikow.pl/tematy/za-darmo).
 
 ### The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)
 
@@ -97,6 +118,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Biblia online](http://biblia-online.pl/Porownaj/Wersety) - A page similar to the above, you can compare verses on it in a very cool way.
 - [Biblia - Edycja św. Pawła (Biblia Paulistów)](http://www.verbumregis.pl/#/reading) - One of the recently created Polish Bible translations. Translation was prepared by her enthusiasts, with the help of Polish Paulists (Towarzystwo Świętego Pawła).
 - [Biblia w przekładzie Jakuba Wujka (The Wujek Bible)](http://www.madel.jezuici.pl/biblia/Biblia-Wujka-C.pdf) - This is a translation of the Bible made Polish Jesuit Jakub Wujek in 1599.
+- [Uwspółcześniona Biblia Gdańska (2017)](https://www.jezus.pl/czytelnia/biblia-bezplatny-ebook) - Here you can download [Uwspółcześniona Biblia Gdańska (2017)](https://pl.wikipedia.org/wiki/Uwsp%C3%B3%C5%82cze%C5%9Bniona_Biblia_gda%C5%84ska) in [.epub](https://www.jezus.pl/uploads/1/3/4/6/13469490/plbga-st-nt-basic-v1_4.epub) and [.mobi](https://www.jezus.pl/uploads/1/3/4/6/13469490/plbga-st-nt-basic-v1_4.mobi).
 - [Biblia Jerozolimska](https://kazimierz.archibial.pl/docs/biblia_jerozolimska.pdf) - Polish version of La Bible de Jérusalem.
 
 ### Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)
@@ -113,8 +135,13 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Wikisłownik](https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna) - Polish version of the [Wiktionary](https://www.wiktionary.org).  This allows you to immediately compare a given word with its translations in other languages, and you are also able to see what synonyms, anonyms, etymologies etc. have.
 - [Korpusowy Polskiego Słownik Języka Migowego](https://www.slownikpjm.uw.edu.pl/page/opjm) - Polish Sign Language Dictionary. If you are a deaf person or want to communicate with such a person, this is something for you.
 - [Słownik slangu oraz mowy potocznej](https://www.miejski.pl) - A dictionary of slang and colloquial speech - street speech - if you want to become heads of some secret city organizations, this will surely be useful.
+- [Synonim.NET](https://synonim.net) - Online dictionary of Polish language synonyms.
+- [Synonimy.pl](https://www.synonimy.pl) - similar to above.
+- [Zakończone.pl](https://www.zakonczone.pl) - On this page you can check the words with the selected ending. For example:  [-ówka](https://www.zakonczone.pl/na/%C3%B3wka).
+- [Stopniowanie.net](http://stopniowanie.net) - Graduation of adjectives and adverbs.
 - [Reverso Context]([https://context.reverso.net/t%C5%82umaczenie/](https://context.reverso.net/tłumaczenie/)) - A Polish version of very useful multilingual website where you can understand the meaning of a word, through sentences - contexts of use.
 - [Language Tool](https://languagetool.org) - Great multilingual spell and grammar checker. Useful if you are still not very good at using the comma character in Polish, or you are not sure if you need it in this case, then it may be helpful (it is not perfect, sometimes you may find the comma needed unnecessary). 
+- [Youglish](https://youglish.com/polish) - genial website for improving pronunciation and more. As the authors write, there are millions of entries with tracks in the index, after entering a word that interests us, the search engine will try to find a movie on YouTube from their subtitles - someone's speech, in which the word you have chosen. [Word "pingwin" for example]([https://youglish.com/pronounce/pingwin/polish?)).
 - [Encyklopedia PWN](https://encyklopedia.pwn.pl) - Nice encyclopedia.
 - [Diki](https://www.diki.pl) - Very nice English-Polish dictionary. Often there are also pictures of nouns.
 - [Słownik polszczyzny XVI wieku](https://spxvi.edu.pl) - A dictionary of Polish language from XVI century. If somebody wants to sound like a great nobleman, then thanks to knowing these words will be closer to achieving this.
@@ -154,31 +181,29 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 (I like to add those channels that do not have exaggerate with the absurdity of thumbnails and titles - clickbaits. I want to make it as easy as possible to retrieve information from the videos on this site without wasting your time on "one million fillers" included in today's **typical** YouTube videos focused on massive marketing).
 
 - [Course of Polish](https://www.youtube.com/user/Jareczny) - There are a lot of "words of the day" here, and then the speaker shows the sentences in which these words can be used - context.
-
 - [SAY IT IN POLISH](https://www.youtube.com/channel/UCCDOVLmcmVWGit5vTgS2Q6Q) - Nice channel about "saying it" (some more complex message) in Polish. And not only that, it is also worthwhile to look through older videos.
-
 - [Ignacy z Japonii](https://www.youtube.com/channel/UC84AaEtr7hlaYYwXDSKAbNg) - Very cool channel of a Japanese man named Kohei, who records videos under the pseudonym "Ignacy" ([Explanation](https://www.youtube.com/watch?v=wjWU4MClUbQ)). The channel might be useful for people from Japan who would like to learn Polish and more, because "Ignacy" was a free listener in Polish studies at the Uniwersytet Śląski in Katowice, as he himself wrote in the description of the channel. He explains very interesting issues, refutes myths and stereotypes related to Japan or Japanese, which people spread unconsciously in Poland (and not only here).  
-
+- [Skazany na film](https://www.youtube.com/channel/UC8ROk73ZAWnDk6VS5kXTzVQ) - A great channel about film, where the author describes things from this world in a very inspiring way.
+- [Polimaty](https://www.youtube.com/Polimaty) - Very interesting channel about nice life topics (yes, it's worth to check it).
+- [Na Gałęzi](https://www.youtube.com/user/NaGalezi) - Another channel dedicated to films, there is a lot of humor here.
 - [Polski z Anią](https://www.youtube.com/channel/UCOJ8InFS6bdCVzsZKIdmK4w) - Good channel about parts of speech, conjugation and times and much more. Currently the project has been [maybe temporarily] paused ([Explanation](https://www.youtube.com/watch?v=yi9gW7pAfWQ)).
-
 - [LEARN POLISH WITH DAREK](https://www.youtube.com/channel/UCkyows0QsBOlvEQz4m3yGvg) - Another [also paused :/] interesting channel about Polish. Very cool option for people who want to learn words while listening, because there are a lot of such materials. 
-
 - [PolishPod101](https://www.youtube.com/user/PolishPod101) - Very active and professional channel. There is a huge number of films and 24/7 live streaming for learning. 
 - [Grupa Filmowa Darwin (G.F. Darwin)](https://www.youtube.com/channel/UCkPjHTuNd_ycm__29dXM3Nw) - A film group making really great films. With its latest films it refers to the problems affecting today's [especially Polish] society. The main popularity of this YouTube channel has been brought by films from the "Wielkie Konflikty" series, as well as a parody of the song "Will You Be There" by Micheal Jackson entitled ["Orki z Majorki"](https://www.youtube.com/watch?v=YZuFsI-bttM) (About [oceanic] orcas (killer whale) from Mallorca).
-
 - [Historia bez cenzury](https://www.youtube.com/user/HistoriaBezCenzuryMB) - The historical channel, where the main anchorman - Wojciech Drewniak presents history in a cool, eccentric and humorous way. There is also an [English version](https://www.youtube.com/channel/UCd51P-3L-OiG-L4NH36ArAA/videos), but after three films this project has been stopped.
+- [Mówiąc Inaczej](https://www.youtube.com/user/PamikuPL) - great and very popular YouTube channel about "How to speak Polish correctly".
+- [Arlena Witt](https://www.youtube.com/user/jezykalnia) - A channel to learn English, but of course you can also use a magic trick and learn Polish from it.
 - [SciFun](https://www.youtube.com/scifun) - One of the most popular Polish scientific channels. The subject of his recent films is checking various things under the microscope, but in a "normal way" and not hyperbolized. [He also made a serious analysis of the "theory that the Earth is flat"](https://www.youtube.com/watch?v=lDFo70FlbAo&list=PLuui6B7jlJXkLMxXo6sI6iZEkSCU-3WQZ).
 - [History Hiking](https://www.youtube.com/channel/UCCvPTDuK7LsXrzPUmi9AZzA) - The person who runs the channel program in a very reliable and professional way tells the viewers about various historical events in a very interesting and accessible way.
 - [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) - Another Polish respected scientific channel, where various topics are often discussed in the form of long films.
 - [mietczynski](https://www.youtube.com/channel/UCZP_DXnKgfs_ZX3RHVmu6qQ) - The person who recording movies for this YouTube channel is mainly known among Polish youth for humorous and simple summary of the various required school readings. He talks about them by adding more of his colorful metaphors and opinions, so he simply talks about the plot in an unconventional and accessible way, so it helps many people to remember the course of these books, which is often useful on all school's "smaller" and "main" exams (I personally am neutral to this, but I add this channel objectively, because I know that many people like it for different reasons). He also reviews films in a similar way and tries his hand at cooking based on popular recipes. 
 - [emce□](https://www.youtube.com/channel/UCZgxE8WOvOmHNfMpv1otPxQ) - Another channel dedicated to science, also very respected, has a lot of topics on it.
-
 - [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) - A channel about psychological, philosophical, sociological and cultural issues - ideas. Author - Szymon talks in a very accessible way about various problems of today's world, as well as about the political system, etc. There is also an [English version](https://www.youtube.com/channel/UCaw4PZWOXVE6ZjarvAUyugA). He also runs a second channel: [Szymon mówi](https://www.youtube.com/channel/UCnUrMqV57fp3uPddvmDpTaA), for example, he has long conversations with people with different political orientations.
 - [Broda ty](https://www.youtube.com/user/Midvith) - Polish dinosaur of computer games reviews (hehe). His films are really qualitative.
-
+- [Astrofaza](https://www.youtube.com/channel/UCIUYdIIld_2bsymqWDCdOFQ) - A really nice channel about cosmos.
+- [Nauka. To lubię](https://www.youtube.com/user/naukatolubie) - A [scientific] channel dedicated to get knowledge about many things.
 - [Nie wiem, ale się dowiem](https://www.youtube.com/channel/UCZ7KWO9E51KNtkDN_TfA69Q) - A project very similar to the above, also raises a lot of problems of today's world. This channel also has films created in a very accessible form.
 - [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. 
-
 - [Spychu91](https://www.youtube.com/user/Spychu91) - Announcements of new anime production and information from "that world".
 
 ### VOD
@@ -225,10 +250,11 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [My playlist with "The best of Polish music creations"](https://www.youtube.com/watch?v=CCw3rMng0nw&list=PL2yH5_nRkFqwxh63njdnt3emJ0rq0f2fp) - I have created a playlist of songs that are memorable, also a part of the Polish culture, often many jokes - references to them. I update it from time to time as soon as I have a "marathon of listening to music". So that's the playlist of "core songs of Poland" (But there's not much Disco Polo here anyway, I keep it to a minimum because it's still a subjective playlist, and I'm already bored with this genre and I think then that it's mostly "homogenous"). I'm also interested in Polish music from different times, so you'll find some older songs there, I'm also trying to add the best quality version to the playlist, and not thrown by a third party in very poor and even more compressed quality.
 - [Studio Accantus](https://www.youtube.com/StudioAccantus) - A project associating brilliant vocalists, who together perform e.g. covers of great famous Polish songs, often from animated fairy tales. It is worth to watch - listen to those performances, because they are in really good quality. 
 - [WIDZĘ GŁOSY](https://www.youtube.com/channel/UCsS2pcVBbDAdn8pPoh0mUkQ) - A channel where the most famous Polish voice actors are interviewed. Often you can learn from them many interesting stories from the realization of a given project and observations of the actors themselves. Often the actors sing songs that they have sung in a polish versions of movies productions. Of course, these are usually songs from the old days, so you can observe the voice changes of such people.
+- [Polskie Podcasty](http://polskiepodcasty.pl/wszystkie-podcasty) - catalog of polish podcasts.
 - [Katalog Biblioteki Polskiej](http://katalog.bibliotekapiosenki.pl/) - A catalog of Polish songs.
 - [Filharmonia Narodowa](https://www.youtube.com/user/FilharmoniaNarodowa) and [this](http://filharmonia.pl) - official website of the Polish National Philharmonic and its YouTube channel. You can find there a lot of great symphonic concerts and much more.
 - [Polskie Nagrania](https://www.youtube.com/channel/UCeAFhL7tQmtLp9zk7uQpNoQ) - official channel of the Polish record company "Polskie Nagrania". They also have [playlist with the best Polish music (Top 100)](https://www.youtube.com/watch?v=jpxbojoCbS4&list=PLRm7CMrlXHQ8Ng-NjxTjzgwsskaCeg7L5).
-- [Pomaton](https://www.youtube.com/ParlophonePoland) - oficjalny kanał YouTube kolejnej polskiej wytwórni płytowej "Pomaton". 
+- [Pomaton](https://www.youtube.com/ParlophonePoland) - official YouTube channel of another Polish record company "Pomaton". 
 - [MTJ Wytwórnia Muzyczna](https://www.youtube.com/user/MTJPoland) - official channel of the Polish music label MTJ Wytwórnia Muzyczna. 
 - [Real Polish](https://realpolish.pl/podcast) and [Here is the official Archive.org profile with free podcasts, because some of them require a VIP account, and here you have free podcasts right away](https://archive.org/details/@realpolish)
 - [Great78](https://archive.org/details/georgeblood?&and[]=languageSorter%3A%22Polish%22) - Polish collections from The Great 78 Project, where the local community make preservation, research and discovery 78 rpm records, which are very old vinyl records, so it's a great source to listen to old Polish songs and see what the language and style of the melody sounded like at the time, a really cool thing, I'd like more projects of this kind to be on this list, not just websites that aren't eternal, here you can download these songs (they're in .flac format) and listen them on your favorite device. There are usually several versions available in one archive file, i.e. versions with extra settings and the original version without any additional settings.
@@ -288,9 +314,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 ## Services (Serwisy)
 
 - [Duolingo](https://www.duolingo.com) - Practically everyone knows this wonderful service, which mascot is a green bird named Duo (just be careful and do regular lessons so he doesn't get upset, it's very important, don't forget about your course, hehe). A Polish language course for English speakers is supported there (US, but people who know the UK version and others will understand as well). I have rewritten every English language course out of curiosity, but I mainly learn Japanese and Czech there ([My profile](https://www.duolingo.com/profile/TheDomcio) and If you want me to give me Duolingo Plus for free - every real registration is an + 7 days for free, if i good remember, in this case you can register from [this link](https://invite.duolingo.com/BDHTZTB5CWWKSTFKMXIFBF4Q7Y). The plus version removes ads from the site, and on the mobile version it allows you to download courses and do lessons offline [and more](https://support.duolingo.com/hc/pl/articles/115004068043-Czym-jest-Duolingo-Plus-). But I will honestly say that for now I have a break and I don't use the service now, but "I'll be back!", so it's mainly good for you, if you want to have me in your follows after registration, of course you can follow me also if you already have account). I used to be in the top league in the ranking, but now I've fallen by the lack of activity. 
-
 - [Quizlet](https://quizlet.com/subject/polish) - something like [Anki](https://apps.ankiweb.net), but online and much more, so it's worth checking it out.
-
 - [Quzizz](https://quizizz.com/admin/search/J%C4%99zyk%20polski) - A page with quizzes. There are a lot of quizzes created by teachers for their [mostly youngs[ students, so it's a good option to repeat different things for example from the basics of grammar and so on.
 
 ## News and similar (Wiadomości i podobne)
@@ -378,22 +402,22 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 
 ## Others (Inne)
 
-[6obcy](https://6obcy.org)  - Website for talking to strangers from different regions of Poland and abroad. You can meet many interesting people here, but you can also find a lot of "suspicious people", so be careful. (M - mężczyzna - male, K - kobieta - female, so at the beginning of the conversation, when someone writes "K", it means that she says she is a woman, it's a pattern that often occurs, or e.g. M20 = a man who is 20 years old, for some people it's just something like a dating chat).
+- [6obcy](https://6obcy.org)  - Website for talking to strangers from different regions of Poland and abroad. You can meet many interesting people here, but you can also find a lot of "suspicious people", so be careful. (M - mężczyzna - male, K - kobieta - female, so at the beginning of the conversation, when someone writes "K", it means that she says she is a woman, it's a pattern that often occurs, or e.g. M20 = a man who is 20 years old, for some people it's just something like a dating chat).
 
-- ### Operating systems (Systemy operacyjne)
+### Resources lists (Listy zasobów)
 
-  (Linux distributions created by Polish guys - [Source](https://distrowatch.com/search.php?origin=Poland))
+- [Best resources for learning Polish by Clozemaster](https://www.clozemaster.com/blog/best-resources-for-learning-polish) and [Polish learning topic](https://www.clozemaster.com/blog/topics/language-learning/learn-polish).
+- [Legalna Kultura](https://legalnakultura.pl/pl/legalne-zrodla)
+
+### Operating systems (Systemy operacyjne)
+
+(Linux distributions created by Polish guys - [Source](https://distrowatch.com/search.php?origin=Poland))
 
 - [SparkyLinux](https://sparkylinux.org)
-
 - [4MLinux](https://4mlinux.com/index.php?page=download)
-
 - [Qubes OS](https://www.qubes-os.org)
-
 - [EuroLinux](https://pl.euro-linux.com)
-
 - [PLD Linux](https://www.pld-linux.org)
-
 - [MaboxLinux](https://pl.maboxlinux.org)
 
 ## Contact (Kontakt)
