@@ -11,7 +11,6 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
   -0. [What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
 
 0. [Contents (Spis treści)](#contents-spis-treści)
-
 1. [Texts (Teksty)](#texts-teksty)
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
@@ -20,7 +19,6 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Dictionaries and etc. (Słowniki itp.)](##dictionaries-and-etc-słowniki-itp)
    - [Translators (Tłumacze)](#translators-tłumacze)
    - [Culinary recipes (Przepisy kulinarne)](#culinary-recipes-przepisy-kulinarne)
-
 2. [Videos (Filmy)](#videos-filmy)
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
    - [YouTube](#youtube)
@@ -28,41 +26,30 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Television (Telewizja)](#television-telewizja)
    - [Subtitles (Napisy)](#subtitles-napisy)
    - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
-
 3. [Audio](#audio)
    - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-teksty-piosenek-nuty-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke](#karaoke)
-
 4. [Games (Gry)](#games-gry)
 
    - [Browser games (Gry przeglądarkowe)](###browser-games-(gry-przeglądarkowe))
-
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
-
 6. [Services (Serwisy)](#services-serwisy)
-
 7. [News and similar (Wiadomości i podobne)](#news-and-similar-wiadomości-i-podobne)
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
-
 8. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
-
 9. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
-
-10. [Others (Inne)](#others-inne)
+10. [My nice tips](#my-nice-tips)
+11. [Others (Inne)](#others-inne)
 
     - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
 
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
-
-11. [Contact (Kontakt)](#contact-kontakt)
-
-12. [Support (Wsparcie)](#support-wsparcie)
-
-13. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
-
-14. [Lorem ipsum](#lorem-ipsum)
+12. [Contact (Kontakt)](#contact-kontakt)
+13. [Support (Wsparcie)](#support-wsparcie)
+14. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
+15. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
 
@@ -396,6 +383,10 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
 - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
 - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
+
+## My nice tips
+
+- In Polish, there is such a thing that some sentences can be shortened. For example, instead of saying: "Jesteś mądry" (You are smart), you can tell: "Mądryś" (Yes, -**ś** from jeste**ś**) or "Jesteś odważny" (You are brave) - "Odważnyś" or "Jesteś miły" (You are nice) - "Miłyś". If you want to become a knight, it may come in handy to you, because it sounds a bit archaic, but I always remember that it's a cool thing, so I created this category to share such cool things with you.
 
 ## Others (Inne)
 
