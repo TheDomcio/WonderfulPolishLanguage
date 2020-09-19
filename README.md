@@ -16,9 +16,8 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
-   - [Dictionaries and etc. (Słowniki itp.)](##dictionaries-and-etc-słowniki-itp)
+   - [Dictionaries and etc. (Słowniki itp.)](#dictionaries-and-etc-słowniki-itp)
    - [Translators (Tłumacze)](#translators-tłumacze)
-   - [Culinary recipes (Przepisy kulinarne)](#culinary-recipes-przepisy-kulinarne)
 2. [Videos (Filmy)](#videos-filmy)
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
    - [YouTube](#youtube)
@@ -27,29 +26,29 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Subtitles (Napisy)](#subtitles-napisy)
    - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
 3. [Audio](#audio)
-   - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-teksty-piosenek-nuty-taby)
+   - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-notes-and-tabs-teksty-piosenek-nuty-i-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke](#karaoke)
 4. [Games (Gry)](#games-gry)
 
-   - [Browser games (Gry przeglądarkowe)](###browser-games-(gry-przeglądarkowe))
+   - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe))
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
 6. [Services (Serwisy)](#services-serwisy)
-7. [News and similar (Wiadomości i podobne)](#news-and-similar-wiadomości-i-podobne)
+7. [Culinary (Kulinaria)](#culinary-kulinaria)
+8. [News and similar (Wiadomości i podobne)](#news-and-similar-wiadomości-i-podobne)
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
-8. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
-9. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
-10. [My nice tips](#my-nice-tips)
-11. [Others (Inne)](#others-inne)
-
+9. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
+10. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
+11. [My nice tips (Moje świetne wskazówki)](#my-nice-tips)
+12. [Others (Inne)](#others-inne)
     - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
 
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
-12. [Contact (Kontakt)](#contact-kontakt)
-13. [Support (Wsparcie)](#support-wsparcie)
-14. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
-15. [Lorem ipsum](#lorem-ipsum)
+13. [Contact (Kontakt)](#contact-kontakt)
+14. [Support (Wsparcie)](#support-wsparcie)
+15. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
+16. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
 
@@ -136,10 +135,6 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Translatica](https://translatica.pl) - Language translator. Currently it is able to translate from Polish into English [British], German and Russian.
 - [DeepL](deepl.com) - Very cool neural machine translator. It is becoming increasingly popular ([according to Alexa Rank](https://www.alexa.com/siteinfo/deepl.com)). Currently it supports such languages as: Polish, English (UK), English (US), German, French, Spanish, Portuguese,  Portuguese (BR), Italian, Dutch, Russian, Japanese and Chinese (Simplified)  ([The CEO - dr. Jarosław Kutyłowski](https://www.deepl.com/pl/publisher) is probably from Poland and the company is located in Germany).
 
-### Culinary recipes (Przepisy kulinarne)
-
-- Cooming soon
-
 ## Videos (Filmy)
 
 - [CDA](https://www.cda.pl/video) - Very popular multimedia Polish service. It also offers a premium VOD option. Long time ago it was especially known for platform with many flash games, which of course are still on this site. You can find there a lot of movies.
@@ -182,11 +177,10 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [mietczynski](https://www.youtube.com/channel/UCZP_DXnKgfs_ZX3RHVmu6qQ) - The person who recording movies for this YouTube channel is mainly known among Polish youth for humorous and simple summary of the various required school readings. He talks about them by adding more of his colorful metaphors and opinions, so he simply talks about the plot in an unconventional and accessible way, so it helps many people to remember the course of these books, which is often useful on all school's "smaller" and "main" exams (I personally am neutral to this, but I add this channel objectively, because I know that many people like it for different reasons). He also reviews films in a similar way and tries his hand at cooking based on popular recipes. 
 - [emce□](https://www.youtube.com/channel/UCZgxE8WOvOmHNfMpv1otPxQ) - Another channel dedicated to science, also very respected, has a lot of topics on it.
 - [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) - A channel about psychological, philosophical, sociological and cultural issues - ideas. Author - Szymon talks in a very accessible way about various problems of today's world, as well as about the political system, etc. There is also an [English version](https://www.youtube.com/channel/UCaw4PZWOXVE6ZjarvAUyugA). He also runs a second channel: [Szymon mówi](https://www.youtube.com/channel/UCnUrMqV57fp3uPddvmDpTaA), for example, he has long conversations with people with different political orientations.
-- [Broda ty](https://www.youtube.com/user/Midvith) - Polish dinosaur of computer games reviews (hehe). His films are really qualitative.
+- [TvFilmy](https://www.youtube.com/channel/UCc5tRa0svbXzKJUk40ow24Q) - An interesting channel about movies. It is created by part of the team from [TVGRYpl](https://www.youtube.com/user/TVGRYpl).
 - [Astrofaza](https://www.youtube.com/channel/UCIUYdIIld_2bsymqWDCdOFQ) - A really nice channel about cosmos.
 - [Nauka. To lubię](https://www.youtube.com/user/naukatolubie) - A [scientific] channel dedicated to get knowledge about many things.
 - [Nie wiem, ale się dowiem](https://www.youtube.com/channel/UCZ7KWO9E51KNtkDN_TfA69Q) - A project very similar to the above, also raises a lot of problems of today's world. This channel also has films created in a very accessible form.
-- [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. 
 - [Spychu91](https://www.youtube.com/user/Spychu91) - Announcements of new anime production and information from "that world".
 
 ### VOD
@@ -269,12 +263,20 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 
 ## Games (Gry)
 
+- [GRY-OnLine](https://www.gry-online.pl) - The largest Polish portal dedicated to games. It has a fairly active community and a database of games with ratings. So if you are looking for some Polish game, you should find a page with it here.
+- [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics.
+- [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. 
+- [Broda ty](https://www.youtube.com/user/Midvith) - Polish dinosaur of computer games reviews (hehe). His films are really qualitative.
+- [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl) - A web portal dedicated to polishing modifications and translations to Gothic, recently a very good dubbing for production is being created. Gothic is a cult game for many Poles, so it is worthwhile to get to know the sites associated with it. Recently, many great Polish professional moderation projects have been created, e.g. ["History of Khorinis"](https://dziejekhorinis.org). This will be the unofficial prequel of the Gothic I game. The voices of the characters are from very popular voice actors, and documentary films about these actors have been made as part of the project, so it is worth watching them on [the project's official YouTube channel](https://www.youtube.com/channel/UCzZPtg45BJjKpxSB2ER1mxw). Another big project worth mentioning is the still being created mod ["Myrtana Chronicles"](https://www.youtube.com/KronikiMyrtany) (A lot of great Gothic mods have been created for many years, so when they come out, there will be a lot of them to play).
+- [theModders](https://themodders.org) -A web portal dedicated to creating and modifying games (currently mainly Gothic series).
+- [Graj Po Polsku](https://grajpopolsku.pl) - A nice website with great quality Polish translations for many computer games.
+
 ### Browser games (Gry przeglądarkowe)
 
-- [Kurnik.pl](https://www.kurnik.pl) - A site with a large number of games for many players such as chess, checkers and "Mensch ärgere Dich nicht" - "Man, Don't Get Angry", which is called "[Chińczyk](https://pl.wikipedia.org/wiki/Chi%C5%84czyk_(gra_planszowa))" in Polish and the site itself has a lot of active players, so you don't have to wait alone in the lobby for a long time.
-- [Wyspa gier](https://www.wyspagier.pl) - Legendary game site, one of the big "parts of their childhood" for many people
+- [Kurnik.pl](https://www.kurnik.pl) - A site with a large number of games for many players such as chess, checkers and "Mensch ärgere Dich nicht" - "Man, Don't Get Angry", which is called "[Chińczyk](https://pl.wikipedia.org/wiki/Chi%C5%84czyk_(gra_planszowa))" in Polish (This game is practically identical to ["Ludo"](https://en.wikipedia.org/wiki/Ludo_(board_game), [but it is not the same](https://en.wikipedia.org/wiki/Ludo_(board_game)#Similar_German_game)) and the site itself has a lot of active players, so you don't have to wait alone in the lobby for a long time.
+- [Wyspa gier](https://www.wyspagier.pl) - Legendary game site, one of the big "parts of their childhood" for many people.
 - [Gry.pl](https://www.gry.pl)
-- [Gry Jeja](ttp://gry.jeja.pl)
+- [Gry Jeja](https://gry.jeja.pl)
 - [Giercownia](https://www.giercownia.pl)
 - [Graj teraz](https://www.grajteraz.pl)
 - [Graj po szkole](http://grajposzkole.pl)
@@ -299,6 +301,19 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Duolingo](https://www.duolingo.com) - Practically everyone knows this wonderful service, which mascot is a green bird named Duo (just be careful and do regular lessons so he doesn't get upset, it's very important, don't forget about your course, hehe). A Polish language course for English speakers is supported there (US, but people who know the UK version and others will understand as well). I have rewritten every English language course out of curiosity, but I mainly learn Japanese and Czech there ([My profile](https://www.duolingo.com/profile/TheDomcio) and If you want me to give me Duolingo Plus for free - every real registration is an + 7 days for free, if i good remember, in this case you can register from [this link](https://invite.duolingo.com/BDHTZTB5CWWKSTFKMXIFBF4Q7Y). The plus version removes ads from the site, and on the mobile version it allows you to download courses and do lessons offline [and more](https://support.duolingo.com/hc/pl/articles/115004068043-Czym-jest-Duolingo-Plus-). But I will honestly say that for now I have a break and I don't use the service now, but "I'll be back!", so it's mainly good for you, if you want to have me in your follows after registration, of course you can follow me also if you already have account). I used to be in the top league in the ranking, but now I've fallen by the lack of activity. 
 - [Quizlet](https://quizlet.com/subject/polish) - something like [Anki](https://apps.ankiweb.net), but online and much more, so it's worth checking it out.
 - [Quzizz](https://quizizz.com/admin/search/J%C4%99zyk%20polski) - A page with quizzes. There are a lot of quizzes created by teachers for their [mostly youngs[ students, so it's a good option to repeat different things for example from the basics of grammar and so on.
+
+## Culinary (Kulinaria)
+
+- [Jadłonomia ](https://www.jadlonomia.com)- A very cool website with "vegan recipes not only for vegans" (don't be afraid, I am a vegetarian myself, but I don't want to force convert you to vegetarianism, but often thanks to the dishes associated with this diet - vegan and vegetarian,  you can discover a lot of new taste sensations).
+- [Olga Smile](https://www.olgasmile.com) - Very interesting culinary blog. Here you will find dishes from various diets, for carnivores, vegetarians, vegans and gluten-free for people with coeliac disease ((Or for people who just don't like gluten).
+- [Kocham Gotować](https://www.youtube.com/user/paei100) - One of the first most popular YouTube channels about cooking in Poland. He is very famous for its welcome: "Siemanko! Witam w mojej kuchni" and also from showing how to recreate a very well-known product at home, e.g. fries from a well-known fast food restaurant etc.  then it is worth to check out his older videos.
+- [Uwaga Babcia Gotuje](https://www.youtube.com/user/vezyr1) - YouTube channel, where the titular grandmother cooks. In Poland the so-called "grandma cuisine" is very respected,
+- [Robert Makłowicz](https://www.youtube.com/channel/UCCT_JGIn9I9FS6OTzzqWEew) - The official YouTube channel of the very famous Polish chef Robert Makłowicz, also known as ["Bezwzględny Gonzales"](https://www.youtube.com/watch?v=4zdWTljIa_4) (hehe). His program was aired on TV and was very popular. He probably likes [bathing in cold water very much](https://www.youtube.com/watch?v=iBzO80bWivo).
+- [Moje Wypieki](https://www.mojewypieki.com) - "the sweetest recipe blog on the web". If you love sweet and beautiful looking cakes, then the recipes from this site can be very useful for you.
+- [Whiteplate](http://whiteplate.com) - An interesting page where you can find a lot of recipes for baking rolls and bread. If you are a baker, it is worth to be inspired by such baked goods to make yourself better and better, because good bread is never bad.
+- [Kuchnia Kwasiora KK](https://www.youtube.com/user/KuchniaKwasiora) - You can find a lot of different recipes here. For example, a guide to making [zakwas buraczany](https://www.youtube.com/watch?v=rchyBgBaNG4) (very useful for people who, like me, do not drink alcohol, but are actors and would like to play a scene of drinking ancient wine).
+- [IleWazy.pl](http://www.ilewazy.pl) -  A large base of products and their calorific value, fat, protein, etc. There is no need to be paranoid, but if you exercise, for example, it is worth knowing how much any food contains protein.
+- [Czytamy Etykiety](https://czytamyetykiety.pl) - website with analysis of food labels. There are also food rankings, so if you live in Poland (and not only because there are a lot of products in Poland, which are also abroad, it sometimes happens that the composition is different, of course), and you try to eat valuable and relatively healthy food, it may come in handy. Of course, there are also descriptions of the ingredients from which food is made, e.g. [here is about high-fructose corn syrup](https://pl.wikipedia.org/wiki/Syrop_glukozowo-fruktozowy).
 
 ## News and similar (Wiadomości i podobne)
 
@@ -376,6 +391,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 
 - [/r/learnpolish](https://www.reddit.com/r/learnpolish) - Very nice subreddit about learning Polish. If you have any questions, doubts or interesting information about things related to the Polish language, feel free to write there. Poland is generally a nation willing to help others, there is a huge hospitality culture here since the beginning of the country, so for over 1000 years. In every society, there are stupid, silly and fanatic people, and Poland is no exception, so we should not generalize, because we have a lot of intelligent, nice and tolerant people here. Poland often lost out on such an attitude, because for other countries, as it be in Politics, only interests mattered.
 - [Learn Polish Discord Server](https://discord.gg/4U7Akj6) - A Discord server related to [/r/learnpolish](https://www.reddit.com/r/learnpolish).
+- [HiNative](https://hinative.com/pl) - A multilingual platform for asking and answering questions (Q&A). Here you can ask questions about Poland and Polish language issues.
 - [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
 - [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
 - [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solusions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? 
@@ -384,9 +400,10 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
 - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
 
-## My nice tips
+## My nice tips (Moje świetne wskazówki)
 
 - In Polish, there is such a thing that some sentences can be shortened. For example, instead of saying: "Jesteś mądry" [masculinum -y] or "Jesteś mądra" [femininum -a] (You are smart), you can tell: "Mądryś"  or "Mądraś" (Yes, -**ś** from jeste**ś**) or "Jesteś odważny" or "Jesteś odważna" (You are brave) = "Odważnyś" or "Odważnaś" or "Jesteś miły" or "Jesteś miła" (You are nice) = "Miłyś" or "Miłaś". If you want to become a knight or lady, it may come in handy to you, because it sounds a bit archaic, but I always remember that it's a cool thing, so I created this category to share such cool things with you.
+- The word "spoko" (comes from the word: "**spoko**jnie" - calmly) is a very useful and universal word. You can use it instead of "Nie ma za co" (You're welcome) and also "Nie ma problemu" (No problem), so when, for example, a neighbor apologizes to you that a his piano fell out of his window into your garden, you can tell him: "Spoko". You can say that you like something, e.g. "Ten film jest spoko" ("This movie is cool"). It is from many years a very popular word, so even the older ones will understand. Of course, it can be used to, for example, soothe someone nervous - "Spoko, wszystko będzie w porządku" (Chill, everything will be fine). Or you can confirm something with this word e.g. someone asks you if you want to go to the cinema, then if you want to, you say "Spoko" ("Yes" in this case). So, if you are afraid to use the word "w porządku" and you still use "**ok**ay/okey(/okej)", then "spoko" can be a cool alternative for you. Of course it's a slang word, so if you use it during a "serious conversation", someone might get the impression that you're a "relaxed kind of human", although that's good, because at least they will know you're an honest man.
 
 ## Others (Inne)
 
@@ -434,4 +451,4 @@ If you want to support the project, just send people in need a link to this list
 
 ## Lorem ipsum
 
-Lorem ipsum and nothing more.
+Lorem ipsum. <font size="1">To jest taka ciekawostka. Nie chciałem, żeby w dniu publikacji ostatnią kategorią była "pechowa trzynasta kategoria", więc dodałem tę - wtedy jako czternastą. Oczywiście to takie nawiązanie do polskich zabobonów, może też i jakiś czarny kot się tutaj kiedyś pojawi </font>
