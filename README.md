@@ -386,7 +386,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 
 ## My nice tips
 
-- In Polish, there is such a thing that some sentences can be shortened. For example, instead of saying: "Jesteś mądry" (You are smart), you can tell: "Mądryś" (Yes, -**ś** from jeste**ś**) or "Jesteś odważny" (You are brave) - "Odważnyś" or "Jesteś miły" (You are nice) - "Miłyś". If you want to become a knight, it may come in handy to you, because it sounds a bit archaic, but I always remember that it's a cool thing, so I created this category to share such cool things with you.
+- In Polish, there is such a thing that some sentences can be shortened. For example, instead of saying: "Jesteś mądry" [masculinum -y] or "Jesteś mądra" [femininum -a] (You are smart), you can tell: "Mądryś"  or "Mądraś" (Yes, -**ś** from jeste**ś**) or "Jesteś odważny" or "Jesteś odważna" (You are brave) = "Odważnyś" or "Odważnaś" or "Jesteś miły" or "Jesteś miła" (You are nice) = "Miłyś" or "Miłaś". If you want to become a knight or lady, it may come in handy to you, because it sounds a bit archaic, but I always remember that it's a cool thing, so I created this category to share such cool things with you.
 
 ## Others (Inne)
 
