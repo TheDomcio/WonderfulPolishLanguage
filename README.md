@@ -273,7 +273,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 
 ### Browser games (Gry przeglądarkowe)
 
-- [Kurnik.pl](https://www.kurnik.pl) - A site with a large number of games for many players such as chess, checkers and "Mensch ärgere Dich nicht" - "Man, Don't Get Angry", which is called "[Chińczyk](https://pl.wikipedia.org/wiki/Chi%C5%84czyk_(gra_planszowa))" in Polish (This game is practically identical to ["Ludo"](https://en.wikipedia.org/wiki/Ludo_(board_game), [but it is not the same](https://en.wikipedia.org/wiki/Ludo_(board_game)#Similar_German_game)) and the site itself has a lot of active players, so you don't have to wait alone in the lobby for a long time.
+- [Kurnik.pl](https://www.kurnik.pl) - A site with a large number of games for many players such as chess, checkers and "Mensch ärgere Dich nicht" - "Man, Don't Get Angry", which is called "[Chińczyk](https://pl.wikipedia.org/wiki/Chi%C5%84czyk_(gra_planszowa))" in Polish (This game is practically identical to ["Ludo"](https://en.wikipedia.org/wiki/Ludo_(board_game)), [but it is not the same](https://en.wikipedia.org/wiki/Ludo_(board_game)#Similar_German_game) and the site itself has a lot of active players, so you don't have to wait alone in the lobby for a long time.
 - [Wyspa gier](https://www.wyspagier.pl) - Legendary game site, one of the big "parts of their childhood" for many people.
 - [Gry.pl](https://www.gry.pl)
 - [Gry Jeja](https://gry.jeja.pl)
