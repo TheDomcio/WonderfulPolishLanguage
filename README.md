@@ -13,7 +13,6 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 0. [Contents (Spis treści)](#contents-spis-treści)
 
 1. [Texts (Teksty)](#texts-teksty)
-
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
@@ -23,7 +22,6 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Culinary recipes (Przepisy kulinarne)](#culinary-recipes-przepisy-kulinarne)
 
 2. [Videos (Filmy)](#videos-filmy)
-
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
    - [YouTube](#youtube)
    - [VOD](#vod)
@@ -32,7 +30,6 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
    - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
 
 3. [Audio](#audio)
-
    - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-teksty-piosenek-nuty-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke](#karaoke)
@@ -46,7 +43,6 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 6. [Services (Serwisy)](#services-serwisy)
 
 7. [News and similar (Wiadomości i podobne)](#news-and-similar-wiadomości-i-podobne)
-
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
 
@@ -397,6 +393,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
 - [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solusions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? 
 - [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
+- [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
 - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
 - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
 
