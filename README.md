@@ -47,26 +47,27 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
 13. [Contact (Kontakt)](#contact-kontakt)
 14. [Support (Wsparcie)](#support-wsparcie)
-15. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
-16. [Lorem ipsum](#lorem-ipsum)
+15. [Acknowledgements](#acknowledgements-podziękowania)
+16. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
+17. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
 
 ### Free books (Darmowe książki)
 
 - [Wolne Lektury (Free readings)](https://wolnelektury.pl) - A great source of ebooks and audiobooks and much more. The website interface supports many languages. 
-  [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school reading, which are sorted by school grade. The source of books for this site is the above website.
+  [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
 - [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A good source with a lot of literary texts.
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Free Readings](https://wolnelektury.pl), also contains a lot of books.
 - Fantasy:
-  - [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written stories about fantasy.
-  - [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - A large number of very qualitative anthologies. Covers are also very nicely.
+  - [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories.
+  - [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - A large number of very qualitative anthologies. Covers are also very nice.
   - [Creatio Fantastica](https://creatiofantastica.com/archiwum/) - A free "scientific literary" magazine. It is worth checking.
   - [Smokopolitan](https://smokopolitan.pl) - Next great magazine. There are dragons everywhere, waiting to be blown away by a fire composed of cool articles.
   - [Silmaris](https://silmaris.pl) - Another good online magazine about fantasy and science fiction.
-- [Polona](https://polona.pl) - Here you can find many archival materials scanned in very good quality. It is a very good source for learning history and experiencing the change of language over time.
+- [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time.
 - [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - A website very similar to [Polona](https://fbc.pionier.net.pl). 
-- [Project Gutenberg](https://www.gutenberg.org/browse/languages/pl) - A worldwide project for the distribution of books for free, there are also books covered by copyright, but with the permission of those who have these rights. There may be a problem with some countries when it comes to access issues related to this project, for example: you can't visit it in Germany or with Germany IP because it is against German law - [Explanation](https://cand.pglaf.org/germany/index.html) 
+- [Project Gutenberg](https://www.gutenberg.org/browse/languages/pl) - A worldwide project for the distribution of books for free, there are also books protected by copyright, but added with owner's permission. Some countries [maybe] do not have access to this website, for example: you can't visit it in Germany or with Germany IP because it is against German law - [Explanation](https://cand.pglaf.org/germany/index.html) 
 - [Open Library](https://openlibrary.org/subjects/polish_literature) - The Internet Archive's Open Library - index of available books from [Internet Archive (archive.org)](https://archive.org/).
   - [About copyright violation accusations](https://en.wikipedia.org/wiki/Open_Library#Copyright_violation_accusations)
 - [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above.
@@ -85,45 +86,46 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 - [Publio](http://www.publio.pl/darmowe.html)
 - [Świat ebooków](https://www.swiatebookow.pl/darmowe-ebooki)
 - [Helion](https://helion.pl/kategorie/darmowe)
-- [Legimi](https://www.legimi.pl/ebooki/darmowe) - The website also runs a subscription service, if you click on a product from the free list, there will be an second option (with #ebookretail in URL) to "buy" it for 0.00 ZŁ (PLN), the first option is a free trial of subscription for 14 days.
+- [Legimi](https://www.legimi.pl/ebooki/darmowe) - The website also runs a subscription service, if you click on a product from the free list, there will appear a second option (with #ebookretail in URL) to "buy" it for 0.00 ZŁ (PLN), a free, 14 days long subscription trial.
 - [Virtualo](https://virtualo.pl/ebooki/?price=1)
 - [Nexto](https://www.nexto.pl/darmowe.xml)
 - [Świat czytników - Index of some free books](https://ebooki.swiatczytnikow.pl/temat/darmowe) and [special category on website for free books](https://swiatczytnikow.pl/tematy/za-darmo).
 
 ### The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)
 
-Currently in Poland the most popular translation of the Bible into Polish is the "Biblia Tysiąclecia".
+Currently the most popular polish translation of the Bible is "Biblia Tysiąclecia".
 
-- [Biblia Audio](https://bibliaaudio.pl/wideoaudio) - A great project of the recording studio "SUPERPRODUCTION", where you can hear audio books of Old Testament and New Testament with the voices of popular Polish actors and also with great sound effects.
+- [Biblia Audio](https://bibliaaudio.pl/wideoaudio) - A great project made by the "SUPERPRODUCTION" recording studio, where you can hear audio books of Old Testament and New Testament with the voices of popular Polish actors and also with great sound effects.
 - [Biblia MP3](https://www.biblia-mp3.pl/) - The "Ancient" version of the Biblia Audio project.
-- [Biblia info](https://www.biblia.info.pl/biblia.html) - A website where you can read the Bible in many translations into Polish. The Latin translation "Vulgata" and the Greek translation "Septuaginta" are also available.
+- [Biblia info](https://www.biblia.info.pl/biblia.html) - A website where you can read many Polish translations of the Bible. The Latin translation "Vulgata" and the Greek translation "Septuaginta" are also available.
 - [Biblia online](http://biblia-online.pl/Porownaj/Wersety) - A page similar to the above, you can compare verses on it in a very cool way.
-- [Biblia - Edycja św. Pawła (Biblia Paulistów)](http://www.verbumregis.pl/#/reading) - One of the recently created Polish Bible translations. Translation was prepared by her enthusiasts, with the help of Polish Paulists (Towarzystwo Świętego Pawła).
-- [Biblia w przekładzie Jakuba Wujka (The Wujek Bible)](http://www.madel.jezuici.pl/biblia/Biblia-Wujka-C.pdf) - This is a translation of the Bible made Polish Jesuit Jakub Wujek in 1599.
+- [Biblia - Edycja św. Pawła (Biblia Paulistów)](http://www.verbumregis.pl/#/reading) - One of the recently created Polish Bible translation. Translation was made by her enthusiasts, with the help of Polish Paulists (Towarzystwo Świętego Pawła).
+- [Biblia w przekładzie Jakuba Wujka (The Wujek Bible)](http://www.madel.jezuici.pl/biblia/Biblia-Wujka-C.pdf) - This is a translation of the Bible made by Polish Jesuit Jakub Wujek in 1599.
 - [Uwspółcześniona Biblia Gdańska (2017)](https://www.jezus.pl/czytelnia/biblia-bezplatny-ebook) - Here you can download [Uwspółcześniona Biblia Gdańska (2017)](https://pl.wikipedia.org/wiki/Uwsp%C3%B3%C5%82cze%C5%9Bniona_Biblia_gda%C5%84ska) in [.epub](https://www.jezus.pl/uploads/1/3/4/6/13469490/plbga-st-nt-basic-v1_4.epub) and [.mobi](https://www.jezus.pl/uploads/1/3/4/6/13469490/plbga-st-nt-basic-v1_4.mobi).
 - [Biblia Jerozolimska](https://kazimierz.archibial.pl/docs/biblia_jerozolimska.pdf) - Polish version of La Bible de Jérusalem.
 
 ### Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)
 
-- [Lubimyczytać](https://lubimyczytac.pl) - Probably the most active Polish online virtual bookcase and book index. Very useful when we want to save what we have read. You can review books yourself or read other reviews, check ranking and more ([My profile](https://lubimyczytac.pl/profil/2053278/domcio)). 
+- [Lubimyczytać](https://lubimyczytac.pl) - Probably the most active Polish online virtual bookcase and book index. Very useful when we want to save what we have read. You can read reviews of others yourself or read other reviews, check ranking and more ([My profile](https://lubimyczytac.pl/profil/2053278/domcio)). 
 - [Biblionetka](https://www.biblionetka.pl) - good alternative and very similar to [Lubimyczytać](https://lubimyczytac.pl).
-- [w.bibliotece.pl](https://w.bibliotece.pl) - Having less social functions, more old-school, but still cool.
+- [w.bibliotece.pl](https://w.bibliotece.pl) - Has less social functions, more old-school, but still cool.
 
 ### Dictionaries and etc. (Słowniki itp.)
 
-- [Słownik języka polskiego](https://sjp.pl) - very good dictionary of Polish language, contains a lot of definitions.
-- [Wielki słownik języka polskiego](https://www.wsjp.pl) - a great dictionary of Polish language, also contains a lot of definitions.
+- [Słownik języka polskiego](https://sjp.pl) - very good Polish dictionary, contains a lot of definitions.
+- [Wielki słownik języka polskiego](https://www.wsjp.pl) - a [great - huge] Polish dictionary, also contains a lot of definitions. It  contains conigencies, different varieties, phraseologies, etc.
 - [Słownik języka polskiego PWN](https://sjp.pwn.pl) - Another noteworthy dictionary, which also contains interesting features, such as [Puzzle](https://sjp.pwn.pl/puzzle), where you can test your knowledge of words and have some fun.
-- [Wikisłownik](https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna) - Polish version of the [Wiktionary](https://www.wiktionary.org).  This allows you to immediately compare a given word with its translations in other languages, and you are also able to see what synonyms, anonyms, etymologies etc. have.
-- [Korpusowy Polskiego Słownik Języka Migowego](https://www.slownikpjm.uw.edu.pl/page/opjm) - Polish Sign Language Dictionary. If you are a deaf person or want to communicate with such a person, this is something for you.
-- [Słownik slangu oraz mowy potocznej](https://www.miejski.pl) - A dictionary of slang and colloquial speech - street speech - if you want to become heads of some secret city organizations, this will surely be useful.
+- [Wikisłownik](https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna) - Polish version of the [Wiktionary](https://www.wiktionary.org).  This allows you to immediately compare a given word with its translations in other languages, and you are also able to see what synonyms, anonyms, etymologies etc. it has.
+- [Korpusowy Polskiego Słownik Języka Migowego](https://www.slownikpjm.uw.edu.pl/page/opjm) - Polish Sign Language Dictionary. If you are a deaf person or want to communicate with such, this is something for you. (Some people might consider deaf to be a politically incorrect term but it's actually not - [that's what community itself calls themselves](https://www.nad.org/resources/american-sign-language/community-and-culture-frequently-asked-questions) and [polish explanation of use](https://sjp.pwn.pl/poradnia/haslo/glusi-i-gluchoniemi;3424.html))
+- [Słownik slangu oraz mowy potocznej](https://www.miejski.pl) - A dictionary of slang and colloquial speech - street speech - If you would like to become head of many city secret organizations, this will surely be useful.
 - [Synonim.NET](https://synonim.net) - Online dictionary of Polish language synonyms.
 - [Synonimy.pl](https://www.synonimy.pl) - similar to above.
 - [Zakończone.pl](https://www.zakonczone.pl) - On this page you can check the words with the selected ending. For example:  [-ówka](https://www.zakonczone.pl/na/%C3%B3wka).
-- [Stopniowanie.net](http://stopniowanie.net) - Graduation of adjectives and adverbs.
-- [Reverso Context]([https://context.reverso.net/t%C5%82umaczenie/](https://context.reverso.net/tłumaczenie/)) - A Polish version of very useful multilingual website where you can understand the meaning of a word, through sentences - contexts of use.
-- [Language Tool](https://languagetool.org) - Great multilingual spell and grammar checker. Useful if you are still not very good at using the comma character in Polish, or you are not sure if you need it in this case, then it may be helpful (it is not perfect, sometimes you may find the comma needed unnecessary). 
-- [Youglish](https://youglish.com/polish) - genial website for improving pronunciation and more. As the authors write, there are millions of entries with tracks in the index, after entering a word that interests us, the search engine will try to find a movie on YouTube from their subtitles - someone's speech, in which the word you have chosen. [Word "pingwin" for example]([https://youglish.com/pronounce/pingwin/polish?)).
+- [Stopniowanie.net](http://stopniowanie.net) - Gradation of adjectives and adverbs.
+- [Reverso Context]([https://context.reverso.net/t%C5%82umaczenie/](https://context.reverso.net/tłumaczenie/)) - A Polish version of a very useful multilingual website where you can look up translations in context of words, groups of words and idioms.
+- [Linguee](https://www.linguee.com) - A good alternative to the above page. It is related to [DeepL](https://www.deepl.com/translator) - it comes from the same authors.
+- [Language Tool](https://languagetool.org) - Great multilingual spelling and grammar checker. Useful if you are still not very good at using the comma character in Polish, but it is not perfect, sometimes it may find the necessary comma unnecessary and vice versa (also, this tool does not always handle dialects and archaisms well).
+- [Youglish](https://youglish.com/polish) - really smart website for improving pronunciation and more. As the authors write, there are millions of entries with tracks in the index, after entering a word that interests us, the search engine will try to find a movie on YouTube from their subtitles - someone's speech, in which the word you have chosen. [Word "pingwin" for example]([https://youglish.com/pronounce/pingwin/polish?)).
 - [Encyklopedia PWN](https://encyklopedia.pwn.pl) - Nice encyclopedia.
 - [Diki](https://www.diki.pl) - Very nice English-Polish dictionary. Often there are also pictures of nouns.
 - [Słownik polszczyzny XVI wieku](https://spxvi.edu.pl) - A dictionary of Polish language from XVI century. If somebody wants to sound like a great nobleman, then thanks to knowing these words will be closer to achieving this.
@@ -168,6 +170,7 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [LEARN POLISH WITH DAREK](https://www.youtube.com/channel/UCkyows0QsBOlvEQz4m3yGvg) - Another [also paused :/] interesting channel about Polish. Very cool option for people who want to learn words while listening, because there are a lot of such materials. 
 - [PolishPod101](https://www.youtube.com/user/PolishPod101) - Very active and professional channel. There is a huge number of films and 24/7 live streaming for learning. 
 - [Grupa Filmowa Darwin (G.F. Darwin)](https://www.youtube.com/channel/UCkPjHTuNd_ycm__29dXM3Nw) - A film group making really great films. With its latest films it refers to the problems affecting today's [especially Polish] society. The main popularity of this YouTube channel has been brought by films from the "Wielkie Konflikty" series, as well as a parody of the song "Will You Be There" by Micheal Jackson entitled ["Orki z Majorki"](https://www.youtube.com/watch?v=YZuFsI-bttM) (About [oceanic] orcas (killer whale) from Mallorca).
+- [Klocuch](https://www.youtube.com/user/KlocuchRecenzje) - [Mr Cuch's](https://www.youtube.com/watch?v=sS3xkUyqyUQ) YouTube channel. This is one of the legends of Polish YouTube, which shares its opinions on various topics in a very unconventional way, and you should not take things that he says personally, because all these words are said in a joke or some philosophical aspect (he often refers to things related to the childhood of many Poles). I also add it here because he speaks a very diverse language - he uses words from many dialects and loan words (a lot of German origin).
 - [Historia bez cenzury](https://www.youtube.com/user/HistoriaBezCenzuryMB) - The historical channel, where the main anchorman - Wojciech Drewniak presents history in a cool, eccentric and humorous way. There is also an [English version](https://www.youtube.com/channel/UCd51P-3L-OiG-L4NH36ArAA/videos), but after three films this project has been stopped.
 - [Mówiąc Inaczej](https://www.youtube.com/user/PamikuPL) - great and very popular YouTube channel about "How to speak Polish correctly".
 - [Arlena Witt](https://www.youtube.com/user/jezykalnia) - A channel to learn English, but of course you can also use a magic trick and learn Polish from it.
@@ -307,7 +310,8 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 - [Jadłonomia ](https://www.jadlonomia.com)- A very cool website with "vegan recipes not only for vegans" (don't be afraid, I am a vegetarian myself, but I don't want to force convert you to vegetarianism, but often thanks to the dishes associated with this diet - vegan and vegetarian,  you can discover a lot of new taste sensations).
 - [Olga Smile](https://www.olgasmile.com) - Very interesting culinary blog. Here you will find dishes from various diets, for carnivores, vegetarians, vegans and gluten-free for people with coeliac disease ((Or for people who just don't like gluten).
 - [Kocham Gotować](https://www.youtube.com/user/paei100) - One of the first most popular YouTube channels about cooking in Poland. He is very famous for its welcome: "Siemanko! Witam w mojej kuchni" and also from showing how to recreate a very well-known product at home, e.g. fries from a well-known fast food restaurant etc.  then it is worth to check out his older videos.
-- [Uwaga Babcia Gotuje](https://www.youtube.com/user/vezyr1) - YouTube channel, where the titular grandmother cooks. In Poland the so-called "grandma cuisine" is very respected,
+- [Uwaga Babcia Gotuje](https://www.youtube.com/user/vezyr1) - YouTube channel, where the titular grandmother cooks. In Poland the so-called "grandma cuisine" is very respected.
+- [Ola Nguyen][https://www.youtube.com/channel/UCsyGJvqktkRbt39u0OjrsVA] - An interesting culinary channel. She - cook person won one of the [Polish MasterChef editions](https://pl.wikipedia.org/wiki/MasterChef_Polska). Recently, for example, she has shown how to cook some well-known dishes for cartoons and animated movies ([Ratatuille from Disney's Ratatuille](https://www.youtube.com/watch?v=Vf0MkUYpV1k)).
 - [Robert Makłowicz](https://www.youtube.com/channel/UCCT_JGIn9I9FS6OTzzqWEew) - The official YouTube channel of the very famous Polish chef Robert Makłowicz, also known as ["Bezwzględny Gonzales"](https://www.youtube.com/watch?v=4zdWTljIa_4) (hehe). His program was aired on TV and was very popular. He probably likes [bathing in cold water very much](https://www.youtube.com/watch?v=iBzO80bWivo).
 - [Moje Wypieki](https://www.mojewypieki.com) - "the sweetest recipe blog on the web". If you love sweet and beautiful looking cakes, then the recipes from this site can be very useful for you.
 - [Whiteplate](http://whiteplate.com) - An interesting page where you can find a lot of recipes for baking rolls and bread. If you are a baker, it is worth to be inspired by such baked goods to make yourself better and better, because good bread is never bad.
@@ -444,6 +448,14 @@ Currently in Poland the most popular translation of the Bible into Polish is the
 ## Support (Wsparcie)
 
 If you want to support the project, just send people in need a link to this list, surely many people will be happy and the popularity of the project will increase. I also hope that you will help me improve - expand this list. The Internet is huge, so I'm sure I overlooked something. Pingwin Mroźny will be happy if you don't forget him (If you would like to create subtitles for an episode with Pingwin Mroźny, let me know, I will gladly add them if they are in good quality).
+
+## Acknowledgements (Podziękowania)
+
+Thank you **Mother Nature** for the bees honey.
+
+Thank you **Polish education system** for the fact that I did not have to buy tickets for the circus so often, because I had it at my fingertips.
+
+Thank you **szew** for helping with grammar proofreading [of this list] and for suggestions for extending the list with various elements. (She also helped with chasing away unnecessary butterflies - pleonasms and etc.).
 
 ## My others projects here (Moje inne tutejsze projekty)
 
