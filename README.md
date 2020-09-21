@@ -35,7 +35,8 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
 6. [Services (Serwisy)](#services-serwisy)
 7. [Culinary (Kulinaria)](#culinary-kulinaria)
-8. [News and similar (Wiadomości i podobne)](#news-and-similar-wiadomości-i-podobne)
+   - [Recipes for holidays and festivities (Przepisy na święta i uroczystości)](#recipes-for-holidays-and-festivities-przepisy-na-święta-i-uroczystości)
+8. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
 9. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
@@ -57,19 +58,34 @@ Hello, I am Dominik 'Domcio' Karol [Wolfgang] (From the Catholic Sacrament Of Co
 
 - [Wolne Lektury (Free readings)](https://wolnelektury.pl) - A great source of ebooks and audiobooks and much more. The website interface supports many languages. 
   [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
+
 - [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A good source with a lot of literary texts.
+
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Free Readings](https://wolnelektury.pl), also contains a lot of books.
+
 - Fantasy:
+
   - [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories.
   - [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - A large number of very qualitative anthologies. Covers are also very nice.
   - [Creatio Fantastica](https://creatiofantastica.com/archiwum/) - A free "scientific literary" magazine. It is worth checking.
   - [Smokopolitan](https://smokopolitan.pl) - Next great magazine. There are dragons everywhere, waiting to be blown away by a fire composed of cool articles.
   - [Silmaris](https://silmaris.pl) - Another good online magazine about fantasy and science fiction.
-- [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time.
+
+- [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time (I will try to add interesting books In other categories from there, e.g. I have already added some [here](#recipes-for-holidays-and-festivities-prescriptions-and-holidays-and-festivities-and-festivalry)).
+
+  - [Nowe baśnie z 1001 nocy](https://polona.pl/item/nowe-basnie-z-1001-nocy,Njc3NjUyMzc) - A very shortened version of the ["One Thousand and One Nights"]([https://pl.wikipedia.org/wiki/Ksi%C4%99ga_tysi%C4%85ca_i_jednej_nocy](https://pl.wikipedia.org/wiki/Księga_tysiąca_i_jednej_nocy)) in which some of the most famous stories are presented. The book is also [available at Wikisource](https://pl.wikisource.org/wiki/Nowe_ba%C5%9Bnie_z_1001_nocy).
+
+  -  [O takim, co rozumiał, jak dźwirzęta gwarzom (O takim, co rozumiał, co zwierzęta mówią - About a man who understood animal speech)](https://polona.pl/item/o-takim-co-rozumial-jak-dzwirzeta-gwarzom-bajka,NzI1NTMxNjU/) - An old Polish fairy tale written in countryside village dialect [from Województwo świętokrzyskie]([https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie](https://pl.wikipedia.org/wiki/Województwo_świętokrzyskie)) (Author was born in [Nietulisko Duże]([https://pl.wikipedia.org/wiki/Nietulisko_Du%C5%BCe](https://pl.wikipedia.org/wiki/Nietulisko_Duże))) over a hundred years ago ([More works by this author](https://polona.pl/search/?filters=public:1,creator:%22Piotrowski,_Antoni_(1853--1924)%22)). It is such an interesting thing, for people who want to learn dialects (Sometimes they are very funny, because the sometimes words used in them are vulgar in the common use - common language).
+  - [Polish magazines published in Polish (You can also choose other languages in the filters, I set up Polish for this)](https://polona.pl/search/?filters=language:polski,category:serials,public:1,hasTextContent:0) - A public mine of historical information, you can read here a lot of articles from the pre-war period and more.
+
 - [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - A website very similar to [Polona](https://fbc.pionier.net.pl). 
+
 - [Project Gutenberg](https://www.gutenberg.org/browse/languages/pl) - A worldwide project for the distribution of books for free, there are also books protected by copyright, but added with owner's permission. Some countries [maybe] do not have access to this website, for example: you can't visit it in Germany or with Germany IP because it is against German law - [Explanation](https://cand.pglaf.org/germany/index.html) 
+
 - [Open Library](https://openlibrary.org/subjects/polish_literature) - The Internet Archive's Open Library - index of available books from [Internet Archive (archive.org)](https://archive.org/).
+
   - [About copyright violation accusations](https://en.wikipedia.org/wiki/Open_Library#Copyright_violation_accusations)
+
 - [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above.
 
 ### Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)
@@ -146,15 +162,15 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 - [POLSKA KRONIKA FILMOWA (PKF)](https://www.youtube.com/user/PolskaKronikaFilmowa) - The official YouTube channel of the Polish Film Chronicle, which was actively created between 1944-1994, so mainly from the times of the Polish People's Republic, but also before and after that period.
 - [Adapter](https://adapter.pl) - A large collection of films available for free and legally and they are friendly for disabled persons - sign language presenters and audio description and simplified subtitles are available.
 - [Repozytorium Cyfrowe Filmoteki](http://www.repozytorium.fn.org.pl/?q=pl) - digital repository of the national film library. You can find a lot of archival productions in it.
-- [Łódzkie Archiwum Filmowe](https://etiudy.filmschool.lodz.pl) - archive of films from the Łódz Film School.
-- [Arte](https://www.arte.tv/pl) - polish version of european cultural television.
+- [Łódzkie Archiwum Filmowe](https://etiudy.filmschool.lodz.pl) - archive of films from the Łódź Film School.
+- [Arte](https://www.arte.tv/pl) - polish version of European cultural television.
 - [Dokument Cyfrowo](http://www.dokumentcyfrowo.pl) - Archive of Polish reconstructed films. Another really good source of renovated old productions.
 - [SALA KINOWA](https://www.youtube.com/user/SalaKinowa) - Several films available for free.
 - [Filmoteka - Muzeum Sztuki Nowoczesnej w Warszawie](http://artmuseum.pl/pl/filmoteka) - Film archive of the Museum of Modern Art in Warsaw. **Maybe** you will find here some movies about dancing and singing rice pasta.
 
 ### Pingwin Mroźny
 
-[Pingwin Mroźny (Penguin Frosty)](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN&index=2) - This is a character created by me (Pingwin - first name and Mroźny - surname). The mascot of my main channel and artistic activity. I created a whole Universe around him. Each "typical" episode is intended to introduce the viewer to some kind of profession (the core of the Penguin's movements themselves refers to the film [Wonsz żeczny (humorous record of correct form "wąż rzeczny")](https://www.youtube.com/watch?v=aVPj0phGjyU), which is still present in Poland or was present in the old times - "extinct professions" and sometimes there were references to historical characters, I also invented some of my own professions. Here is [guide](https://www.youtube.com/watch?v=_HyAuXibszs), in which I described "how to get to know this universe so as not to get lost in it", i.e. I presented the chronology, because I created a lot of films, as well as a [short] [computer game](https://gamejolt.com/games/pingwinmroznypoczatek/343963) and [also] a [short story](https://www.wattpad.com/594393714), so the viewer could get lost in my universe without it. A lot of people will ask "Why?", at that time my head was like a locomotive from which the steam flew all the time, so I wanted to find my way to "express myself artistically" and eventually I did it in this form, but I tried very hard, so these are not the kind of films you would think if you look at them out of context. I also started to promote this kind of "pseudo-animation", which I personally called "dead animation". In other film forms, a revolution began to take place, just like in Antic Theater - more [voice] actors (synthesizer voices) began to arrive. I am most pleased with the series ["Przygody Pingwinbada Żeglarza"](https://www.youtube.com/watch?v=DUnP-kDL284&list=PL2yH5_nRkFqxtW04-v-yDyB7QUD__oAmn) (The name refers to:  ["Przygody Sindbada Żeglarza" by Bolesław Leśmianan]([https://pl.wikipedia.org/wiki/Przygody_Sindbada_%C5%BBeglarza](https://pl.wikipedia.org/wiki/Przygody_Sindbada_Żeglarza)) and it's wordplay) ["Pingwinia Komedia"](https://www.youtube.com/watch?v=DUnP-kDL284&list=PL2yH5_nRkFqxtW04-v-yDyB7QUD__oAmn) (The name refers to: "Boska Komedia" - Polish translation of "Divine Comedy" by Dante Alighieri). and from [the first episode of the "Danse Pingvinabre"](https://www.youtube.com/watch?v=O15T5evhnQk) (The name refers to the medieval Danse Macabre) series. I wanted to include this long description (and I created a separate subcategory) in this list as "the main reward of my work", because I want to leave some remembrance and awareness in people to remember my works and also to open the door to potential cooperation and job. 
+[Pingwin Mroźny (Penguin Frosty)](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN&index=2) - This is a character created by me (Pingwin - first name and Mroźny - surname). The mascot of my main channel and artistic activity. I created a whole Universe around him. Each "typical" episode is intended to introduce the viewer to some kind of profession (the core of the Penguin's movements themselves refers to the film [Wonsz żeczny (humorous record of correct form "wąż rzeczny")](https://www.youtube.com/watch?v=aVPj0phGjyU), which is still present in Poland or was present in the old times - "extinct professions" and sometimes there were references to historical characters, I also invented some of my own professions. Here is [guide](https://www.youtube.com/watch?v=_HyAuXibszs), in which I described "how to get to know this universe so as not to get lost in it", i.e. I presented the chronology, because I created a lot of films, as well as a [short] [computer game](https://gamejolt.com/games/pingwinmroznypoczatek/343963) and [also] a [short story](https://www.wattpad.com/594393714), so the viewer could get lost in my universe without it. A lot of people will ask "Why?", at that time my head was like a locomotive from which the steam flew all the time, so I wanted to find my way to "express myself artistically" and eventually I did it in this form, but I tried very hard, so these are not the kind of films you would think if you look at them out of context. I also started to promote this kind of "pseudo-animation", which I personally called "dead animation". In other film forms, a revolution began to take place, just like in Antic Theater - more [voice] actors (synthesizer voices) began to arrive. I am most pleased with the series ["Przygody Pingwinbada Żeglarza"](https://www.youtube.com/watch?v=DUnP-kDL284&list=PL2yH5_nRkFqxtW04-v-yDyB7QUD__oAmn) (The name refers to:  ["Przygody Sindbada Żeglarza" by Bolesław Leśmian]([https://pl.wikipedia.org/wiki/Przygody_Sindbada_%C5%BBeglarza](https://pl.wikipedia.org/wiki/Przygody_Sindbada_Żeglarza)) and it's wordplay) ["Pingwinia Komedia"](https://www.youtube.com/watch?v=DUnP-kDL284&list=PL2yH5_nRkFqxtW04-v-yDyB7QUD__oAmn) (The name refers to: "Boska Komedia" - Polish translation of "Divine Comedy" by Dante Alighieri). and from [the first episode of the "Danse Pingvinabre"](https://www.youtube.com/watch?v=O15T5evhnQk) (The name refers to the medieval Danse Macabre) series. I wanted to include this long description (and I created a separate subcategory) in this list as "the main reward of my work", because I want to leave some remembrance and awareness in people to remember my works and also to open the door to potential cooperation and job. 
 
 ### YouTube
 
@@ -230,6 +246,7 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 - [My playlist with "The best of Polish music creations"](https://www.youtube.com/watch?v=CCw3rMng0nw&list=PL2yH5_nRkFqwxh63njdnt3emJ0rq0f2fp) - I have created a playlist of songs that are memorable, also a part of the Polish culture, often many jokes - references to them. I update it from time to time as soon as I have a "marathon of listening to music". So that's the playlist of "core songs of Poland" (But there's not much Disco Polo here anyway, I keep it to a minimum because it's still a subjective playlist, and I'm already bored with this genre and I think then that it's mostly "homogenous"). I'm also interested in Polish music from different times, so you'll find some older songs there, I'm also trying to add the best quality version to the playlist, and not thrown by a third party in very poor and even more compressed quality.
 - [Studio Accantus](https://www.youtube.com/StudioAccantus) - A project associating brilliant vocalists, who together perform e.g. covers of great famous Polish songs, often from animated fairy tales. It is worth to watch - listen to those performances, because they are in really good quality. 
 - [WIDZĘ GŁOSY](https://www.youtube.com/channel/UCsS2pcVBbDAdn8pPoh0mUkQ) - A channel where the most famous Polish voice actors are interviewed. Often you can learn from them many interesting stories from the realization of a given project and observations of the actors themselves. Often the actors sing songs that they have sung in a polish versions of movies productions. Of course, these are usually songs from the old days, so you can observe the voice changes of such people.
+- [Live Act](https://www.youtube.com/user/heksmaestro) - One of the best Polish sources of knowledge about music production and theory. There are a few podcasts, which are a mine of knowledge for [not only new] music producers. Piotrek - the creator of the channel, he also touched upon psychological issues related to the creation of music, such as how to deal with creative blockades and [which DAW is "the best for start"](https://www.youtube.com/watch?v=1wtjCr-zp2g) (I personally recommend [FL Studio](https://www.image-line.com) to start with or [Audacity](https://www.audacityteam.org) or [MuseScore](https://musescore.org/pl/download) and [LMMS](https://lmms.io/download)). So if you want to learn more about music (techniques, many cool tricks, world of producers and schemes and free plugins - VSTs etc.), then I really recommend it.
 - [Polskie Podcasty](http://polskiepodcasty.pl/wszystkie-podcasty) - catalog of polish podcasts.
 - [Katalog Biblioteki Polskiej](http://katalog.bibliotekapiosenki.pl/) - A catalog of Polish songs.
 - [Filharmonia Narodowa](https://www.youtube.com/user/FilharmoniaNarodowa) and [this](http://filharmonia.pl) - official website of the Polish National Philharmonic and its YouTube channel. You can find there a lot of great symphonic concerts and much more.
@@ -266,10 +283,12 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 
 ## Games (Gry)
 
+- [Otchłań](https://www.otchlan.pl) - Poland's largest online text-based SUD (RPG) game. "The beginnings of the Otchłań date back to 1998, when two teenagers, interested in MUDs, decided to write something "like MUD, but for one person", as the authors write at the beginning of the description (There is a version for Windows, Linux and DOS). [Here](https://www.otchlan.pl) is the official project forum. It is really worth testing this game. [There is also quite an interesting interview with one of the game developers](https://www.youtube.com/watch?v=zP1twKbLmAw).
+
 - [GRY-OnLine](https://www.gry-online.pl) - The largest Polish portal dedicated to games. It has a fairly active community and a database of games with ratings. So if you are looking for some Polish game, you should find a page with it here.
 - [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics.
-- [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. 
-- [Broda ty](https://www.youtube.com/user/Midvith) - Polish dinosaur of computer games reviews (hehe). His films are really qualitative.
+- [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. So if you are looking for someone who records games and adds his cool commentary and doesn't without a lot of unnecessary things, this is a good choice because his videos are in really good quality. 
+- [Broda ty](https://www.youtube.com/user/Midvith) - Polish dinosaur of computer games reviews (hehe). His films are really qualitative. He describes his experiences with the game - reviews in a very interesting way, he is not afraid to criticize them constructively and speaks brief and to the point.
 - [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl) - A web portal dedicated to polishing modifications and translations to Gothic, recently a very good dubbing for production is being created. Gothic is a cult game for many Poles, so it is worthwhile to get to know the sites associated with it. Recently, many great Polish professional moderation projects have been created, e.g. ["History of Khorinis"](https://dziejekhorinis.org). This will be the unofficial prequel of the Gothic I game. The voices of the characters are from very popular voice actors, and documentary films about these actors have been made as part of the project, so it is worth watching them on [the project's official YouTube channel](https://www.youtube.com/channel/UCzZPtg45BJjKpxSB2ER1mxw). Another big project worth mentioning is the still being created mod ["Myrtana Chronicles"](https://www.youtube.com/KronikiMyrtany) (A lot of great Gothic mods have been created for many years, so when they come out, there will be a lot of them to play).
 - [theModders](https://themodders.org) -A web portal dedicated to creating and modifying games (currently mainly Gothic series).
 - [Graj Po Polsku](https://grajpopolsku.pl) - A nice website with great quality Polish translations for many computer games.
@@ -307,6 +326,12 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 
 ## Culinary (Kulinaria)
 
+- ["Kucharz doskonały"](https://polona.pl/collections/institutions/1/kucharz-doskonaly,NDI0ODQ1MDQ2MDQ4OTQ4NTQwMA/) - A wonderful collection of books, prints and manuscripts created by the Polish National Library. There are over 140 books by famous authors (in those days). They are mostly written in a language very similar to today's, and often also include words less commonly used today (but not archaisms), a lot of interesting recipes can be found there and of course you can download it all for free and probably without any major limits (maybe there is a limit, but with an attempt to download a huge amount). If you have a large amount of potatoes, it will probably be worthwhile to check the recipes from the book "200 potraw z ziemniaków" (200 dishes from potatoes)](https://polona.pl/item/200-potraw-z-ziemniakow,MjAyNDY4NzU). Such a number of dishes should make you not be hungry for a long time.
+
+- [Cookbooks (And more books) by Lucyna Ćwierczakiewiczowa](https://polona.pl/search/?query=Lucyna_%C4%86wierczakiewiczowa&filters=public:1)) - This author has written many cool books about cooking, on Polona you will find several of them in many editions. They are written in a pretty cool language. In the above link you will of course also find her works.
+
+- [33 proven uses of chocolate in dishes](https://polona.pl/item/wedlowska-czekolada-33-przepisy-sprawdzone,ODQwODgyMjY) - If you like chocolate, this is something for you.
+
 - [Jadłonomia ](https://www.jadlonomia.com)- A very cool website with "vegan recipes not only for vegans" (don't be afraid, I am a vegetarian myself, but I don't want to force convert you to vegetarianism, but often thanks to the dishes associated with this diet - vegan and vegetarian,  you can discover a lot of new taste sensations).
 - [Olga Smile](https://www.olgasmile.com) - Very interesting culinary blog. Here you will find dishes from various diets, for carnivores, vegetarians, vegans and gluten-free for people with coeliac disease ((Or for people who just don't like gluten).
 - [Kocham Gotować](https://www.youtube.com/user/paei100) - One of the first most popular YouTube channels about cooking in Poland. He is very famous for its welcome: "Siemanko! Witam w mojej kuchni" and also from showing how to recreate a very well-known product at home, e.g. fries from a well-known fast food restaurant etc.  then it is worth to check out his older videos.
@@ -319,18 +344,34 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 - [IleWazy.pl](http://www.ilewazy.pl) -  A large base of products and their calorific value, fat, protein, etc. There is no need to be paranoid, but if you exercise, for example, it is worth knowing how much any food contains protein.
 - [Czytamy Etykiety](https://czytamyetykiety.pl) - website with analysis of food labels. There are also food rankings, so if you live in Poland (and not only because there are a lot of products in Poland, which are also abroad, it sometimes happens that the composition is different, of course), and you try to eat valuable and relatively healthy food, it may come in handy. Of course, there are also descriptions of the ingredients from which food is made, e.g. [here is about high-fructose corn syrup](https://pl.wikipedia.org/wiki/Syrop_glukozowo-fruktozowy).
 
-## News and similar (Wiadomości i podobne)
+### Recipes for holidays and festivities (Przepisy na święta i uroczystości)
+
+- (These are the main ones, in some regions of Poland may appear additional) Very useful if you want to learn the names of the most important Polish holidays and festivities (Calendar for [2020](https://www.kalendarzswiat.pl/swieta/2020) and [2021](https://www.kalendarzswiat.pl/swieta/2021)). 
+
+   - [Shrove Tuesday](https://www.przepisy.pl/przepisy/okazje/tlusty-czwartek) - It is definitely worth trying Polish pączki (filled with rose marmalade) and faworki (chrust). I like to eat a lot of French fries this day (Because literally it means "Fat Thursday" in Poland).
+
+   - [Valentine's Day](https://www.mojegotowanie.pl/przepis/kruche-ciasteczka-walentynkowe) - (The same can happen in the days of a girl[friend] and a boy[friend])On the occasion of that day, people give themselves handmade cakes, self-made cards or anonymous letters (in some schools, students go with such a box, where you can anonymously throw a letter to someone and then it is delivered to the addressee, it is such a way of secretly professing your feelings. At least it was possible in my early youth - a few years ago xD). I personally consider this holiday to be purely commercial ("holidays" of this kind can turn true feelings into a "product"), I think that if you really love someone, you can more often do such "private Valentine's Day", but I already think that doing something like that by yourself is more valuable than spending large sums of money on some mascots, which can also be a lovely gift, but would be even greater if there was an attempt to sew them yourself. This also increases the inner emptiness of loneliness of some people when they see an idealized image of couples buying each other's gifts, and some forget that they can also give gifts to their best friends or family on that day, because love is not only reserved for humans in very close relationships - in the end, it all comes down to spending time together, so just enjoy the moments with those you have at that moment, and don't regret the lack of moments with people you don't have at that moment (I know these are such truistic words and this is a heavy and complex subject).
+
+   - [Easter](https://kuchnialidla.pl/przepisy/wielkanoc) - (In Poland it is not customary to invite ostriches for Easter, it is the ostriches themselves who have to ask for the invitation, vampires do the same). [This holiday is recognized as the most important Christian holiday (Not bad explanation)](https://www.sochaczew.pl/home/newsshow2/1383?title=Dlaczego-Wielkanoc-jest-wazniejsza-od-Bozego-Narodzenia). I like winter, but this holiday is more fun for me because I like eating armoracia rusticana (I look forward to the moment when I can try the true and fresh wasabi).It is also believed in some regions that at that time, "Zajączek" brings gifts, just like ["Święty Mikołaj"](https://123tlumacz.pl/swiety-mikolaj-czy-santa-claus-prawdziwa-historia) on the Christmas time ([Main Polish Easter Traditions](https://polskidlaobcokrajowcow.blogspot.com/2015/03/polskie-tradycje-wielkanocne.html) and [this is very useful also](https://ellalanguage.com/blog/wielkanoc-po-angielsku/)).
+
+     [Here](https://polona.pl/item/ciasta-wielkanocne,NzI1MzgwNDY) is a nice book about Easter cakes by Mrs. Elżbieta Kiewnarska.
+
+   - [Christmas](https://www.przepisy.pl/przepisy/okazje/wigilia-i-swieta) - During [this period](https://eszkola.pl/jezyk-angielski/swieta-bozego-narodzenia-po-angielsku-4536.html), personally, I like to eat the [łazanki z makiem](https://www.zajadam.pl/boze-narodzenie/lazanki-z-makiem-i-bakaliami) very much. 
+
+   - [New Year's Eve](https://nietylkopasta.pl/przepisy-na-sylwestra) - During this period, you usually invite your friends home or you come to their house. You eat a lot of fast food/snacks, watch different movies together, play board games like [Eurobusiness](https://pl.wikipedia.org/wiki/Eurobusiness), remember past years, plan things for the future. When the clock points 0:00, children drink non-alcoholic champagne (I also drink it because I like to be sober and not try to flood problems with alcohol) and adults often forget about their limits - It's often just divided into groups that older people with their friends, children with their friends, it's probably also common to spend the new year only with the whole family, but I think it's nice to spend this time with best friends too.
+
+     `(I know that it looks funny, because I described the most important holidays in the shortest way, and the less important ones more extensively, I will improve it in the future)`
+
+## Various websites (Różne strony internetowe)
 
 ``Please verify the truthfulness of the information you read and be careful, politics likes to create walls between people.`` 
 
 - [Kwantowo](https://www.kwantowo.pl) - A very cool science blog that deals with physics, astronomy and rationality. A lot of things are presented in a very cool form.
 - [Histmag.org](https://histmag.org) - Nice website about history.
-
 - [Sekurak](https://sekurak.pl) - website dedicated to online security.
+- [Ciekawostki historyczne](https://ciekawostkihistoryczne.pl) - A cool page where very interesting historical facts are described.
 - [Niebezpiecznik](https://niebezpiecznik.pl) - A website similar to the one above, if you are interested in cybersecurity and want to learn more about privacy etc. then you can look there.
-
 - [Zaufana Trzecia Strona]() - Like above.
-
 - [Tytus.Edu.PL](https://tytus.edu.pl) - Really cool educational site about history. 
 - [Linuxiarze.pl](https://linuxiarze.pl) - website dedicated to news from the Linux world. Tux likes it.
 
@@ -354,7 +395,7 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 - [Niezalezna](https://niezalezna.pl/)
 - [TVP Info](https://www.tvp.info) 
 - [Fakt](https://www.fakt.pl) 
-- [Rzeczpospolital](https://www.rp.pl)
+- [Rzeczpospolita](https://www.rp.pl)
 - [naTemat](https://natemat.pl)
 - [WirtualneMedia](https://www.wirtualnemedia.pl)
 - [Dziennik.pl](https://www.dziennik.pl)
@@ -369,7 +410,7 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 - [Bankier](https://www.bankier.pl)
 - [Dziennik Polski](https://dziennikpolski24.pl)
 - [Dziennik Wschodni](https://www.dziennikwschodni.pl)
-- [Buisiness Insider Polska](https://businessinsider.com.pl)
+- [Business Insider Polska](https://businessinsider.com.pl)
 - [Pikio](https://pikio.pl)
 - [Do Rzeczy](https://dorzeczy.pl)
 - [Gazeta Prawna](https://www.gazetaprawna.pl)
@@ -398,7 +439,8 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 - [HiNative](https://hinative.com/pl) - A multilingual platform for asking and answering questions (Q&A). Here you can ask questions about Poland and Polish language issues.
 - [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
 - [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
-- [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solusions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? 
+- [Nasza Klasa (NK)](https://nk.pl) - One of Poland's cult social networking sites, before the popularization of Facebook in Poland, was very often used by Poles, offered a lot of online games, I personally switched from NK to Facebook 8 years ago because I wanted to play the latest version of Shadow Fight, and this Polish version had less updates. This site can be very useful to you, for example if you once lived in Poland and attended a Polish school, and you've really liked a lot of people and forgotten their names, there's a chance that you'll find some pictures and details of these people there (These are also worth mentioning: [Gadu-Gadu](https://gadu-gadu.pl) or [Grono.net](https://pl.wikipedia.org/wiki/Grono.net) - which lost its popularity when popularity of NK grew).
+- [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solutions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? The [Wiki](https://przygodyreksia.fandom.com/wiki/Strona_g%C5%82%C3%B3wna) is also worth checking.
 - [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
 - [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
 - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
@@ -408,6 +450,7 @@ Currently the most popular polish translation of the Bible is "Biblia Tysiąclec
 
 - In Polish, there is such a thing that some sentences can be shortened. For example, instead of saying: "Jesteś mądry" [masculinum -y] or "Jesteś mądra" [femininum -a] (You are smart), you can tell: "Mądryś"  or "Mądraś" (Yes, -**ś** from jeste**ś**) or "Jesteś odważny" or "Jesteś odważna" (You are brave) = "Odważnyś" or "Odważnaś" or "Jesteś miły" or "Jesteś miła" (You are nice) = "Miłyś" or "Miłaś". If you want to become a knight or lady, it may come in handy to you, because it sounds a bit archaic, but I always remember that it's a cool thing, so I created this category to share such cool things with you.
 - The word "spoko" (comes from the word: "**spoko**jnie" - calmly) is a very useful and universal word. You can use it instead of "Nie ma za co" (You're welcome) and also "Nie ma problemu" (No problem), so when, for example, a neighbor apologizes to you that a his piano fell out of his window into your garden, you can tell him: "Spoko". You can say that you like something, e.g. "Ten film jest spoko" ("This movie is cool"). It is from many years a very popular word, so even the older ones will understand. Of course, it can be used to, for example, soothe someone nervous - "Spoko, wszystko będzie w porządku" (Chill, everything will be fine). Or you can confirm something with this word e.g. someone asks you if you want to go to the cinema, then if you want to, you say "Spoko" ("Yes" in this case). So, if you are afraid to use the word "w porządku" and you still use "**ok**ay/okey(/okej)", then "spoko" can be a cool alternative for you. Of course it's a slang word, so if you use it during a "serious conversation", someone might get the impression that you're a "relaxed kind of human", although that's good, because at least they will know you're an honest man.
+- If you want to sound more like noble or just poetic (elevated/high style of speech), for example you can change the words (pronouns) "moim" (moje) to "mym" (me) and "twoim" (twoje) to "twym" (twe) [and more](https://pl.wiktionary.org/wiki/Aneks:J%C4%99zyk_polski_-_zaimki#m%C3%B3j,_tw%C3%B3j,_sw%C3%B3j) (Also check [here](https://sjp.pwn.pl/poradnia/haslo/Me-twe-swe;18579.html) and [HIER](https://pl.wikipedia.org/wiki/Mowa_(retoryka)#Mowa_w_stylu_wysokim)). So if you're wearing daily a monocle and a cylinder, it's something **absolutely necessary** for you, don't forget also to take your own tea set [and also you should have a large stock of matricaria chamomilla in your inventory] with a gilded cup (In general, this can sound a bit old-fashioned, but it's one of the cool ways to "color" your speech in Polish - sometimes one snowman from a certain cartoon talked in this style, so if you've watched this cartoon about a helpful green dragon, you'll know who was it).
 
 ## Others (Inne)
 
