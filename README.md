@@ -66,7 +66,7 @@ Pozdrawiam bardzo serdecznie.
   [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
 - [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A brilliant source with a lot of famous literary texts. 
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Wolne Lektury](https://wolnelektury.pl), also contains a lot of books.
-- [Wielkopolska Digital Library](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library (For example you can download: [Biblia Brzeska](https://www.wbc.poznan.pl/dlibra/docmetadata?id=2752) - After clicking the "Download" button you can download the archive with scans of this translation of the Bible - this is written in Latin).
+- [Wielkopolska Digital Library](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library. 
 - Fantasy:
   - [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories.
   - [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - A large number of very qualitative anthologies. Covers are also very nice.
@@ -86,6 +86,7 @@ Pozdrawiam bardzo serdecznie.
 
   - [About copyright violation accusations](https://en.wikipedia.org/wiki/Open_Library#Copyright_violation_accusations).
 - [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above. As the name suggests, there are many books here.
+- [Python na luzie](http://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - "Python on chillout" it's a very nice and big guide to learning the Python programming language in Polish. This is a direct link to download the latest version (as of 22.09.2020). If you want to start your adventure with the world of programming and you don't know which language to choose for the start, I personally recommend Python, because you can start this adventure in a very simple and quite relaxed way, but it is also worth trying to get to know other languages later, to have a kind of contrast and to be sure if this choice was really good, you can also know many programming languages and a lot of people do, but it is worth knowing one very well first, because then it is easier with others ([Here is the official tutorial page in Polish](https://www.learnpython.org/pl/)). 
 
 ### Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)
 
@@ -110,8 +111,7 @@ Pozdrawiam bardzo serdecznie.
 
 Currently the most popular polish translation of the Bible is ["Biblia Tysiąclecia"](https://pl.wikipedia.org/wiki/Biblia_Tysi%C4%85clecia).
 
-- [Biblie Polskie](http://bibliepolskie.pl/index.php) - A cool website with a list of Bible translations into Polish.
-
+- [Biblie Polskie](http://bibliepolskie.pl/index.php) and ([Archive mirror](https://web.archive.org/web/20200922180928/http://bibliepolskie.pl/przeklady.php)) - A really cool website with a list of Bible translations into Polish. You will also find links to descriptions and often to download these translations (e.g. to archives, the site also has its own mirrors sometimes, so if you haven't found your favourite translation here or want to know more, I invite you there).
 - [Biblia Audio](https://bibliaaudio.pl/wideoaudio) - A great project made by the "SUPERPRODUCTION" recording studio, where you can hear audio books of Old Testament and New Testament with the voices of popular Polish actors and also with great sound effects.
 - [Biblia MP3](https://www.biblia-mp3.pl/) - The "Ancient" version of the ["Biblia Audio"](https://bibliaaudio.pl) project.
 - [Biblia info](https://www.biblia.info.pl/biblia.html) - A website where you can read many Polish translations of the Bible. The Latin translation ["Biblia Vulgāta"](https://en.wikipedia.org/wiki/Vulgate) and [The Greek Old Testament - "Septuaginta"](https://en.wikipedia.org/wiki/Septuagint) are also available.
@@ -119,7 +119,8 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 - [Biblia - Edycja św. Pawła (Biblia Paulistów)](http://www.verbumregis.pl/#/reading) - One of the recently created Polish Bible translation. Translation was made by her enthusiasts, with the help of Polish Paulists ([Towarzystwo Świętego Pawła](https://www.paulus.org.pl/)).
 - [Biblia w przekładzie Jakuba Wujka (The Wujek Bible)](http://www.madel.jezuici.pl/biblia/Biblia-Wujka-C.pdf) - This is a translation of the Bible made by Polish Jesuit [Jakub Wujek](https://pl.wikipedia.org/wiki/Jakub_Wujek) in 1599.
 - [Uwspółcześniona Biblia Gdańska (2017)](https://www.jezus.pl/czytelnia/biblia-bezplatny-ebook) - Here you can download [Uwspółcześniona Biblia Gdańska (2017)](https://pl.wikipedia.org/wiki/Uwsp%C3%B3%C5%82cze%C5%9Bniona_Biblia_gda%C5%84ska) in [.epub](https://www.jezus.pl/uploads/1/3/4/6/13469490/plbga-st-nt-basic-v1_4.epub) and [.mobi](https://www.jezus.pl/uploads/1/3/4/6/13469490/plbga-st-nt-basic-v1_4.mobi).
-- [Biblia Królowej Zofii](http://bibliepolskie.pl/_kopie/biblia_kr_zofii_z_ijp-pan.pdf) - The oldest Polish translation of the entire Old Testament and perhaps even the entire Bible.
+- [Biblia Królowej Zofii](http://bibliepolskie.pl/_kopie/biblia_kr_zofii_z_ijp-pan.pdf) - The oldest Polish translation of the entire Old Testament.
+- [Biblia Brzeska - Stary Testament](https://www.wbc.poznan.pl/dlibra/publication/edition/2752) and [Biblia Brzeska - Nowy Testament](https://www.wbc.poznan.pl/dlibra/publication/edition/2746) - Very old translations of the Bible into Polish.
 - [Biblia Jerozolimska](https://kazimierz.archibial.pl/docs/biblia_jerozolimska.pdf) - Polish version of [La Bible de Jérusalem](https://en.wikipedia.org/wiki/Jerusalem_Bible).
 
 ### Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)
@@ -131,7 +132,7 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 ### Dictionaries and etc. (Słowniki itp.)
 
 - [Słownik języka polskiego](https://sjp.pl) - very good Polish dictionary, contains a lot of definitions.
-- [Wielki słownik języka polskiego](https://www.wsjp.pl) - a [great - huge] Polish dictionary, also contains a lot of definitions. It  contains conigencies, different varieties, phraseologies, etc.
+- [Wielki słownik języka polskiego](https://www.wsjp.pl) - a [great - huge] Polish dictionary, also contains a lot of definitions. It  contains different varieties, phraseologies, etc.
 - [Słownik języka polskiego PWN](https://sjp.pwn.pl) - Another noteworthy dictionary, which also contains interesting features, such as [Puzzle](https://sjp.pwn.pl/puzzle), where you can test your knowledge of words and have some fun.
 - [Wikisłownik](https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna) - Polish version of the [Wiktionary](https://www.wiktionary.org).  This allows you to immediately compare a given word with its translations in other languages, and you are also able to see what synonyms, anonyms, etymologies etc. it has.
 - [Korpusowy Polskiego Słownik Języka Migowego](https://www.slownikpjm.uw.edu.pl/page/opjm) - Polish Sign Language Dictionary. If you are a deaf person or want to communicate with such, this is something for you. (Some people might consider deaf to be a politically incorrect term but it's actually not - [that's what community itself calls themselves](https://www.nad.org/resources/american-sign-language/community-and-culture-frequently-asked-questions) and [polish explanation of use](https://sjp.pwn.pl/poradnia/haslo/glusi-i-gluchoniemi;3424.html))
