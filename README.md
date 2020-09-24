@@ -219,7 +219,7 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 - [Nickelodeon Polska](https://www.youtube.com/channel/UCkYjxitEIMZzyMaEzP7iVDA) - The official Nickelodeon Poland channel, for example, if you want to watch some episodes of SpongeBob in Polish, then I have good news for you, because there are obviously a lot of episodes of this animated series.
 
 - [Cartoon Network Polska](Cartoon Network Polska) - The official Cartoon Network Poland channel. You will find here (Over 200 full episodes of the various series), for example, many episodes of Ben 10 (new and old, I have watched this old one a lot and really liked this series). Some episodes of The Amazing World of Gumball are also really cool and this is where you will be able to see most of them.
-  - [Here you will find more episodes of The Amazing World of Gumball in Polish]([https://www.youtube.com/Niesamowity%C5%9BwiatGumballa(https://www.youtube.com/NiesamowityświatGumballa))
+  - [Here you will find more episodes of The Amazing World of Gumball in Polish]([https://www.youtube.com/Niesamowity%C5%9BwiatGumballa)
 - [Boomerang Polska](https://www.youtube.com/channel/UCicK95u7KyGYsvtEbzZ4wIg) -  The official YouTube channel Boomerang Poland. There is some Tom and Jerry, Scooby Doo and Looney Tunes.
 
 ### VOD
