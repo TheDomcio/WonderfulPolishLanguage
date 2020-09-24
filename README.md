@@ -25,6 +25,7 @@ Pozdrawiam bardzo serdecznie.
 2. [Videos (Filmy)](#videos-filmy)
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
    - [YouTube](#youtube)
+     - [For children and youth (Dla dzieci i młodzieży)](for-children-and-youth-dla-dzieci-i-młodzieży)
    - [VOD](#vod)
    - [Television (Telewizja)](#television-telewizja)
    - [Subtitles (Napisy)](#subtitles-napisy)
@@ -35,7 +36,7 @@ Pozdrawiam bardzo serdecznie.
    - [Karaoke](#karaoke)
 4. [Games (Gry)](#games-gry)
 
-   - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe))
+   - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe)
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
 6. [Services (Serwisy)](#services-serwisy)
 7. [Culinary (Kulinaria)](#culinary-kulinaria)
@@ -161,8 +162,6 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 ## Videos (Filmy)
 
 - [CDA](https://www.cda.pl/video) - Very popular multimedia Polish service. It also offers a premium VOD option. Long time ago it was known for having many games, especially flash games, which of course are still on this site. You can find there a lot of movies. 
-- [Studio FIlmów Rysunkowych](https://www.youtube.com/channel/UCfXtDCs237pyDFCBIQR46yw) -  The official YouTube channel of Studio Filmów Rysunkowych. They created many cartoons for children such as "Reksio" and "Bolek i Lolek" and a brilliant cartoon series ["Porwanie Baltazara Gąbki"](https://www.youtube.com/playlist?list=PLpuDzL_F-CRrtJH-TxkKvERbLMSBQ8EpF) (Unofficial playlist, because on the official playlist the films are not arranged chronologically). All these productions, including animated "long time movies" can be watched for free and legally on their channel. Currently there are also videos of drawing characters from their production. These are cult productions that were part of many people's childhood (The same as the Czech ["Krtek"](https://pl.wikipedia.org/wiki/Krecik)) and "[Pat a Mat]([https://pl.wikipedia.org/wiki/S%C4%85siedzi_(serial_animowany)](https://pl.wikipedia.org/wiki/Sąsiedzi_(serial_animowany)))" and "[O loupežníku Rumcajsovi"]([https://pl.wikipedia.org/wiki/Rozb%C3%B3jnik_Rumcajs](https://pl.wikipedia.org/wiki/Rozbójnik_Rumcajs))).
-- [Studio Miniatur Filmowych](https://www.youtube.com/user/StudioMiniaturF) - The official YouTube channel of "Studio Miniatur Filmowych" - Another great studio that created such great productions as ["Dziwne przygody Koziołka Matołka"](https://www.youtube.com/watch?v=2l3swTSo1_I)) and ["Pomysłowy Dobromir"](https://www.youtube.com/watch?v=IEASuS_2GpQ)). 
 - [Ninateka](https://ninateka.pl) - Amazing collection of documentaries, theatrical performances, cartoons for childrens, music concerts, animations, literature and journalism. And even more, this is a website that is really totally worth a look.
 - [POLSKA KRONIKA FILMOWA (PKF)](https://www.youtube.com/user/PolskaKronikaFilmowa) - The official YouTube channel of the Polish Film Chronicle, which was actively created between 1944-1994, so mainly from the times of the Polish People's Republic, but also before and after that period.
 - [Adapter](https://adapter.pl) - A large collection of films available for free and legally and they are friendly for disabled persons - sign language presenters and audio description and simplified subtitles are available.
@@ -209,6 +208,19 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 - [Nauka. To lubię](https://www.youtube.com/user/naukatolubie) - A [scientific] channel dedicated to get knowledge about many things.
 - [Nie wiem, ale się dowiem](https://www.youtube.com/channel/UCZ7KWO9E51KNtkDN_TfA69Q) - A project very similar to the above, also raises a lot of problems of today's world. This channel also has films created in a very accessible form.
 - [Spychu91](https://www.youtube.com/user/Spychu91) - Announcements of new anime production and information from "that world".
+
+#### For children and youth (Dla dzieci i młodzieży)
+
+`Of course it is such a simplification and many of the contents of the links below will probably interest people of different ages.`
+
+- [Studio FIlmów Rysunkowych](https://www.youtube.com/channel/UCfXtDCs237pyDFCBIQR46yw) -  The official YouTube channel of Studio Filmów Rysunkowych. They created many cartoons for children such as "Reksio" and "Bolek i Lolek" and a brilliant cartoon series ["Porwanie Baltazara Gąbki"](https://www.youtube.com/playlist?list=PLpuDzL_F-CRrtJH-TxkKvERbLMSBQ8EpF) (Unofficial playlist, because on the official playlist the films are not arranged chronologically). All these productions, including animated "long time movies" can be watched for free and legally on their channel. Currently there are also videos of drawing characters from their production. These are cult productions that were part of many people's childhood (The same as the Czech ["Krtek"](https://pl.wikipedia.org/wiki/Krecik)) and "[Pat a Mat]([https://pl.wikipedia.org/wiki/S%C4%85siedzi_(serial_animowany)](https://pl.wikipedia.org/wiki/Sąsiedzi_(serial_animowany)))" and "[O loupežníku Rumcajsovi"]([https://pl.wikipedia.org/wiki/Rozb%C3%B3jnik_Rumcajs](https://pl.wikipedia.org/wiki/Rozbójnik_Rumcajs))).
+- [Studio Miniatur Filmowych](https://www.youtube.com/user/StudioMiniaturF) - The official YouTube channel of "Studio Miniatur Filmowych" - Another great studio that created such great productions as ["Dziwne przygody Koziołka Matołka"](https://www.youtube.com/watch?v=2l3swTSo1_I)) and ["Pomysłowy Dobromir"](https://www.youtube.com/watch?v=IEASuS_2GpQ)). 
+
+- [Nickelodeon Polska](https://www.youtube.com/channel/UCkYjxitEIMZzyMaEzP7iVDA) - The official Nickelodeon Poland channel, for example, if you want to watch some episodes of SpongeBob in Polish, then I have good news for you, because there are obviously a lot of episodes of this animated series.
+
+- [Cartoon Network Polska](Cartoon Network Polska) - The official Cartoon Network Poland channel. You will find here (Over 200 full episodes of the various series), for example, many episodes of Ben 10 (new and old, I have watched this old one a lot and really liked this series). Some episodes of The Amazing World of Gumball are also really cool and this is where you will be able to see most of them.
+  - [Here you will find more episodes of The Amazing World of Gumball in Polish]([https://www.youtube.com/Niesamowity%C5%9BwiatGumballa](https://www.youtube.com/NiesamowityświatGumballa)).
+- [Boomerang Polska](https://www.youtube.com/channel/UCicK95u7KyGYsvtEbzZ4wIg) -  The official YouTube channel Boomerang Poland. There is some Tom and Jerry, Scooby Doo and Looney Tunes.
 
 ### VOD
 
