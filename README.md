@@ -495,7 +495,7 @@ Law is a very important thing in society, the following links will be useful for
 
 - [Best resources for learning Polish by Clozemaster](https://www.clozemaster.com/blog/best-resources-for-learning-polish) and [Polish learning topic](https://www.clozemaster.com/blog/topics/language-learning/learn-polish).
 - [Legalna Kultura](https://legalnakultura.pl/pl/legalne-zrodla)
-- ["Top Resources for Learning Polish" by 101languages](https://www.101languages.net/resources/polish)
+- ["Top Resources for Learning Polish" by 101languages"](https://www.101languages.net/resources/polish)
 - ["The Best Resources To Learn POLISH For Free Online"](https://gratisglobal.com/learn-polish-free/)
 
 ### Operating systems (Systemy operacyjne)
