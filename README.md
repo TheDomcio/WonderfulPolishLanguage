@@ -154,7 +154,7 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 - [Słownik polszczyzny XVI wieku](https://spxvi.edu.pl) - A dictionary of Polish language from the XVI century. If you would like to sound like a great nobleman, then thanks to knowing these words you will be closer to achieving this.
 - [Słownik staropolski](https://www.staropolska.pl/slownik) - The Old Polish dictionary, a lot of archaic words, will come in handy if you are going to travel in time and communicate with older Polish people.
 - [Słownik staropolski IJP PAN](https://pjs.ijp.pan.pl/sstp.html) - Here you can download many volumes of the Old Polish dictionary and other documents related to the project. The site belongs to the Krakow Old Polish language studio.
-- [Gwara góralska]([https://pl.wiktionary.org/wiki/Indeks:Polski_-_Gwara_g%C3%B3ralska](https://pl.wiktionary.org/wiki/Indeks:Polski_-_Gwara_góralska)) - Polish highlander dialect. It may be useful if you are going to [Zakopane](https://pl.wikipedia.org/wiki/Zakopane) ([Here you will find more regional dialects](https://pl.wiktionary.org/wiki/Kategoria:Polski_(dialects_and_guards))).
+- [Gwara góralska](https://pl.wiktionary.org/wiki/Indeks:Polski_-_Gwara_g%C3%B3ralska) - Polish highlander dialect. It may be useful if you are going to [Zakopane](https://pl.wikipedia.org/wiki/Zakopane) ([Here you will find more regional dialects](https://pl.wiktionary.org/wiki/Kategoria:Polski_(dialects_and_guards))).
 - [Gwara więzienna](https://pl.wiktionary.org/wiki/Indeks:Polski_-_Gwara_wi%C4%99zienna) - A set of words used in prison colloquial speech. It certainly won't come in handy, but it's a cool curiosity and after getting to know these words you can show people that you are able to get along with every layer of society.
 
 ### Translators (Tłumacze)
@@ -489,7 +489,7 @@ Law is a very important thing in society, the following links will be useful for
   - [/r/learnpolish](https://www.reddit.com/r/learnpolish) - Very nice subreddit about learning Polish. If you have any questions, doubts or interesting information about things related to the Polish language, feel free to write there. Poland is generally a nation willing to help others, there is a huge hospitality culture here since the beginning of the country, so for over 1000 years. In every society, there are stupid, silly and fanatic people, and Poland is no exception, so we should not generalize, because we have a lot of intelligent, nice and tolerant people here. Poland often lost out on such an attitude, because for other countries, as it be in Politics, only interests mattered.
   - [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
   - [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
-  - [/r/Polish](https://www.reddit.com/r/Polish) - Subreddit about "Polish culture and language".
+- [/r/Polish](https://www.reddit.com/r/Polish) - Subreddit about "Polish culture and language".
   - [/r/PolskaNaLuzie](https://www.reddit.com/r/PolskaNaLuzie) - Poland on chillout - "without politics and other heavy topics".
   - [/r/TVGRYpl](https://www.reddit.com/r/TVGRYpl) - Unofficial subreddit about the [TVGRYpl](https://www.youtube.com/user/TVGRYpl).
   - [/r/Zagranicznicy](https://www.reddit.com/r/Zagranicznicy) - Subreddit bringing together all those who have emigrated.
