@@ -87,6 +87,7 @@ Pozdrawiam bardzo serdecznie.
 
   - [About copyright violation accusations](https://en.wikipedia.org/wiki/Open_Library#Copyright_violation_accusations).
 - [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above. As the name suggests, there are many books here.
+- [Lektorek](https://lektorek.org/lektorek/) - Website associated with [University of Pittsburgh](https://www.pitt.edu/) You will find here a lot of valuable documents related to learning Polish. For example, in the category [First Year Polish](https://lektorek.org/lektorek/firstyear/) > [Lessons](https://lektorek.org/lektorek/firstyear/lessons/) there are 12 lessons (as 12 PDF files) and also a supplement and a glossary. In ["Other"](https://lektorek.org/lektorek/Other/) you will also find a lot of interesting things, for example [Polish song book](https://lektorek.org/lektorek/Other/), [short stories](https://lektorek.org/lektorek/Other/opowiesci.pdf) and [English-Polish phrasebook](https://lektorek.org/lektorek/Other/phrasebook.pdf) and more.
 - [Python na luzie](http://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - "Python on chillout" it's a very nice and big guide to learning the Python programming language in Polish. This is a direct link to download the latest version (as of 22.09.2020). If you want to start your adventure with the world of programming and you don't know which language to choose for the start, I personally recommend Python, because you can start this adventure in a very simple and quite relaxed way, but it is also worth trying to get to know other languages later, to have a kind of contrast and to be sure if this choice was really good, you can also know many programming languages and a lot of people do, but it is worth knowing one very well first, because then it is easier with others ([Here is the official tutorial page in Polish](https://www.learnpython.org/pl/)). 
 
 ### Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)
@@ -143,6 +144,7 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 - [Zakończone.pl](https://www.zakonczone.pl) - On this page you can check the words with the selected ending. For example:  [-ówka](https://www.zakonczone.pl/na/%C3%B3wka).
 - [Stopniowanie.net](http://stopniowanie.net) - Gradation of adjectives and adverbs.
 - [Reverso Context]([https://context.reverso.net/t%C5%82umaczenie/](https://context.reverso.net/tłumaczenie/)) - A Polish version of a very useful multilingual website where you can look up translations in context of words, groups of words and idioms.
+- [Declinator](https://www.declinator.com) - A very cool tool for noun declination.
 - [Linguee](https://www.linguee.com) - A good alternative to the above page. It is related to [DeepL](https://www.deepl.com/translator) - it comes from the same authors.
 - [Language Tool](https://languagetool.org) - Great multilingual spelling and grammar checker. Useful if you are still not very good at using the comma character in Polish, but it is not perfect, sometimes it may find the necessary comma unnecessary and vice versa (also, this tool does not always handle dialects and archaisms well).
 - [Youglish](https://youglish.com/polish) - brilliant website for improving pronunciation and more. As the authors write, there are millions of entries with tracks in the index, after entering a word that interests us,the search engine tries to find a video on YouTube (based on subtitles) in which it is used. ([Word "pingwin" for example]([https://youglish.com/pronounce/pingwin/polish?)).
@@ -410,6 +412,8 @@ Law is a very important thing in society, the following links will be useful for
 
 - [Krwiod@wcy.org (Honorowe krwiodawstwo i krwiolecznictwo)](https://krwiodawcy.org) - A page with information on how to prepare for the blood donation process in Poland. There is also a [survey which must be completed before each donation](https://krwiodawcy.org/ankiety-dla-kandydatow-na-dawcow) (Now, during coronavirus, an additional questionnaire must also be filled in before entering the waiting room etc.). This is a really helpful thing about the subject, and it is also a wonderful action, which is voluntary blood donation.
 - [Fundacja DKMS](https://www.dkms.pl/pl) - On this page you can learn about the bone marrow donation process and you can register as a donor or give dotation (this also applies to people from other countries, because the foundation has many branches).
+- [Obcy język polski](https://obcyjezykpolski.pl) - a very interesting blog about things related to the Polish language. You will also find [many interesting language quizzes here](https://obcyjezykpolski.pl/tematy/quiz-jezykowy/).
+- [Culture.PL](https://culture.pl/en) - Here you will find a lot of articles about things related to Poland and Polish language. They have a lot of cool articles about Polish literature and well-known literary authors.
 - [Anime24](https://anime24.pl/) - "The latest news from the anime world".
 - [Kwantowo](https://www.kwantowo.pl) - A very cool science blog that deals with physics, astronomy and rationality. A lot of things are presented in a very cool form.
 - [Histmag.org](https://histmag.org) - Nice website about history.
@@ -479,17 +483,26 @@ Law is a very important thing in society, the following links will be useful for
 
 ## Social networks (Sieci społecznościowe)
 
-- [/r/learnpolish](https://www.reddit.com/r/learnpolish) - Very nice subreddit about learning Polish. If you have any questions, doubts or interesting information about things related to the Polish language, feel free to write there. Poland is generally a nation willing to help others, there is a huge hospitality culture here since the beginning of the country, so for over 1000 years. In every society, there are stupid, silly and fanatic people, and Poland is no exception, so we should not generalize, because we have a lot of intelligent, nice and tolerant people here. Poland often lost out on such an attitude, because for other countries, as it be in Politics, only interests mattered.
-- [Learn Polish Discord Server](https://discord.gg/4U7Akj6) - A Discord server related to [/r/learnpolish](https://www.reddit.com/r/learnpolish).
+- Reddit:
+  - [/r/learnpolish](https://www.reddit.com/r/learnpolish) - Very nice subreddit about learning Polish. If you have any questions, doubts or interesting information about things related to the Polish language, feel free to write there. Poland is generally a nation willing to help others, there is a huge hospitality culture here since the beginning of the country, so for over 1000 years. In every society, there are stupid, silly and fanatic people, and Poland is no exception, so we should not generalize, because we have a lot of intelligent, nice and tolerant people here. Poland often lost out on such an attitude, because for other countries, as it be in Politics, only interests mattered.
+  - [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
+  - [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
+  - [/r/Polish](https://www.reddit.com/r/Polish) - Subreddit about "Polish culture and language".
+  - [/r/PolskaNaLuzie](https://www.reddit.com/r/PolskaNaLuzie) - Poland on chillout - "without politics and other heavy topics".
+  - [/r/TVGRYpl](https://www.reddit.com/r/TVGRYpl) - Unofficial subreddit about the [TVGRYpl](https://www.youtube.com/user/TVGRYpl).
+  - [/r/Zagranicznicy](https://www.reddit.com/r/Zagranicznicy) - Subreddit bringing together all those who have emigrated.
+  - [/r/filozofia](https://www.reddit.com/r/filozofia) -  Polish subreddit about philosophy.
+  - [/r/muzyka](https://www.reddit.com/r/muzyka) - Polish subreddit about music.
+
+- Discord:
+  - [Learn Polish Discord Server](https://discord.gg/4U7Akj6) - The best Discord server to learn Polish. I would like to invite everyone here who has some problems with the language, is curious about something or just wants to talk to people in Polish, the community is open to other and active. I am too active here. 
+  - [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
+  - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
+  - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
+  - [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solutions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? The [Wiki](https://przygodyreksia.fandom.com/wiki/Strona_g%C5%82%C3%B3wna) is also worth checking.
+  - [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
 - [HiNative](https://hinative.com/pl) - A multilingual platform for asking and answering questions (Q&A). Here you can ask questions about Poland and Polish language issues.
-- [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
-- [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
 - [Nasza Klasa (NK)](https://nk.pl) - One of Poland's cult social networking sites, before the popularization of Facebook in Poland, was very often used by Poles, offered a lot of online games, I personally switched from NK to Facebook 8 years ago because I wanted to play the latest version of Shadow Fight, and this Polish version had less updates. This site can be very useful to you, for example if you once lived in Poland and attended a Polish school, and you've really liked a lot of people and forgotten their names, there's a chance that you'll find some pictures and details of these people there (These are also worth mentioning: [Gadu-Gadu](https://gadu-gadu.pl) or [Grono.net](https://pl.wikipedia.org/wiki/Grono.net) - which lost its popularity when popularity of NK grew).
-- [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solutions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? The [Wiki](https://przygodyreksia.fandom.com/wiki/Strona_g%C5%82%C3%B3wna) is also worth checking.
-- [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
-- [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
-- [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
-- [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
 
 ## My nice tips (Moje świetne wskazówki)
 
@@ -505,7 +518,7 @@ Law is a very important thing in society, the following links will be useful for
 
 ### Resources lists (Listy zasobów)
 
-- [Best resources for learning Polish by Clozemaster](https://www.clozemaster.com/blog/best-resources-for-learning-polish) and [Polish learning topic](https://www.clozemaster.com/blog/topics/language-learning/learn-polish).
+- [Best resources for learning Polish by Clozemaster](https://www.clozemaster.com/blog/best-resources-for-learning-polish) and [The Definitive Guide to Learning Polish](https://www.clozemaster.com/blog/definitive-guide-to-learning-polish) and [Polish learning topic](https://www.clozemaster.com/blog/topics/language-learning/learn-polish) 
 - [Legalna Kultura](https://legalnakultura.pl/pl/legalne-zrodla)
 - ["Top Resources for Learning Polish" by 101languages"](https://www.101languages.net/resources/polish)
 - ["The Best Resources To Learn POLISH For Free Online"](https://gratisglobal.com/learn-polish-free/)
