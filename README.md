@@ -15,48 +15,81 @@ Pozdrawiam bardzo serdecznie.
   -0. [What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
 
 0. [Contents (Spis treści)](#contents-spis-treści)
+
 1. [Texts (Teksty)](#texts-teksty)
+
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
    - [Dictionaries and etc. (Słowniki itp.)](#dictionaries-and-etc-słowniki-itp)
    - [Translators (Tłumacze)](#translators-tłumacze)
+
 2. [Videos (Filmy)](#videos-filmy)
+
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
+
    - [YouTube](#youtube)
+
+     - [Linguistics and related (Lingwistyka i powiązane)](#linguistics-and-related-lingwistyka-i-powiązane)
+
      - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
+
    - [VOD](#vod)
+
    - [Television (Telewizja)](#television-telewizja)
+
    - [Subtitles (Napisy)](#subtitles-napisy)
+
    - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
+
 3. [Audio](#audio)
+
    - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-notes-and-tabs-teksty-piosenek-nuty-i-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke](#karaoke)
+
 4. [Games (Gry)](#games-gry)
 
    - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe)
+
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
+
 6. [Services (Serwisy)](#services-serwisy)
+
 7. [Culinary (Kulinaria)](#culinary-kulinaria)
+
    - [Recipes for holidays and festivities (Przepisy na święta i uroczystości)](#recipes-for-holidays-and-festivities-przepisy-na-święta-i-uroczystości)
+
 8. [Polish law (Polskie prawo)](#polish-law-polskie-prawo)
+
    - [Road traffic regulations (Przepisy prawa ruchu drogowego)](#road-traffic-regulations-przepisy-prawa-ruchu-drogowego)
+
 9. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
+
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
+
 10. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
+
 11. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
+
 12. [My nice tips (Moje świetne wskazówki)](#my-nice-tips-moje-świetne-wskazówki)
+
 13. [Others (Inne)](#others-inne)
+
     - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
 
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
+
 14. [Contact (Kontakt)](#contact-kontakt)
+
 15. [Support (Wsparcie)](#support-wsparcie)
+
 16. [Acknowledgements](#acknowledgements-podziękowania)
+
 17. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
+
 18. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
@@ -183,34 +216,51 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 
 (I like to add those channels that do not have exaggerate with the absurdity of thumbnails and titles - [clickbaits](https://en.wikipedia.org/wiki/Clickbait). I want to make it as easy as possible to retrieve information from the videos on this site without wasting your time on "one million [fillers](https://en.wikipedia.org/wiki/Filler_(media))" included in today's **typical** YouTube videos focused on massive marketing). Of course, it is not always possible to "escape" from this, so sometimes people who want to reach a larger audience want to adapt to the "standards of popularization of content" in this way.
 
+##### Linguistics and related (Lingwistyka i powiązane)
+
 - [Course of Polish](https://www.youtube.com/user/Jareczny) - There are a lot of "words of the day" here, and then the speaker shows the sentences in which these words can be used - context.
 - [SAY IT IN POLISH](https://www.youtube.com/channel/UCCDOVLmcmVWGit5vTgS2Q6Q) - Nice channel about "saying it" (some more complex message) in Polish. And not only that, it is also worthwhile to look through older videos.
 - [Playlist of Polish alphabet and pronunciation video series in English by Tiengos](https://www.youtube.com/playlist?list=PLFg4xVJCR77RsydiBI9YVCYAw2Uc55Y-q) - If you still have problems pronouncing - reading many Polish diacritics and more - then this playlist probably can help you. [A Spanish version is also available](https://www.youtube.com/playlist?list=PLFg4xVJCR77RwrLKbdYhkLYfYXF0WOHv4).
 - [Ignacy z Japonii](https://www.youtube.com/channel/UC84AaEtr7hlaYYwXDSKAbNg) - Very cool channel of a Japanese man named Kohei, who records videos under the pseudonym "Ignacy" ([Explanation](https://www.youtube.com/watch?v=wjWU4MClUbQ)). The channel might be useful for people from Japan who would like to learn Polish and more, because "Ignacy" was a free listener in Polish studies at the Uniwersytet Śląski in Katowice, as he himself wrote in the description of the channel. He explains very interesting issues, refutes myths and stereotypes related to Japan or Japanese, which people spread unconsciously in Poland (and not only here).  
-- [Skazany na film](https://www.youtube.com/channel/UC8ROk73ZAWnDk6VS5kXTzVQ) - A great channel about film, where the author describes things from this world in a very inspiring way.
-- [Polimaty](https://www.youtube.com/Polimaty) - Very interesting channel about nice life topics (yes, it's worth to check it).
-- [Na Gałęzi](https://www.youtube.com/user/NaGalezi) - Another channel dedicated to films, there is a lot of humor here.
 - [Polski z Anią](https://www.youtube.com/channel/UCOJ8InFS6bdCVzsZKIdmK4w) - Good channel about parts of speech, conjugation and times and much more. Currently the project has been [maybe temporarily] paused ([Explanation](https://www.youtube.com/watch?v=yi9gW7pAfWQ)).
 - [LEARN POLISH WITH DAREK](https://www.youtube.com/channel/UCkyows0QsBOlvEQz4m3yGvg) - Another [also paused :/] interesting channel about Polish. Very cool option for people who want to learn words while listening, because there are a lot of such materials. 
 - [PolishPod101](https://www.youtube.com/user/PolishPod101) - Very active and professional channel. There is a huge number of films and 24/7 live streaming for learning. 
-- [Grupa Filmowa Darwin (G.F. Darwin)](https://www.youtube.com/channel/UCkPjHTuNd_ycm__29dXM3Nw) - A film group making really great films. With its latest films it refers to the problems affecting today's [especially Polish] society. The main popularity of this YouTube channel has been brought by films from the ["Wielkie Konflikty"](https://www.youtube.com/watch?v=c4f1Gyx2zhY&list=PLsuXZgkp0aLhss_09rp5y7stE-ai47los) series, as well as a parody of the song "Will You Be There" by Michael Jackson entitled ["Orki z Majorki"](https://www.youtube.com/watch?v=YZuFsI-bttM) (About [[oceanic] orcas (killer whale) ](https://pl.wikipedia.org/wiki/Orka_oceaniczna) from Mallorca).
-- [Klocuch](https://www.youtube.com/user/KlocuchRecenzje) - [Mr. Cuch's](https://www.youtube.com/watch?v=sS3xkUyqyUQ) YouTube channel. This is one of the legends of Polish YouTube, which shares its opinions on various topics in a very unconventional way, and you should not take things that he says personally, because all these words are said in a joke or some philosophical aspect (he often refers to things related to the childhood of many Poles). I also add it here because he speaks a very diverse language - he uses words from many dialects and loan words (a lot of German origin).
-- [Historia bez cenzury](https://www.youtube.com/user/HistoriaBezCenzuryMB) - The historical channel, where the main anchorman - Wojciech Drewniak presents history in a cool, eccentric and humorous way. There is also an [English version](https://www.youtube.com/channel/UCd51P-3L-OiG-L4NH36ArAA/videos), but after three films this project has been stopped.
 - [Niklaus Pieron](https://www.youtube.com/NiklausPieron) - The channel of Mikołaj, who often talks about things related to the Silesian language and culture (On the subject of the [ślůnsko godka]([https://pl.wikipedia.org/wiki/Etnolekt_%C5%9Bl%C4%85ski](https://pl.wikipedia.org/wiki/Etnolekt_śląski)), I recommend listening to the Silesian version of ["Grosza daj Wieźminowi" - "Toss A Coin To Your Witcher"](https://www.youtube.com/watch?v=PcQfjH6PFUE)).
 - [Mówiąc Inaczej](https://www.youtube.com/user/PamikuPL) - great and very popular YouTube channel about "How to speak Polish correctly".
-- [Cezary Pazura](https://www.youtube.com/channel/UCY_fyIMTLLOZgmkuUYo6JKw) - The YouTube channel of the famous Polish actor [Cezary Pazura](https://pl.wikipedia.org/wiki/Cezary_Pazura), the channel's subject are of course movies and things related to them, often "Wujek Czarek", as the actor wants it to be called, talks about the backstage of some famous films and also tells anecdotes from his life as actor, also from his school days.
 - [Arlena Witt](https://www.youtube.com/user/jezykalnia) - A channel to learn English, but of course you can also use a magic trick and learn Polish from it.
-- [SciFun](https://www.youtube.com/scifun) - One of the most popular Polish scientific channels. The subject of his recent films is checking various things under the microscope, but in a "normal way" and not hyperbolized. [He also made a serious analysis of the "theory that the Earth is flat"](https://www.youtube.com/watch?v=lDFo70FlbAo&list=PLuui6B7jlJXkLMxXo6sI6iZEkSCU-3WQZ).
-- [History Hiking](https://www.youtube.com/channel/UCCvPTDuK7LsXrzPUmi9AZzA) - The person who runs the channel program in a very reliable and professional way tells the viewers about various historical events in a very interesting and accessible way.
-- [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) - Another Polish respected scientific channel, where various topics are often discussed in the form of long films.
-- [NanoKarrin](https://www.youtube.com/channel/UCue2Utve3Cz8Cb2eIJzWGUQ) - A Polish group creating covers of well-known songs and parodies of some anime productions.
-- [mietczynski](https://www.youtube.com/channel/UCZP_DXnKgfs_ZX3RHVmu6qQ) - The person who recording movies for this YouTube channel is mainly known among Polish youth for humorous and simple summary of the various required school readings. He talks about them by adding more of his colorful metaphors and opinions, so he simply talks about the plot in an unconventional and accessible way, so it helps many people to remember the course of these books, which is often useful on all school's "smaller" and "main" exams (I personally am neutral to this, but I add this channel objectively, because I know that many people like it for different reasons). He also reviews films in a similar way and tries his hand at cooking based on popular recipes. 
-- [emce□](https://www.youtube.com/channel/UCZgxE8WOvOmHNfMpv1otPxQ) - Another channel dedicated to science, also very respected, has a lot of topics on it.
-- [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) - A channel about psychological, philosophical, sociological and cultural issues - ideas. Author - Szymon talks in a very accessible way about various problems of today's world, as well as about the political system, etc. There is also an [English version](https://www.youtube.com/channel/UCaw4PZWOXVE6ZjarvAUyugA). He also runs a second channel: [Szymon mówi](https://www.youtube.com/channel/UCnUrMqV57fp3uPddvmDpTaA), for example, he has long conversations with people with different political orientations.
-- [TvFilmy](https://www.youtube.com/channel/UCc5tRa0svbXzKJUk40ow24Q) - An interesting channel about movies. It is created by part of the team from [TVGRYpl](https://www.youtube.com/user/TVGRYpl).
+
+#### Scientific (Naukowe)
+
 - [Astrofaza](https://www.youtube.com/channel/UCIUYdIIld_2bsymqWDCdOFQ) - A really nice channel about cosmos.
+- [emce□](https://www.youtube.com/channel/UCZgxE8WOvOmHNfMpv1otPxQ) - Another channel dedicated to science, also very respected, has a lot of topics on it.
 - [Nauka. To lubię](https://www.youtube.com/user/naukatolubie) - A [scientific] channel dedicated to get knowledge about many things.
+- [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) - Another Polish respected scientific channel, where various topics are often discussed in the form of long films.
+- [SciFun](https://www.youtube.com/scifun) - One of the most popular Polish scientific channels. The subject of his recent films is checking various things under the microscope, but in a "normal way" and not hyperbolized. [He also made a serious analysis of the "theory that the Earth is flat"](https://www.youtube.com/watch?v=lDFo70FlbAo&list=PLuui6B7jlJXkLMxXo6sI6iZEkSCU-3WQZ).
+
+#### Historical (Historyczne)
+
+- [Historia bez cenzury](https://www.youtube.com/user/HistoriaBezCenzuryMB) - The historical channel, where the main anchorman - Wojciech Drewniak presents history in a cool, eccentric and humorous way. There is also an [English version](https://www.youtube.com/channel/UCd51P-3L-OiG-L4NH36ArAA/videos), but after three films this project has been stopped.
+- [History Hiking](https://www.youtube.com/channel/UCCvPTDuK7LsXrzPUmi9AZzA) - The person who runs the channel program in a very reliable and professional way tells the viewers about various historical events in a very interesting and accessible way.
+
+#### Cultural (Kulturalne)
+
+- [mietczynski](https://www.youtube.com/channel/UCZP_DXnKgfs_ZX3RHVmu6qQ) - The person who recording videos for this YouTube channel is mainly known among Polish youth for humorous and simple summary of the various required school readings. He talks about them by adding more of his colorful metaphors and opinions, so he simply talks about the plot in an unconventional and accessible way, so it helps many people to remember the course of these books, which is often useful on all school's "smaller" and "main" exams (I personally am neutral to this, but I add this channel objectively, because I know that many people like it for different reasons). He also reviews films in a similar way and tries his hand at cooking based on popular recipes. 
+- [Polimaty](https://www.youtube.com/Polimaty) - Very interesting channel about nice life topics (yes, it's worth to check it).
+
+#### Social and philosophical (Społeczne i filozoficzne)
+
+- [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) - A channel about psychological, philosophical, sociological and cultural issues - ideas. Author - Szymon talks in a very accessible way about various problems of today's world, as well as about the political system, etc. There is also an [English version](https://www.youtube.com/channel/UCaw4PZWOXVE6ZjarvAUyugA). He also runs a second channel: [Szymon mówi](https://www.youtube.com/channel/UCnUrMqV57fp3uPddvmDpTaA), for example, he has long conversations with people with different political orientations.
 - [Nie wiem, ale się dowiem](https://www.youtube.com/channel/UCZ7KWO9E51KNtkDN_TfA69Q) - A project very similar to the above, also raises a lot of problems of today's world. This channel also has films created in a very accessible form.
+- [Klocuch](https://www.youtube.com/user/KlocuchRecenzje) - [Mr. Cuch's](https://www.youtube.com/watch?v=sS3xkUyqyUQ) YouTube channel. This is one of the legends of Polish YouTube, which shares its opinions on various topics in a very unconventional way, and you should not take things that he says personally, because all these words are said in a joke or some philosophical aspect (he often refers to things related to the childhood of many Poles). I also add it here because he speaks a very diverse language - he uses words from many dialects and loan words (a lot of German origin).
+
+#### Film (Filmowe)
+
+- [Grupa Filmowa Darwin (G.F. Darwin)](https://www.youtube.com/channel/UCkPjHTuNd_ycm__29dXM3Nw) - A film group making really great movies. With its latest films it refers to the problems affecting today's [especially Polish] society. The main popularity of this YouTube channel has been brought by films from the ["Wielkie Konflikty"](https://www.youtube.com/watch?v=c4f1Gyx2zhY&list=PLsuXZgkp0aLhss_09rp5y7stE-ai47los) series, as well as a parody of the song "Will You Be There" by Michael Jackson entitled ["Orki z Majorki"](https://www.youtube.com/watch?v=YZuFsI-bttM) (About [[oceanic] orcas (killer whale) ](https://pl.wikipedia.org/wiki/Orka_oceaniczna) from Mallorca).
+- [Skazany na film](https://www.youtube.com/channel/UC8ROk73ZAWnDk6VS5kXTzVQ) - A great channel about film, where the author describes things from this world in a very inspiring way.
+- [Cezary Pazura](https://www.youtube.com/channel/UCY_fyIMTLLOZgmkuUYo6JKw) - The YouTube channel of the famous Polish actor [Cezary Pazura](https://pl.wikipedia.org/wiki/Cezary_Pazura), the channel's subject are of course movies and things related to them, often "Wujek Czarek", as the actor wants it to be called, talks about the backstage of some famous films and also tells anecdotes from his life as actor, also from his school days.
+- [Na Gałęzi](https://www.youtube.com/user/NaGalezi) - Another channel dedicated to films, there is a lot of humor here.
+- [TvFilmy](https://www.youtube.com/channel/UCc5tRa0svbXzKJUk40ow24Q) - An interesting channel about movies. It is created by part of the team from [TVGRYpl](https://www.youtube.com/user/TVGRYpl).
+- [NanoKarrin](https://www.youtube.com/channel/UCue2Utve3Cz8Cb2eIJzWGUQ) - A Polish group creating covers of well-known songs and parodies of some anime productions.
 - [Spychu91](https://www.youtube.com/user/Spychu91) - Announcements of new anime production and information from "that world".
 
 #### For children and youth (Dla dzieci i młodzieży)
