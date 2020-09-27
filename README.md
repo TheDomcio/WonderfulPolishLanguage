@@ -35,7 +35,8 @@ Pozdrawiam bardzo serdecznie.
      - [Scientific (Naukowe)](#scientific-naukowe)
      - [Cultural (Kulturalne)](#cultural-kulturalne)
      - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
-     - [Film (Filmowe)](#film-filmowe)
+     - [Games (Gry)](games-gry)
+     - [Movies (Filmy)](#film-filmowe)
 
      - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
 
@@ -257,7 +258,13 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 - [Nie wiem, ale się dowiem](https://www.youtube.com/channel/UCZ7KWO9E51KNtkDN_TfA69Q) - A project very similar to the above, also raises a lot of problems of today's world. This channel also has films created in a very accessible form.
 - [Klocuch](https://www.youtube.com/user/KlocuchRecenzje) - [Mr. Cuch's](https://www.youtube.com/watch?v=sS3xkUyqyUQ) YouTube channel. This is one of the legends of Polish YouTube, which shares its opinions on various topics in a very unconventional way, and you should not take things that he says personally, because all these words are said in a joke or some philosophical aspect (he often refers to things related to the childhood of many Poles). I also add it here because he speaks a very diverse language - he uses words from many dialects and loan words (a lot of German origin).
 
-#### Film (Filmowe)
+#### Games (Gry)
+
+- [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics.
+- [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. So if you are looking for someone who records games and adds his cool commentary and doesn't without a lot of unnecessary things, this is a good choice because his videos are in really good quality. 
+- [Broda ty](https://www.youtube.com/user/Midvith) - Polish dinosaur of computer games reviews (hehe). His films are really qualitative. He describes his experiences with the game - reviews in a very interesting way, he is not afraid to criticize them constructively and speaks brief and to the point.
+
+#### Movies (Filmy)
 
 - [Grupa Filmowa Darwin (G.F. Darwin)](https://www.youtube.com/channel/UCkPjHTuNd_ycm__29dXM3Nw) - A film group making really great movies. With its latest films it refers to the problems affecting today's [especially Polish] society. The main popularity of this YouTube channel has been brought by films from the ["Wielkie Konflikty"](https://www.youtube.com/watch?v=c4f1Gyx2zhY&list=PLsuXZgkp0aLhss_09rp5y7stE-ai47los) series, as well as a parody of the song "Will You Be There" by Michael Jackson entitled ["Orki z Majorki"](https://www.youtube.com/watch?v=YZuFsI-bttM) (About [[oceanic] orcas (killer whale) ](https://pl.wikipedia.org/wiki/Orka_oceaniczna) from Mallorca).
 - [Skazany na film](https://www.youtube.com/channel/UC8ROk73ZAWnDk6VS5kXTzVQ) - A great channel about film, where the author describes things from this world in a very inspiring way.
@@ -367,9 +374,6 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 - [Otchłań](https://www.otchlan.pl) - Poland's largest online text-based SUD (RPG) game. "The beginnings of the Otchłań date back to 1998, when two teenagers, interested in MUDs, decided to write something "like MUD, but for one person", as the authors write at the beginning of the description (There is a version for Windows, Linux and DOS). [Here](https://www.otchlan.pl) is the official project forum. It is really worth testing this game. [There is also quite an interesting interview with one of the game developers](https://www.youtube.com/watch?v=zP1twKbLmAw).
 
 - [GRY-OnLine](https://www.gry-online.pl) - The largest Polish portal dedicated to games. It has a fairly active community and a database of games with ratings. So if you are looking for some Polish game, you should find a page with it here.
-- [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics.
-- [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. So if you are looking for someone who records games and adds his cool commentary and doesn't without a lot of unnecessary things, this is a good choice because his videos are in really good quality. 
-- [Broda ty](https://www.youtube.com/user/Midvith) - Polish dinosaur of computer games reviews (hehe). His films are really qualitative. He describes his experiences with the game - reviews in a very interesting way, he is not afraid to criticize them constructively and speaks brief and to the point.
 - [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl) - A web portal dedicated to polishing modifications and translations to Gothic, recently a very good dubbing for production is being created. Gothic is a cult game for many Poles, so it is worthwhile to get to know the sites associated with it. Recently, many great Polish professional moderation projects have been created, e.g. ["History of Khorinis"](https://dziejekhorinis.org). This will be the unofficial prequel of the Gothic I game. The voices of the characters are from very popular voice actors, and documentary films about these actors have been made as part of the project, so it is worth watching them on [the project's official YouTube channel](https://www.youtube.com/channel/UCzZPtg45BJjKpxSB2ER1mxw). Another big project worth mentioning is the still being created mod ["Myrtana Chronicles"](https://www.youtube.com/KronikiMyrtany) (A lot of great Gothic mods have been created for many years, so when they come out, there will be a lot of them to play).
 - [theModders](https://themodders.org) -A web portal dedicated to creating and modifying games (currently mainly Gothic series).
 - [Graj Po Polsku](https://grajpopolsku.pl) - A nice website with great quality Polish translations for many computer games.
