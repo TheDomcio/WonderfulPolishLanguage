@@ -19,7 +19,7 @@ Pozdrawiam bardzo serdecznie.
 1. [Texts (Teksty)](#texts-teksty)
 
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
-     - [Fantasy (Fantastyka)](fantasy-fantastyka)
+     - [Fantasy (Fantastyka)](#fantasy-fantastyka)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
