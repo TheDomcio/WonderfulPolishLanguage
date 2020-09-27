@@ -19,6 +19,7 @@ Pozdrawiam bardzo serdecznie.
 1. [Texts (Teksty)](#texts-teksty)
 
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
+     - [Fantasy (Fantastyka)](fantasy-fantastyka)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
@@ -103,55 +104,42 @@ Pozdrawiam bardzo serdecznie.
 
 - [Wolne Lektury (Free readings)](https://wolnelektury.pl) - A great source of ebooks and audiobooks and much more. The website interface supports many languages. A cool option available on this page is to generate custom PDFs of available works, where you can e.g. add or delete indexes etc.
   [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
-
 - [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A brilliant source with a lot of famous literary texts. 
-
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Wolne Lektury](https://wolnelektury.pl), also contains a lot of books.
-
 - [Wielkopolska Digital Library](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library. 
-
-- Fantastyka:
-
-  `Here you will find many available magazines, anthologies and individual stories, it is worth giving them a chance, because they are all prepared with passion and great efforts and most look really professional. I am sorry that I have described most of them so briefly.`
-
-  - [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories.
-  - [Legendy Polskie by Allegro](https://allegro.pl/legendy/#legendy-modal) - An anthology of many fantastic texts inspired by Polish legends. If you want to watch films from the same series also inspired by Polish legends, I invite you [here](https://www.youtube.com/watch?v=1J_Y12RqeLM&list=PLFttT4XjEwKQjYyH9m2vwwXQG94tUEeR1).
-  - [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - A large number of very qualitative anthologies. Covers are also very nice.
-  - [Creatio Fantastica](https://creatiofantastica.com/archiwum/) - A free "scientific literary" magazine. It is worth checking.
-  - [Magazyn Biały Kruk](https://magazyn.bialykruk.org/magazyn) - A very interesting magazine about fantasy. Here you will of course find many available publications.
-  - [Grabarz Polski](http://grabarz.net/category/grabarz-polski) - Archive of the horror fantasy magazine.
-  - [Magazyn Histeria](http://magazynhisteria.pl) - The second nice Polish horror magazine.
-  - [Smokopolitan](https://smokopolitan.pl) - Next great magazine. There are dragons everywhere, waiting to be blown away by a fire composed of cool articles.
-  - [Historia Vita](http://www.historiavita.pl) - Here you can download some fantasy anthologies, for example the first part of anthology ["Ostatni dzień pary"](http://www.historiavita.pl/ostatni-dzien-pary/) (The Last Day of the Steam). [Second is available here](http://www.historiavita.pl/ostatni-dzien-pary-2).
-  - [Silmaris](https://silmaris.pl) - Another good online magazine about fantasy and science fiction.
-  - [Ścieżki wyobraźni](https://www.sekcjalogrus.slask.pl/publikacje-sekcji/) - Anthologies of fantastic texts prepared by the [Sekcję Literacką Śląskiego Klubu Fantastyki "Logrus" (Literary Section of the Silesian Fantasy Club "Lorgus")](https://www.skf.org.pl/sekcja-literacka-logrus).
-
 - [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time (I will try to add interesting books In other categories from there, e.g. I have already added some [here](#recipes-for-holidays-and-festivities-prescriptions-and-holidays-and-festivities-and-festivalry)).
-
   - [Nowe baśnie z 1001 nocy](https://polona.pl/item/nowe-basnie-z-1001-nocy,Njc3NjUyMzc) - A very shortened version of the ["One Thousand and One Nights"]([https://pl.wikipedia.org/wiki/Ksi%C4%99ga_tysi%C4%85ca_i_jednej_nocy](https://pl.wikipedia.org/wiki/Księga_tysiąca_i_jednej_nocy)) in which some of the most famous stories are presented. The book is also [available at Wikisource](https://pl.wikisource.org/wiki/Nowe_ba%C5%9Bnie_z_1001_nocy).
 
   - [O takim, co rozumiał, jak dźwirzęta gwarzom (O takim, co rozumiał, co zwierzęta mówią - About a man who understood animal speech)](https://polona.pl/item/o-takim-co-rozumial-jak-dzwirzeta-gwarzom-bajka,NzI1NTMxNjU/) - An old Polish fairy tale written in countryside village dialect [from Województwo świętokrzyskie]([https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie](https://pl.wikipedia.org/wiki/Województwo_świętokrzyskie)) (Author was born in [Nietulisko Duże]([https://pl.wikipedia.org/wiki/Nietulisko_Du%C5%BCe](https://pl.wikipedia.org/wiki/Nietulisko_Duże))) over a hundred years ago ([More works by this author](https://polona.pl/search/?filters=public:1,creator:%22Piotrowski,_Antoni_(1853--1924)%22)). It is such an interesting thing, for people who want to learn dialects (Sometimes they are very funny, because the sometimes words used in them are vulgar in the common use - common language).
   - [Polish magazines published in Polish (You can also choose other languages in the filters, I set up Polish for this)](https://polona.pl/search/?filters=language:polski,category:serials,public:1,hasTextContent:0) - A public mine of historical information, you can read here a lot of articles from the pre-war period and more.
-
 - [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - A website very similar to [Polona](https://fbc.pionier.net.pl). 
 
   - [Project Gutenberg](https://www.gutenberg.org/browse/languages/pl) - A worldwide project for the distribution of books for free, there are also books protected by copyright, but added with owner's permission. Some countries [maybe] do not have access to this website, for example: you can't visit it in Germany or with Germany IP because it is against German law - [Explanation](https://cand.pglaf.org/germany/index.html). The name of the project obviously refers to [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), who invented the [printing method with movable type](https://en.wikipedia.org/wiki/Johannes_Gutenberg#Printing_method_with_movable_type). 
-
 - [Open Library](https://openlibrary.org/subjects/polish_literature) - The Internet Archive's Open Library - index of available books from [Internet Archive (archive.org)](https://archive.org/).
 
   - [About copyright violation accusations](https://en.wikipedia.org/wiki/Open_Library#Copyright_violation_accusations).
-
 - [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above. As the name suggests, there are many books here.
-
 - [Lektorek](https://lektorek.org/lektorek/) - Website associated with [University of Pittsburgh](https://www.pitt.edu/) You will find here a lot of valuable documents related to learning Polish. For example, in the category [First Year Polish](https://lektorek.org/lektorek/firstyear/) > [Lessons](https://lektorek.org/lektorek/firstyear/lessons/) there are 12 lessons (as 12 PDF files) and also a supplement and a glossary. In ["Other"](https://lektorek.org/lektorek/Other/) you will also find a lot of interesting things, for example [Polish song book](https://lektorek.org/lektorek/Other/), [short stories](https://lektorek.org/lektorek/Other/opowiesci.pdf) and [English-Polish phrasebook](https://lektorek.org/lektorek/Other/phrasebook.pdf) and more.
-
 - [Ebooks from the government website of The Polish State Forests](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania) - You can find a lot of ebooks on forest-related things. in different formats here, most often in PDF format, but also, of course, in .epub and .mobi. [Here, for example, you have a book on the art of photographing nature](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/sztuka-fotografowania-przyrody) and about [forest survival](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/survival). A lot of people will certainly be interested in [a book on forest recipes](https://www.lasy.gov.pl/pl/informacje/publikacje/e-book-od-lasow-panstwowych/dobre-z-lasu-czyli-natura-od-kuchni).
-
 - [Wirtualne modelarstwo by Witold Jaworski](https://samoloty3d.pl/wm-000_p.xml) - Ebooks about aircraft computer modeling  (the programs that will be used are Blender, Gimp and Inkscape). If you ever wanted to learn how to model, then this guide may prove useful to you, although it is now, when I write it, intended for an older version of Blender, but in fact, the instructions relating to that version will also, of course, be able to be reproduced in the latest version of this software, only requiring a few moments more.
-
 - [Niebezpieczne litery](https://gfijas.pl/niebezpieczne-litery-e-book) - Here you can download a book about [typography](https://en.wikipedia.org/wiki/Typography) (PDF, EPUB and MOBI).
-
 - [Python na luzie](http://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - "Python on chillout" it's a very nice and big guide to learning the Python programming language in Polish. This is a direct link to download the latest version (as of 22.09.2020). If you want to start your adventure with the world of programming and you don't know which language to choose for the start, I personally recommend Python, because you can start this adventure in a very simple and quite relaxed way, but it is also worth trying to get to know other languages later, to have a kind of contrast and to be sure if this choice was really good, you can also know many programming languages and a lot of people do, but it is worth knowing one very well first, because then it is easier with others ([Here is the official tutorial page in Polish](https://www.learnpython.org/pl/)). 
+
+#### Fantasy (Fantastyka)
+
+`Here you will find many available magazines, anthologies and individual stories, it is worth giving them a chance, because they are all prepared with passion and great efforts and most look really professional. I am sorry that I have described most of them so briefly.`
+
+- [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories.
+- [Legendy Polskie by Allegro](https://allegro.pl/legendy/#legendy-modal) - An anthology of many fantastic texts inspired by Polish legends. If you want to watch films from the same series also inspired by Polish legends, I invite you [here](https://www.youtube.com/watch?v=1J_Y12RqeLM&list=PLFttT4XjEwKQjYyH9m2vwwXQG94tUEeR1).
+- [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - A large number of very qualitative anthologies. Covers are also very nice.
+- [Creatio Fantastica](https://creatiofantastica.com/archiwum/) - A free "scientific literary" magazine. It is worth checking.
+- [Magazyn Biały Kruk](https://magazyn.bialykruk.org/magazyn) - A very interesting magazine about fantasy. Here you will of course find many available publications.
+- [Grabarz Polski](http://grabarz.net/category/grabarz-polski) - Archive of the horror fantasy magazine.
+- [Magazyn Histeria](http://magazynhisteria.pl) - The second nice Polish horror magazine.
+- [Smokopolitan](https://smokopolitan.pl) - Next great magazine. There are dragons everywhere, waiting to be blown away by a fire composed of cool articles.
+- [Historia Vita](http://www.historiavita.pl) - Here you can download some fantasy anthologies, for example the first part of anthology ["Ostatni dzień pary"](http://www.historiavita.pl/ostatni-dzien-pary/) (The Last Day of the Steam). [Second is available here](http://www.historiavita.pl/ostatni-dzien-pary-2).
+- [Silmaris](https://silmaris.pl) - Another good online magazine about fantasy and science fiction.
+- [Ścieżki wyobraźni](https://www.sekcjalogrus.slask.pl/publikacje-sekcji/) - Anthologies of fantastic texts prepared by the [Sekcję Literacką Śląskiego Klubu Fantastyki "Logrus" (Literary Section of the Silesian Fantasy Club "Logrus")](https://www.skf.org.pl/sekcja-literacka-logrus).
 
 ### Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)
 
