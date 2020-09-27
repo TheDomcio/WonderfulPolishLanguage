@@ -35,7 +35,7 @@ Pozdrawiam bardzo serdecznie.
      - [Scientific (Naukowe)](#scientific-naukowe)
      - [Cultural (Kulturalne)](#cultural-kulturalne)
      - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
-     - [Games (Gry)](games-gry)
+     - [Games (Gry)](#games-gry)
      - [Movies (Filmy)](#film-filmowe)
 
      - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
@@ -54,7 +54,7 @@ Pozdrawiam bardzo serdecznie.
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke](#karaoke)
 
-4. [Games (Gry)](#games-gry)
+4. [Games (Gry)](#games-gry-1)
 
    - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe)
 
