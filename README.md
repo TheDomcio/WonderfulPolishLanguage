@@ -32,6 +32,10 @@ Pozdrawiam bardzo serdecznie.
    - [YouTube](#youtube)
 
      - [Linguistics and related (Lingwistyka i powiązane)](#linguistics-and-related-lingwistyka-i-powiązane)
+     - [Scientific (Naukowe)](#scientific-naukowe)
+     - [Cultural (Kulturalne)](#cultural-kulturalne)
+     - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
+     - [Film (Filmowe)](#film-filmowe)
 
      - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
 
