@@ -103,30 +103,54 @@ Pozdrawiam bardzo serdecznie.
 
 - [Wolne Lektury (Free readings)](https://wolnelektury.pl) - A great source of ebooks and audiobooks and much more. The website interface supports many languages. A cool option available on this page is to generate custom PDFs of available works, where you can e.g. add or delete indexes etc.
   [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
+
 - [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A brilliant source with a lot of famous literary texts. 
+
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Wolne Lektury](https://wolnelektury.pl), also contains a lot of books.
+
 - [Wielkopolska Digital Library](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library. 
-- Fantasy:
+
+- Fantastyka:
+
+  `Here you will find many available magazines, anthologies and individual stories, it is worth giving them a chance, because they are all prepared with passion and great efforts and most look really professional. I am sorry that I have described most of them so briefly.`
+
   - [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories.
+  - [Legendy Polskie by Allegro](https://allegro.pl/legendy/#legendy-modal) - An anthology of many fantastic texts inspired by Polish legends. If you want to watch films from the same series also inspired by Polish legends, I invite you [here](https://www.youtube.com/watch?v=1J_Y12RqeLM&list=PLFttT4XjEwKQjYyH9m2vwwXQG94tUEeR1).
   - [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - A large number of very qualitative anthologies. Covers are also very nice.
   - [Creatio Fantastica](https://creatiofantastica.com/archiwum/) - A free "scientific literary" magazine. It is worth checking.
+  - [Magazyn Biały Kruk](https://magazyn.bialykruk.org/magazyn) - A very interesting magazine about fantasy. Here you will of course find many available publications.
+  - [Grabarz Polski](http://grabarz.net/category/grabarz-polski) - Archive of the horror fantasy magazine.
+  - [Magazyn Histeria](http://magazynhisteria.pl) - The second nice Polish horror magazine.
   - [Smokopolitan](https://smokopolitan.pl) - Next great magazine. There are dragons everywhere, waiting to be blown away by a fire composed of cool articles.
+  - [Historia Vita](http://www.historiavita.pl) - Here you can download some fantasy anthologies, for example the first part of anthology ["Ostatni dzień pary"](http://www.historiavita.pl/ostatni-dzien-pary/) (The Last Day of the Steam). [Second is available here](http://www.historiavita.pl/ostatni-dzien-pary-2).
   - [Silmaris](https://silmaris.pl) - Another good online magazine about fantasy and science fiction.
+  - [Ścieżki wyobraźni](https://www.sekcjalogrus.slask.pl/publikacje-sekcji/) - Anthologies of fantastic texts prepared by the [Sekcję Literacką Śląskiego Klubu Fantastyki "Logrus" (Literary Section of the Silesian Fantasy Club "Lorgus")](https://www.skf.org.pl/sekcja-literacka-logrus).
+
 - [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time (I will try to add interesting books In other categories from there, e.g. I have already added some [here](#recipes-for-holidays-and-festivities-prescriptions-and-holidays-and-festivities-and-festivalry)).
 
   - [Nowe baśnie z 1001 nocy](https://polona.pl/item/nowe-basnie-z-1001-nocy,Njc3NjUyMzc) - A very shortened version of the ["One Thousand and One Nights"]([https://pl.wikipedia.org/wiki/Ksi%C4%99ga_tysi%C4%85ca_i_jednej_nocy](https://pl.wikipedia.org/wiki/Księga_tysiąca_i_jednej_nocy)) in which some of the most famous stories are presented. The book is also [available at Wikisource](https://pl.wikisource.org/wiki/Nowe_ba%C5%9Bnie_z_1001_nocy).
 
   - [O takim, co rozumiał, jak dźwirzęta gwarzom (O takim, co rozumiał, co zwierzęta mówią - About a man who understood animal speech)](https://polona.pl/item/o-takim-co-rozumial-jak-dzwirzeta-gwarzom-bajka,NzI1NTMxNjU/) - An old Polish fairy tale written in countryside village dialect [from Województwo świętokrzyskie]([https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie](https://pl.wikipedia.org/wiki/Województwo_świętokrzyskie)) (Author was born in [Nietulisko Duże]([https://pl.wikipedia.org/wiki/Nietulisko_Du%C5%BCe](https://pl.wikipedia.org/wiki/Nietulisko_Duże))) over a hundred years ago ([More works by this author](https://polona.pl/search/?filters=public:1,creator:%22Piotrowski,_Antoni_(1853--1924)%22)). It is such an interesting thing, for people who want to learn dialects (Sometimes they are very funny, because the sometimes words used in them are vulgar in the common use - common language).
   - [Polish magazines published in Polish (You can also choose other languages in the filters, I set up Polish for this)](https://polona.pl/search/?filters=language:polski,category:serials,public:1,hasTextContent:0) - A public mine of historical information, you can read here a lot of articles from the pre-war period and more.
+
 - [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - A website very similar to [Polona](https://fbc.pionier.net.pl). 
 
   - [Project Gutenberg](https://www.gutenberg.org/browse/languages/pl) - A worldwide project for the distribution of books for free, there are also books protected by copyright, but added with owner's permission. Some countries [maybe] do not have access to this website, for example: you can't visit it in Germany or with Germany IP because it is against German law - [Explanation](https://cand.pglaf.org/germany/index.html). The name of the project obviously refers to [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), who invented the [printing method with movable type](https://en.wikipedia.org/wiki/Johannes_Gutenberg#Printing_method_with_movable_type). 
+
 - [Open Library](https://openlibrary.org/subjects/polish_literature) - The Internet Archive's Open Library - index of available books from [Internet Archive (archive.org)](https://archive.org/).
 
   - [About copyright violation accusations](https://en.wikipedia.org/wiki/Open_Library#Copyright_violation_accusations).
+
 - [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above. As the name suggests, there are many books here.
+
 - [Lektorek](https://lektorek.org/lektorek/) - Website associated with [University of Pittsburgh](https://www.pitt.edu/) You will find here a lot of valuable documents related to learning Polish. For example, in the category [First Year Polish](https://lektorek.org/lektorek/firstyear/) > [Lessons](https://lektorek.org/lektorek/firstyear/lessons/) there are 12 lessons (as 12 PDF files) and also a supplement and a glossary. In ["Other"](https://lektorek.org/lektorek/Other/) you will also find a lot of interesting things, for example [Polish song book](https://lektorek.org/lektorek/Other/), [short stories](https://lektorek.org/lektorek/Other/opowiesci.pdf) and [English-Polish phrasebook](https://lektorek.org/lektorek/Other/phrasebook.pdf) and more.
+
 - [Ebooks from the government website of The Polish State Forests](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania) - You can find a lot of ebooks on forest-related things. in different formats here, most often in PDF format, but also, of course, in .epub and .mobi. [Here, for example, you have a book on the art of photographing nature](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/sztuka-fotografowania-przyrody) and about [forest survival](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/survival). A lot of people will certainly be interested in [a book on forest recipes](https://www.lasy.gov.pl/pl/informacje/publikacje/e-book-od-lasow-panstwowych/dobre-z-lasu-czyli-natura-od-kuchni).
+
+- [Wirtualne modelarstwo by Witold Jaworski](https://samoloty3d.pl/wm-000_p.xml) - Ebooks about aircraft computer modeling  (the programs that will be used are Blender, Gimp and Inkscape). If you ever wanted to learn how to model, then this guide may prove useful to you, although it is now, when I write it, intended for an older version of Blender, but in fact, the instructions relating to that version will also, of course, be able to be reproduced in the latest version of this software, only requiring a few moments more.
+
+- [Niebezpieczne litery](https://gfijas.pl/niebezpieczne-litery-e-book) - Here you can download a book about [typography](https://en.wikipedia.org/wiki/Typography) (PDF, EPUB and MOBI).
+
 - [Python na luzie](http://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - "Python on chillout" it's a very nice and big guide to learning the Python programming language in Polish. This is a direct link to download the latest version (as of 22.09.2020). If you want to start your adventure with the world of programming and you don't know which language to choose for the start, I personally recommend Python, because you can start this adventure in a very simple and quite relaxed way, but it is also worth trying to get to know other languages later, to have a kind of contrast and to be sure if this choice was really good, you can also know many programming languages and a lot of people do, but it is worth knowing one very well first, because then it is easier with others ([Here is the official tutorial page in Polish](https://www.learnpython.org/pl/)). 
 
 ### Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)
@@ -281,12 +305,11 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 
 - [Studio FIlmów Rysunkowych](https://www.youtube.com/channel/UCfXtDCs237pyDFCBIQR46yw) -  The official YouTube channel of Studio Filmów Rysunkowych. They created many cartoons for children such as "Reksio" and "Bolek i Lolek" and a brilliant cartoon series ["Porwanie Baltazara Gąbki"](https://www.youtube.com/playlist?list=PLpuDzL_F-CRrtJH-TxkKvERbLMSBQ8EpF) (Unofficial playlist, because on the official playlist the films are not arranged chronologically). All these productions, including animated "long time movies" can be watched for free and legally on their channel. Currently there are also videos of drawing characters from their production. These are cult productions that were part of many people's childhood (The same as the Czech ["Krtek"](https://pl.wikipedia.org/wiki/Krecik)) and "[Pat a Mat]([https://pl.wikipedia.org/wiki/S%C4%85siedzi_(serial_animowany)](https://pl.wikipedia.org/wiki/Sąsiedzi_(serial_animowany)))" and "[O loupežníku Rumcajsovi"]([https://pl.wikipedia.org/wiki/Rozb%C3%B3jnik_Rumcajs](https://pl.wikipedia.org/wiki/Rozbójnik_Rumcajs))).
 - [Studio Miniatur Filmowych](https://www.youtube.com/user/StudioMiniaturF) - The official YouTube channel of "Studio Miniatur Filmowych" - Another great studio that created such great productions as ["Dziwne przygody Koziołka Matołka"](https://www.youtube.com/watch?v=2l3swTSo1_I)) and ["Pomysłowy Dobromir"](https://www.youtube.com/watch?v=IEASuS_2GpQ)). 
-
 - [Nickelodeon Polska](https://www.youtube.com/channel/UCkYjxitEIMZzyMaEzP7iVDA) - The official Nickelodeon Poland channel, for example, if you want to watch some episodes of SpongeBob in Polish, then I have good news for you, because there are obviously a lot of episodes of this animated series.
-
 - [Cartoon Network Polska](Cartoon Network Polska) - The official Cartoon Network Poland channel. You will find here (Over 200 full episodes of the various series), for example, many episodes of Ben 10 (new and old, I have watched this old one a lot and really liked this series). Some episodes of The Amazing World of Gumball are also really cool and this is where you will be able to see most of them.
   - [Here you will find more episodes of The Amazing World of Gumball in Polish](https://www.youtube.com/Niesamowity%C5%9BwiatGumballa)
 - [Boomerang Polska](https://www.youtube.com/channel/UCicK95u7KyGYsvtEbzZ4wIg) -  The official YouTube channel Boomerang Poland. There is some Tom and Jerry, Scooby Doo and Looney Tunes.
+- [Bajkowisko - bajki dla dzieci](https://www.youtube.com/channel/UCfNFD9kA84WtfckM0O7ftUg) - YouTube channel with audiobooks for children.
 
 ### VOD
 
@@ -343,6 +366,8 @@ Currently the most popular polish translation of the Bible is ["Biblia Tysiącle
 - [MTJ Wytwórnia Muzyczna](https://www.youtube.com/user/MTJPoland) - official channel of the Polish music label MTJ Wytwórnia Muzyczna. 
 - [Real Polish](https://realpolish.pl/podcast) and [Here is the official Archive.org profile with free podcasts, because some of them require a VIP account, and here you have free podcasts right away](https://archive.org/details/@realpolish)
 - [Great78](https://archive.org/details/georgeblood?&and[]=languageSorter%3A%22Polish%22) - Polish collections from The Great 78 Project, where the local community make preservation, research and discovery 78 rpm records, which are very old vinyl records, so it's a great source to listen to old Polish songs and see what the language and style of the melody sounded like at the time, a really cool thing, I'd like more projects of this kind to be on this list, not just websites that aren't eternal, here you can download these songs (they're in .flac format) and listen them on your favorite device. There are usually several versions available in one archive file, i.e. versions with extra settings and the original version without any additional settings.
+- [Audioteka](https://www.youtube.com/user/audiotekapl) - The official YouTube channel of [Audioteka](https://audioteka.com/pl), you will find a lot of audiobooks to listen here, of course often only parts of the books are available to encourage you to buy them, but it is in very fair form - the videos have many minutes.
+- [Bajkowy tata](https://bajkowytata.com/audiobooki) - Audiobooks for children, which "can be downloaded and listened to for free, without restrictions".
 
 ### Song lyrics, notes and tabs (Teksty piosenek, nuty i taby)
 
