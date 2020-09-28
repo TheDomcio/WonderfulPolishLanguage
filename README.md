@@ -15,9 +15,7 @@ Pozdrawiam bardzo serdecznie.
   -0. [What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
 
 0. [Contents (Spis treści)](#contents-spis-treści)
-
 1. [Texts (Teksty)](#texts-teksty)
-
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
      - [Fantasy (Fantastyka)](#fantasy-fantastyka)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
@@ -25,9 +23,7 @@ Pozdrawiam bardzo serdecznie.
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
    - [Dictionaries and etc. (Słowniki itp.)](#dictionaries-and-etc-słowniki-itp)
    - [Translators (Tłumacze)](#translators-tłumacze)
-
 2. [Videos (Filmy)](#videos-filmy)
-
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
 
    - [YouTube](#youtube)
@@ -48,54 +44,35 @@ Pozdrawiam bardzo serdecznie.
    - [Subtitles (Napisy)](#subtitles-napisy)
 
    - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
-
 3. [Audio](#audio)
-
    - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-notes-and-tabs-teksty-piosenek-nuty-i-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke](#karaoke)
-
 4. [Games (Gry)](#games-gry-1)
 
    - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe)
-
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
-
 6. [Services (Serwisy)](#services-serwisy)
-
 7. [Culinary (Kulinaria)](#culinary-kulinaria)
 
    - [Recipes for holidays and festivities (Przepisy na święta i uroczystości)](#recipes-for-holidays-and-festivities-przepisy-na-święta-i-uroczystości)
-
 8. [Polish law (Polskie prawo)](#polish-law-polskie-prawo)
 
    - [Road traffic regulations (Przepisy prawa ruchu drogowego)](#road-traffic-regulations-przepisy-prawa-ruchu-drogowego)
-
 9. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
-
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
-
 10. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
-
 11. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
-
 12. [My nice tips (Moje świetne wskazówki)](#my-nice-tips-moje-świetne-wskazówki)
-
 13. [Others (Inne)](#others-inne)
-
     - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
 
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
-
 14. [Contact (Kontakt)](#contact-kontakt)
-
 15. [Support (Wsparcie)](#support-wsparcie)
-
 16. [Acknowledgements](#acknowledgements-podziękowania)
-
 17. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
-
 18. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
@@ -108,9 +85,9 @@ Pozdrawiam bardzo serdecznie.
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Wolne Lektury](https://wolnelektury.pl), also contains a lot of books.
 - [Wielkopolska Digital Library](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library. 
 - [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time (I will try to add interesting books In other categories from there, e.g. I have already added some [here](#recipes-for-holidays-and-festivities-prescriptions-and-holidays-and-festivities-and-festivalry)).
-  - [Nowe baśnie z 1001 nocy](https://polona.pl/item/nowe-basnie-z-1001-nocy,Njc3NjUyMzc) - A very shortened version of the ["One Thousand and One Nights"]([https://pl.wikipedia.org/wiki/Ksi%C4%99ga_tysi%C4%85ca_i_jednej_nocy](https://pl.wikipedia.org/wiki/Księga_tysiąca_i_jednej_nocy)) in which some of the most famous stories are presented. The book is also [available at Wikisource](https://pl.wikisource.org/wiki/Nowe_ba%C5%9Bnie_z_1001_nocy).
+- [Nowe baśnie z 1001 nocy](https://polona.pl/item/nowe-basnie-z-1001-nocy,Njc3NjUyMzc) - A very shortened version of the ["One Thousand and One Nights"]([https://pl.wikipedia.org/wiki/Ksi%C4%99ga_tysi%C4%85ca_i_jednej_nocy](https://pl.wikipedia.org/wiki/Księga_tysiąca_i_jednej_nocy)) in which some of the most famous stories are presented. The book is also [available at Wikisource](https://pl.wikisource.org/wiki/Nowe_ba%C5%9Bnie_z_1001_nocy).
 
-  - [O takim, co rozumiał, jak dźwirzęta gwarzom (O takim, co rozumiał, co zwierzęta mówią - About a man who understood animal speech)](https://polona.pl/item/o-takim-co-rozumial-jak-dzwirzeta-gwarzom-bajka,NzI1NTMxNjU/) - An old Polish fairy tale written in countryside village dialect [from Województwo świętokrzyskie]([https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie](https://pl.wikipedia.org/wiki/Województwo_świętokrzyskie)) (Author was born in [Nietulisko Duże]([https://pl.wikipedia.org/wiki/Nietulisko_Du%C5%BCe](https://pl.wikipedia.org/wiki/Nietulisko_Duże))) over a hundred years ago ([More works by this author](https://polona.pl/search/?filters=public:1,creator:%22Piotrowski,_Antoni_(1853--1924)%22)). It is such an interesting thing, for people who want to learn dialects (Sometimes they are very funny, because the sometimes words used in them are vulgar in the common use - common language).
+- [O takim, co rozumiał, jak dźwirzęta gwarzom (O takim, co rozumiał, co zwierzęta mówią - About a man who understood animal speech)](https://polona.pl/item/o-takim-co-rozumial-jak-dzwirzeta-gwarzom-bajka,NzI1NTMxNjU/) - An old Polish fairy tale written in countryside village dialect [from Województwo świętokrzyskie]([https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie](https://pl.wikipedia.org/wiki/Województwo_świętokrzyskie)) (Author was born in [Nietulisko Duże]([https://pl.wikipedia.org/wiki/Nietulisko_Du%C5%BCe](https://pl.wikipedia.org/wiki/Nietulisko_Duże))) over a hundred years ago ([More works by this author](https://polona.pl/search/?filters=public:1,creator:%22Piotrowski,_Antoni_(1853--1924)%22)). It is such an interesting thing, for people who want to learn dialects (Sometimes they are very funny, because the sometimes words used in them are vulgar in the common use - common language).
   - [Polish magazines published in Polish (You can also choose other languages in the filters, I set up Polish for this)](https://polona.pl/search/?filters=language:polski,category:serials,public:1,hasTextContent:0) - A public mine of historical information, you can read here a lot of articles from the pre-war period and more.
 - [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - A website very similar to [Polona](https://fbc.pionier.net.pl). 
 
@@ -558,7 +535,6 @@ Law is a very important thing in society, the following links will be useful for
 ## Social networks (Sieci społecznościowe)
 
 - Reddit:
-
   - [/r/learnpolish](https://www.reddit.com/r/learnpolish) - Very nice subreddit about learning Polish. If you have any questions, doubts or interesting information about things related to the Polish language, feel free to write there. Poland is generally a nation willing to help others, there is a huge hospitality culture here since the beginning of the country, so for over 1000 years. In every society, there are stupid, silly and fanatic people, and Poland is no exception, so we should not generalize, because we have a lot of intelligent, nice and tolerant people here. Poland often lost out on such an attitude, because for other countries, as it be in Politics, only interests mattered.
   - [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
   - [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
@@ -570,18 +546,14 @@ Law is a very important thing in society, the following links will be useful for
   - [/r/Zagranicznicy](https://www.reddit.com/r/Zagranicznicy) - Subreddit bringing together all those who have emigrated.
   - [/r/filozofia](https://www.reddit.com/r/filozofia) -  Polish subreddit about philosophy.
   - [/r/muzyka](https://www.reddit.com/r/muzyka) - Polish subreddit about music.
-
 - Discord:
-
   - [Learn Polish Discord Server](https://discord.gg/4U7Akj6) - The best Discord server to learn Polish. I would like to invite everyone here who has some problems with the language, is curious about something or just wants to talk to people in Polish, the community is open to other and active. I am too active here. 
   - [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
   - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
   - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
   - [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solutions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? The [Wiki](https://przygodyreksia.fandom.com/wiki/Strona_g%C5%82%C3%B3wna) is also worth checking.
   - [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
-
 - [HiNative](https://hinative.com/pl) - A multilingual platform for asking and answering questions (Q&A). Here you can ask questions about Poland and Polish language issues.
-
 - [Nasza Klasa (NK)](https://nk.pl) - One of Poland's cult social networking sites, before the popularization of Facebook in Poland, was very often used by Poles, offered a lot of online games, I personally switched from NK to Facebook 8 years ago because I wanted to play the latest version of Shadow Fight, and this Polish version had less updates. This site can be very useful to you, for example if you once lived in Poland and attended a Polish school, and you've really liked a lot of people and forgotten their names, there's a chance that you'll find some pictures and details of these people there (These are also worth mentioning: [Gadu-Gadu](https://gadu-gadu.pl) or [Grono.net](https://pl.wikipedia.org/wiki/Grono.net) - which lost its popularity when popularity of NK grew).
 
 ## My nice tips (Moje świetne wskazówki)
@@ -590,7 +562,7 @@ Law is a very important thing in society, the following links will be useful for
 - The word ["spoko"](https://pl.wiktionary.org/wiki/spoko) (comes from the word: "**spoko**jnie" - calmly) is a very useful and universal word. You can use it instead of "Nie ma za co" (You're welcome) and also "Nie ma problemu" (No problem), so when, for example, a neighbor apologizes to you that a his piano fell out of his window into your garden, you can tell him: "Spoko". You can say that you like something, e.g. "Ten film jest spoko" ("This movie is cool"). It is from many years a very popular word, so even the older ones will understand. Of course, it can be used to, for example, soothe someone nervous - "Spoko, wszystko będzie w porządku" (Chill, everything will be fine). Or you can confirm something with this word e.g. someone asks you if you want to go to the cinema, then if you want to, you say "Spoko" ("Yes" in this case). So, if you are afraid to use the word "w porządku" and you still use ["**ok**ay/okey(/okej)"](https://pl.wiktionary.org/wiki/OK), then "spoko" can be a cool alternative for you. Of course it's a slang word, so if you use it during a "serious conversation", someone might get the impression that you're a "relaxed kind of human", although that's good, because at least they will know you're an honest man.
 - If you want to sound more like noble or just poetic (elevated/high style of speech), for example you can change the words (pronouns) "moim" (moje) to "mym" (me) and "twoim" (twoje) to "twym" (twe) [and more](https://pl.wiktionary.org/wiki/Aneks:J%C4%99zyk_polski_-_zaimki#m%C3%B3j,_tw%C3%B3j,_sw%C3%B3j) (Also check [here](https://sjp.pwn.pl/poradnia/haslo/Me-twe-swe;18579.html) and [HIER](https://pl.wikipedia.org/wiki/Mowa_(retoryka)#Mowa_w_stylu_wysokim)). So if you're wearing daily a monocle and a cylinder, it's something **absolutely necessary** for you, don't forget also to take your own tea set [and also you should have a large stock of [[matricaria chamomilla](https://en.wikipedia.org/wiki/Matricaria_chamomilla) in your inventory] with a gilded cup (In general, this can sound a bit old-fashioned, but it's one of the cool ways to ["color"](https://pl.wiktionary.org/wiki/ubarwianie) your speech in Polish - sometimes one snowman from a certain cartoon talked in this style, so if you've watched this cartoon about a helpful green dragon, you'll know who was it).
 - If you want to call (define) a person who likes something with a simple noun, you can do so by adding the ending (yes, yes - sufiks) **-olub** (or -**olubka** in femininum). For example a person who likes pasta = makaron**olub** or, for example, a person who likes locomotives = lokomotyw**olub** and yet a person who likes images = "obraz**olub**". It is a bit "synthetic" and may sound funny, so use it rather for such "chill conversations", than implement it in your everyday language, because, there are already [more "professional"] dictionary terms for people who like something like "audio**fil**" (audio**phile**) and its synonym: melo**man** (music lover and the suffix **-man** itself, that is from the word ["mania"](https://pl.wiktionary.org/wiki/mania), so it means a person who has a [mania](https://pl.wiktionary.org/wiki/mania) at some point, so a person who's maniacally eating broccoli ([brokuł - Brassica oleracea L. var. italica Plenck]([https://pl.wikipedia.org/wiki/Broku%C5%82](https://pl.wikipedia.org/wiki/Brokuł))) is "brokuło**man**" or "brokuło**maniak**" with [**-maniak**](https://pl.wiktionary.org/wiki/maniak)). I would just add that you can also do the same with the ending [**-fil**](https://pl.wiktionary.org/wiki/-fil), but there are also a lot of words to describe people with very bad tendencies (with various disorders) and you know what I mean. That is why the creation of words with this ending would be badly associated with some bad things. By the way, I would also like to take this opportunity to say that if, for example, we would like to define a human-like creatures, then we can do it by adding the ending **-lud**, e.g. a frog ([żaba](https://pl.wikipedia.org/wiki/%C5%BBaba_wodna)) with legs and hands and behaving like a human - żabo**lud** or also you can use the ending **-człek**, then żabo**człek** or another example of "human + elephant ([słoń](https://pl.wikipedia.org/wiki/S%C5%82oniowate))" - słonio**lud**/słonio**człek** (There is a very popular word in Polish - "ufolud" and the diminutive of this word - ["ufo**ludek**"](https://sjp.pwn.pl/slowniki/ufoludek.html) and it means "alien"). I will add, finally, that if we want to define a person who eats (she or he or it has a lot of this food in diet) something, for example watermelons ([arbuzy - Citrullus vulgaris](https://pl.wikipedia.org/wiki/Arbuz_zwyczajny)), then we can add the ending **-jad** and then such a person will be called arubozo**jad** or with sufiks **-żerca**, then "arbuzo**żerca**" or jabłko**jad**/jabłko**żerca** (apple-eating creature). Creatures with a plant-based diet = roślino**żercy** and those with a diet in which there is meat = mięso**żercy**, then for example, "dinozaury roślino**żerne**" (herbivorous dinosaurs) and dinozaury mięso**żerne** (carnivorous dinosaurs). So you can say in joke that vegetarians and vegans are: "roślino**żerni**/roślino**żercami**". 
-- I mentioned to you earlier the use of the word ["spoko"](https://pl.wiktionary.org/wiki/spoko). I will now tell you about another very useful and universal word (it comes from colloquial speech), the word ["lipa"](https://pl.wiktionary.org/wiki/lipa) (Literally means ["lipa"](https://pl.wikipedia.org/wiki/Lipa) - [Tilia - Linden or Lime tree](https://en.wikipedia.org/wiki/Tilia)). It is a word that means something not entirely cool or just a failure to do something etc. For example, someone may ask: "Byłeś już w tej kręgielni, która została niedawno otwarta?" (Have you been to this bowling alley that was recently opened?) and someone can answer: "Tak, totalna lipa" (Yes, totally uncool). So, as you can see, this is the complete opposite of the [positive] word ["spoko"](https://pl.wiktionary.org/wiki/spoko). Another example: "Czy udało ci się przejść ten poziom w tej nowej grze?" (Have you managed to pass this level in this new game?) and answer: "Nie, nadal lipa" (No, still not successful). You can also use this as a "statement - shout of sad" - "Co za lipa!" (Such a shame!) or alternative "Ale lipa!" (For example, when you lack a small amount of money to buy something or when just a small moment before you arrived at the bus stop, the bus you wanted to go with, drove off right before your eyes and now you have to wait a 30 minutes for another one). One more example to conclude: "Jak smakuje ci ten dziwny owoc?" (How does this strange fruit taste to you?) and answer: "Lipnie" (Poorly - It's adverb of ["lipa"](https://pl.wiktionary.org/wiki/lipa)). That is next word kind of: everyone, regardless of their age, will understand the word, because it is quite often used by people from different parts of the country (Wooden people will probably never use it in their entire lives, although Pinocchio would be happy to use it, but it is not about him).
+- I mentioned to you earlier the use of the word ["spoko"](https://pl.wiktionary.org/wiki/spoko). I will now tell you about another very useful and universal word (it comes from colloquial speech), the word ["lipa"](https://pl.wiktionary.org/wiki/lipa) (Literally means ["lipa"](https://pl.wikipedia.org/wiki/Lipa) - [Tilia - Linden or Lime tree](https://en.wikipedia.org/wiki/Tilia)). It is a word that means something not entirely cool or just a failure to do something etc. For example, someone may ask: "Byłeś już w tej kręgielni, która została niedawno otwarta?" (Have you been to this bowling alley that was recently opened?) and someone can answer: "Tak, totalna lipa" (Yes, totally uncool). So, as you can see, this is the complete opposite of the [positive] word ["spoko"](https://pl.wiktionary.org/wiki/spoko). Another example: "Czy udało ci się przejść ten poziom w tej nowej grze?" (Have you managed to pass this level in this new game?) and answer: "Nie, nadal lipa" (No, still not successful). You can also use this as a "statement - shout of sad" - "Co za lipa!" (Such a shame!) or alternative "Ale lipa!" (For example, when you lack a small amount of money to buy something or when just a small moment before you arrived at the bus stop, the bus you wanted to go with, drove off right before your eyes and now you have to wait a 30 minutes for another one). One more example to conclude: "Jak smakuje ci ten dziwny owoc?" (How does this strange fruit taste to you?) and answer: "Lipnie" (Poorly - It's adverb of this specific use ["lipa"](https://pl.wiktionary.org/wiki/lipa), normally, it would be correct to say "lipowe", for example "lipowa herbata" - linden tea). If you want to use this example in the plural, it would be, for example "Lipne jedzenie" (Poor food). That is next word kind of: everyone, regardless of their age, will understand the word, because it is quite often used by people from different parts of the country (Wooden people will probably never use it in their entire lives, although Pinocchio would be happy to use it, but it is not about him).
 
 ## Others (Inne)
 
