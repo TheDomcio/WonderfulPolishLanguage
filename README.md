@@ -162,7 +162,7 @@ Pozdrawiam bardzo serdecznie.
 
 ### The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)
 
-Currently the most popular polish translation of the Bible is ["Biblia Tysiąclecia"](https://pl.wikipedia.org/wiki/Biblia_Tysi%C4%85clecia).
+I will mention that currently the most popular polish translation of the Bible is ["Biblia Tysiąclecia"](https://pl.wikipedia.org/wiki/Biblia_Tysi%C4%85clecia).
 
 - [Biblie Polskie](http://bibliepolskie.pl/index.php) and ([Archive mirror](https://web.archive.org/web/20200922180928/http://bibliepolskie.pl/przeklady.php)) - A really cool website with a list of Bible translations into Polish. You will also find links to descriptions and often to download these translations (e.g. to archives, the site also has its own mirrors sometimes, so if you haven't found your favourite translation here or want to know more, I invite you there).
 - [Biblia Audio](https://bibliaaudio.pl/wideoaudio) - A great project made by the "SUPERPRODUCTION" recording studio, where you can hear audio books of Old Testament and New Testament with the voices of popular Polish actors and also with great sound effects.
