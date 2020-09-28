@@ -620,17 +620,12 @@ Law is a very important thing in society, the following links will be useful for
 Feel free to ask, if you have any doubts or would you simply like to propose adding/changing something.
 
 - Telegram: @Domcio (I am here at least once time for a week, the stickers with [Krtek](https://pl.wikipedia.org/wiki/Krecik) are nice here, I really like them - I mainly use the Telegram to communicate with my friends, because it still works on my Nokia Lumia, but I will also be happy to communicate there with those interested in this project).
-
 - Facebook's Messenger: Nice try. 
-
 - [Via comment on my YouTube channel](https://www.youtube.com/Domcio)
-
 - [Via comment on Learn Polish subreddit post about this list](https://www.reddit.com/r/learnpolish/comments/iv4x0i/the_powerful_list_of_resources_for_learning) (I am very often active here).
-
 - [Via comment on Wykop find about this list](https://www.wykop.pl/link/5703485/moj-potezny-spis-darmowych-i-legalnych-zasobow-w-jezyku-polskim-wpl)
-
+- [Via comment on Duolingo post about this list](https://forum.duolingo.com/comment/42400591)
 - Discord: Domcio#0223  (I am on the Discord almost every day).
-
 - E-mail: domcio@protonmail.com (Swiss, like a watches, here I may answer less often, but I come in here from time to time).
 
 ## Support (Wsparcie)
