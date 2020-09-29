@@ -30,6 +30,8 @@ Pozdrawiam bardzo serdecznie.
 
      - [Linguistics and related (Lingwistyka i powiązane)](#linguistics-and-related-lingwistyka-i-powiązane)
      - [Scientific (Naukowe)](#scientific-naukowe)
+     - [Culinary (Kulinarne)](https://github.com/TheDomcio/WonderfulPolishLanguage/blob/master/README.md#culinary-kulinarne)
+     - [Historical (Historyczne)](#historical-historyczne)
      - [Cultural (Kulturalne)](#cultural-kulturalne)
      - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
      - [Games (Gry)](#games-gry)
