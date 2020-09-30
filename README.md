@@ -73,7 +73,7 @@ Pozdrawiam bardzo serdecznie.
 14. [Contact (Kontakt)](#contact-kontakt)
 15. [Support (Wsparcie)](#support-wsparcie)
 16. [Acknowledgements](#acknowledgements-podziękowania)
-17. [My other projects here (Moje inne tutejsze projekty)](#my-others-projects-here-moje-inne-tutejsze-projekty)
+17. [My other projects (Moje inne projekty)](#my-others-projects-moje-inne-projekty)
 18. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
@@ -210,7 +210,7 @@ I will mention that currently the most popular polish translation of the Bible i
 
 ### YouTube
 
-(I like to add those channels that do not have exaggerate with the absurdity of thumbnails and titles - [clickbaits](https://en.wikipedia.org/wiki/Clickbait). I want to make it as easy as possible to retrieve information from the videos on this site without wasting your time on "one million [fillers](https://en.wikipedia.org/wiki/Filler_(media))" included in today's **typical** YouTube videos focused on massive marketing). Of course, it is not always possible to "escape" from this, so sometimes people who want to reach a larger audience want to adapt to the "standards of popularization of content" in this way.
+I like to add those channels that do not have exaggerate with the absurdity of thumbnails and titles - [clickbaits](https://en.wikipedia.org/wiki/Clickbait). I want to make it as easy as possible to retrieve information from the videos on this site without wasting your time on "one million [fillers](https://en.wikipedia.org/wiki/Filler_(media))" included in today's **typical** YouTube videos focused on massive marketing. Of course, it is not always possible to "escape" from this, so sometimes people who want to reach a larger audience want to adapt to the "standards of popularization of content" in this way. In the future I will add more categories and channels here, but first I want to focus on those already created, so as not to create categories with a small number of recommended channels. Forgive me for describing some great channels so short, because most of them deserve a few times more description.
 
 ##### Linguistics and related (Lingwistyka i powiązane)
 
@@ -235,6 +235,8 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) - Another Polish respected scientific channel, where various topics are often discussed in the form of long films. Also worth checking the subchannel [Wyłącznie Naukowy Bełkot ](https://www.youtube.com/channel/UCBcXA_jyGkSUU6is4xS6S4g).
 - [SciFun](https://www.youtube.com/scifun) - One of the most popular Polish scientific channels. The subject of his recent films is checking various things under the microscope, but in a "normal way" and not hyperbolized. [He also made a serious analysis of the "theory that the Earth is flat"](https://www.youtube.com/watch?v=lDFo70FlbAo&list=PLuui6B7jlJXkLMxXo6sI6iZEkSCU-3WQZ).
 - [NaukowoTV](https://www.youtube.com/channel/UCXdxta-h8zDUc8dhGiOsi9g) - Next cool channel about learning.
+- [Astronarium](https://www.youtube.com/AstronariumPl) - A channel about space - astronomy and Polish scientists related to this subject.
+- [Pod Mikroskopem](https://www.youtube.com/channel/UCnAX2kPJ32Kyvr-BfTnDjkQ) - A channel where detailed discussions on many scientific topics appear.
 
 #### Culinary (Kulinarne)
 
@@ -242,11 +244,17 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Uwaga Babcia Gotuje](https://www.youtube.com/user/vezyr1) - YouTube channel, where the titular grandmother cooks. In Poland the so-called "grandma cuisine" is very respected.
 - [Ola Nguyen][https://www.youtube.com/channel/UCsyGJvqktkRbt39u0OjrsVA] - An interesting culinary channel. She - cook person won one of the [Polish MasterChef editions](https://pl.wikipedia.org/wiki/MasterChef_Polska). Recently, for example, she has shown how to cook some well-known dishes for cartoons and animated movies ([Ratatuille from Disney's Ratatuille](https://www.youtube.com/watch?v=Vf0MkUYpV1k)).
 - [Robert Makłowicz](https://www.youtube.com/channel/UCCT_JGIn9I9FS6OTzzqWEew) - The official YouTube channel of the very famous Polish chef Robert Makłowicz, also known as ["Bezwzględny Gonzales"](https://www.youtube.com/watch?v=4zdWTljIa_4) (hehe). His program was aired on TV and was very popular. He probably likes [bathing in cold water very much](https://www.youtube.com/watch?v=iBzO80bWivo).
+- [Tomasz Strzelczyk ODDASZFARTUCHA](https://www.youtube.com/TomaszStrzelczykODDASZFARTUCHA) - A very popular Polish culinary channel. You can see that the author has a great passion for cooking.
+- [The Food Emperor](https://www.youtube.com/Foodemperor) - This is a very interesting culinary channel, but beware, this cook very often speaks Polish vulgar language. Of course this is combined with dynamic music and tone - the expression of the chef's voice, so it gives a high style and of course it is also a comedy element. He also publishes versions of videos in Italian. This is a very unique channel.
+- [Czajnikowy.pl - dobra herbata!](https://www.youtube.com/CzajnikowyPl) - Very good channel about tea, but also about coffee created by experts.
 
 #### Historical (Historyczne)
 
 - [Historia bez cenzury](https://www.youtube.com/user/HistoriaBezCenzuryMB) - The historical channel, where the main anchorman - Wojciech Drewniak presents history in a cool, eccentric and humorous way. There is also an [English version](https://www.youtube.com/channel/UCd51P-3L-OiG-L4NH36ArAA/videos), but after three films this project has been stopped.
 - [History Hiking](https://www.youtube.com/channel/UCCvPTDuK7LsXrzPUmi9AZzA) - The person who runs the channel program in a very reliable and professional way tells the viewers about various historical events in a very interesting and accessible way.
+- [Historia w 5 minut](https://www.youtube.com/Historiaw5minutpl) - The historical channel, which is called "History in 5 minutes", but videos don't always have the title five minutes, because the main purpose of the channel is to convey historical knowledge briefly, but without omitting important facts.
+- [IrytującyHistoryk](https://www.youtube.com/user/IrytujacyHistoryk) - "Irritating Historian", a historical channel focusing very frequently on topics that do not appear too often.
+- [ThrashingMadPL](https://www.youtube.com/user/ThrashingMadPL) - A historical channel, where knowledge is taught by means of cool visualization - maps with dynamic changes - with moving hand-drawn historical units etc.
 
 #### Cultural (Kulturalne)
 
@@ -262,16 +270,24 @@ I will mention that currently the most popular polish translation of the Bible i
 
 #### Games (Gry)
 
-- [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics.
+- [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics (On the subchannel [TVGRYplus](https://www.youtube.com/channel/UCBuapzlArSNwZk-n4gQIsRQ) there is news etc.).
 - [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. So if you are looking for someone who records games and adds his cool commentary and doesn't without a lot of unnecessary things, this is a good choice because his videos are in really good quality. 
-- [Broda ty](https://www.youtube.com/user/Midvith) - Polish dinosaur of computer games reviews (hehe). His films are really qualitative. He describes his experiences with the game - reviews in a very interesting way, he is not afraid to criticize them constructively and speaks brief and to the point.
+- [quaz9](https://www.youtube.com/quaz9) - The biggest Polish dinosaur of computer game reviews. He has been running his channel for over 10 years and his reviews still hold a huge level - he shares his opinions in a very interesting form.
+- [Broda ty](https://www.youtube.com/user/Midvith) - Second Polish "dinosaur of computer games reviews". His films are really qualitative. He describes his experiences with the game - reviews in a very interesting way, he is not afraid to criticize them constructively and speaks brief and to the point.
+- [arhn.eu](https://www.youtube.com/user/arhneu) - Great channel dedicated to gaming enthusiasts, especially for those who like the theme of retro games, because it often appears here, game reviews appearing on the channel are also cool. The creators of the channel also made a very good documentary film about the creation of the computer version of [Wiedźmin (The Witcher)]([https://pl.wikipedia.org/wiki/Wied%C5%BAmin](https://pl.wikipedia.org/wiki/Wiedźmin)) - [Biały Wilk: Historia komputerowego Wiedźmina (White Wolf: The History of the Computer Witcher)](https://www.youtube.com/watch?v=g18GgD-SNzM).It is also worth to look at the subchannel [arhn2eu - arhn.eu po godzinach](https://www.youtube.com/user/arhn2eu).
+- [NRGeek](https://www.youtube.com/NRGeek00) - Another interesting channel related to the subject of computer games. He publishes an interesting and funny video series entitled ["Zagrajmy w crapa (Najgorsze gry wg NRGeeka)"](https://www.youtube.com/playlist?list=PLZ0h0Yns_-Xg3pMWfWMzAgCAKeQqavcra).
+- [ZagrajnikTV](https://www.youtube.com/channel/UCMR98HM7DeK21qydf885QhA) - The channel presenting computer games in a very cool form - editing and the atmosphere of the videos are very interesting.
 
 #### Movies (Filmy)
 
 - [Grupa Filmowa Darwin (G.F. Darwin)](https://www.youtube.com/channel/UCkPjHTuNd_ycm__29dXM3Nw) - A film group making really great movies. With its latest films it refers to the problems affecting today's [especially Polish] society. The main popularity of this YouTube channel has been brought by films from the ["Wielkie Konflikty"](https://www.youtube.com/watch?v=c4f1Gyx2zhY&list=PLsuXZgkp0aLhss_09rp5y7stE-ai47los) series, as well as a parody of the song "Will You Be There" by Michael Jackson entitled ["Orki z Majorki"](https://www.youtube.com/watch?v=YZuFsI-bttM) (About [[oceanic] orcas (killer whale) ](https://pl.wikipedia.org/wiki/Orka_oceaniczna) from Mallorca).
-- [Skazany na film](https://www.youtube.com/channel/UC8ROk73ZAWnDk6VS5kXTzVQ) - A great channel about film, where the author describes things from this world in a very inspiring way.
+- [Skazany na film](https://www.youtube.com/channel/UC8ROk73ZAWnDk6VS5kXTzVQ) - A great channel about film, where the author describes things from this world in a very inspiring way. It's really, really worth checking out.
 - [Cezary Pazura](https://www.youtube.com/channel/UCY_fyIMTLLOZgmkuUYo6JKw) - The YouTube channel of the famous Polish actor [Cezary Pazura](https://pl.wikipedia.org/wiki/Cezary_Pazura), the channel's subject are of course movies and things related to them, often "Wujek Czarek", as the actor wants it to be called, talks about the backstage of some famous films and also tells anecdotes from his life as actor, also from his school days.
-- [Na Gałęzi](https://www.youtube.com/user/NaGalezi) - Another channel dedicated to films, there is a lot of humor here.
+- [Na Gałęzi](https://www.youtube.com/user/NaGalezi) - Another channel dedicated to movies, there is a lot of humor here.
+- [Artur Kinomaniak Pietras](https://www.youtube.com/user/KinomaniakPietras) - A channel created by an expert with huge experience in film reviews.
+- [Brody z Kosmosu](https://www.youtube.com/channel/UCCJPUFrjnQTafaLAzHJ_obQ) - Channel with very interesting movie reviews.
+- [Sfilmowani](https://www.youtube.com/user/SfilmowaniTV) - Next channel about reviewing films.
+- [Galeria Horroru](https://www.youtube.com/GaleriaHorroru) - YouTube channel about [reviewing] horror movies and other things related to the horror subject.
 - [TvFilmy](https://www.youtube.com/channel/UCc5tRa0svbXzKJUk40ow24Q) - An interesting channel about movies. It is created by part of the team from [TVGRYpl](https://www.youtube.com/user/TVGRYpl).
 - [NanoKarrin](https://www.youtube.com/channel/UCue2Utve3Cz8Cb2eIJzWGUQ) - A Polish group creating covers of well-known songs and parodies of some anime productions.
 - [Spychu91](https://www.youtube.com/user/Spychu91) - Announcements of new anime production and information from "that world".
@@ -614,7 +630,7 @@ If you want to support the project, just send people in need a link to this list
 
 ## Acknowledgements (Podziękowania)
 
-Thank you to **everyone who helps to promote this project and is interested in it**. 
+Thank you to **everyone who helps to promote this project and is interested in it** - your feedback motivates me to work. 
 
 Thank you **Mother Nature** for the bees honey.
 
@@ -622,9 +638,13 @@ Thank you **Polish education system** for the fact that I did not have to buy ti
 
 Thank you **szew** for helping with grammar proofreading [of this list] and for suggestions for extending the list with various elements. (She also helped with chasing away unnecessary butterflies - pleonasms and etc.).
 
-## My others projects here (Moje inne tutejsze projekty)
+## My others projects (Moje inne projekty)
+
+- [My YouTube Channel](https://www.youtube.com/Domcio) - On which channel I mainly focus on making movies with [Pingwin Mroźny](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN). Nowadays, due to technical problems - weak hardware, which often has problems with video rendering (it just really takes away my motivation, I will have to go back to some older film editing software or some other free alternative), I rarely upload films, there was a year when practically every day a video appeared, so it is a huge decrease in activity.
+- [My Wattpad](https://www.wattpad.com/user/DominikRajchel) - On which I write from time to time some poems on various topics, you can also find here my short story ["Pingwin Mroźny: Preludium"](https://www.wattpad.com/594393714) and [Baśnie dla każdego stworzenia i nie tylko (Fairy tales for every creature and not only)](https://www.wattpad.com/story/166033692) which is a collection of my various fairy tales, there are not many of them there yet, but I already have a lot of ideas for more in my notes, so it is only a matter of finding time and writing it.
 
 - The best PC software list (Or something like this) - Cooming soon. This will be a great software list, for example: The best music player for Windows: [Foobar2000](https://www.foobar2000.org) and etc.
+- My text-based computer game that I am writing, while learning another programming language, will probably want to publish it as a Github repository, but I don't know if I have enough time to continue this programming adventure with this particular language - Python. I'm already learning several languages at school, and soon - at the end of the school semester - I'll have the last two exams (before the final high school graduation exam), so when I'm done with them, I'll probably come back to this topic, I'd also like to learn how to create music (I'm planning to take some piano lessons in the future, when I have some money, because I could use this ability to create melodies from nothing). I would also like to write some poems etc. and make more movies with [Pingwin Mroźny](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN), so the queue of what I want to do is really big and I often change these "creative sides of life" ((from video to writing, from writing to music, from music to programming and this loop is repeated infinity times ∞) when it comes to working on something.
 
 ## Lorem ipsum
 
