@@ -37,7 +37,7 @@ Pozdrawiam was bardzo serdecznie.
      - [Games (Gry)](#games-gry)
      - [Movies (Filmy)](#film-filmowe)
      - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
-     - Japanese Culture and Popculture (Japońska kultura oraz popkultura)
+     - [Japanese Culture and Popculture (Japońska kultura oraz popkultura)](#japanese-culture-and-popculture-japońska-kultura-oraz-popkultura)
 
    - [VOD](#vod)
 
