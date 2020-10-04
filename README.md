@@ -261,6 +261,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 - [mietczynski](https://www.youtube.com/channel/UCZP_DXnKgfs_ZX3RHVmu6qQ) - The person who recording videos for this YouTube channel is mainly known among Polish youth for humorous and simple summary of the various required school readings. He talks about them by adding more of his colorful metaphors and opinions, so he simply talks about the plot in an unconventional and accessible way, so it helps many people to remember the course of these books, which is often useful on all school's "smaller" and "main" exams (I personally am neutral to this, but I add this channel objectively, because I know that many people like it for different reasons). He also reviews films in a similar way and tries his hand at cooking based on popular recipes. 
 - [Polimaty](https://www.youtube.com/Polimaty) - Very interesting channel about nice life topics (yes, it's worth to check it).
+- [Krzysztof Gonciarz](https://www.youtube.com/KrzysztofGonciarz) - channel of the Polish traveler Krzysztof Gonciarz, who also lived in Japan for many years. He also has a stricte comedy channel [Zapytaj Beczkę](https://www.youtube.com/user/TheBeeczka). 
 
 #### Social and philosophical (Społeczne i filozoficzne)
 
@@ -308,8 +309,8 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Ignacy z Japonii](https://www.youtube.com/channel/UC84AaEtr7hlaYYwXDSKAbNg) - Very cool channel of a Japanese man named Kohei, who records videos under the pseudonym "Ignacy" ([Explanation](https://www.youtube.com/watch?v=wjWU4MClUbQ)). The channel might be useful for people from Japan who would like to learn Polish and more, because "Ignacy" was a free listener in Polish studies at the Uniwersytet Śląski in Katowice, as he himself wrote in the description of the channel. He explains very interesting issues, refutes myths and stereotypes related to Japan or Japanese, which people spread unconsciously in Poland (and not only here).  
 - [Aiko & Emil](https://www.youtube.com/channel/UCXRJfVWEjv9qxooSbOkFmkw) - The channel of a very nice marriage - Japanese woman Aiko and the Polish man Emil. They form a very powerful duo and their videos are very interesting. We can learn from them many of their opinions about Japan and Poland, as well as video about very unique topics, for example video about [Ainu people](https://www.youtube.com/watch?v=vnib1muoygY) and really cool video [about their traditional Japanese wedding](https://www.youtube.com/watch?v=7p5htOlavFI). There is also a videos about ["mythical Japanese square watermelon"](https://www.youtube.com/watch?v=KdpGaknqJdI). It is also worthwhile to have a look at the separate Emil channel - [Podcast Po Japonii](https://www.youtube.com/channel/UCfegHHvKywKjJ69Ymcb6j0w) and as the name says it is a podcast about Japanese things, often here are further conversations of those shown on [Aiko & Emil](https://www.youtube.com/channel/UCXRJfVWEjv9qxooSbOkFmkw) channel. Emil also has another channel about North Korea, to which he often went on tours in the past and it's called [Pozdro z KRLD](https://www.youtube.com/channel/UCUCVBflimUih08ONuOKOpfQ).  
 - [Enma Official](https://www.youtube.com/channel/UC9Vi25H6lQvPqcepJCJ3sEg) - YouTube channel of Polish woman who has lived in Japan since 2015, she is also a Graduate of Japanese Philology. She really likes do cosplay also. She very often refutes the false information and myths about Japan that are really often spread in popular media. 
-- [NanoKarrin](https://www.youtube.com/channel/UCue2Utve3Cz8Cb2eIJzWGUQ) - A Polish group creating covers of well-known songs and parodies of some anime productions.
-- [Spychu91](https://www.youtube.com/user/Spychu91) - Announcements of new anime production and information from "that world".
+- [NanoKarrin](https://www.youtube.com/channel/UCue2Utve3Cz8Cb2eIJzWGUQ) - A Polish group creating covers of well-known songs. They are also create short parodies of some anime productions.
+- [Spychu91](https://www.youtube.com/user/Spychu91) - Announcements of new anime production and information from "that world". So if someone has already watched many productions and doesn't know what to watch, then maybe something of the [hypothetical] promising new series will interest him.
 
 ### VOD
 
@@ -330,7 +331,12 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - TV programs:
   - [Telemagazyn](https://www.telemagazyn.pl)
   - [Teleman](https://www.teleman.pl)
-  - [Filmweb's](https://www.filmweb.pl/program-tv)
+  - [Filmweb's TV Program](https://www.filmweb.pl/program-tv)
+  - [TVP's channels TV Program](https://www.tvp.pl/program-tv)
+  - [Program TV by Onet](https://programtv.onet.pl)
+  - [Program TV by WP](https://tv.wp.pl/)
+  - [Program TV by Gazeta.pl](https://tv.gazeta.pl/program_tv/0,0.html)
+- [TVP Stream](https://tvpstream.vod.tvp.pl) - Here you can watch several TVP channels, for example TVP Polonia, TVP Kultura 2 and Poland In for free.
 - [WP Pilot](https://pilot.wp.pl) - After registration you can watch several TV channels for free, the rest requires pay for it.
 
 ### Subtitles (Napisy)
@@ -378,6 +384,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Śpiewnik Wywroty](https://spiewnik.wywrota.pl) - lyrics of Polish and foreign songs and "the biggest Polish Wiki-Songbook created by guitarists for guitarists!", so of course you will find here the guitar tabs.
 - [Taby na harmonijkę](https://taby-na-harmonijke.pl) - list of many taboos for the harmonica. A really cool website, I learned on it e.g. [intro song from "Pat a Mat"](https://taby-na-harmonijke.pl/sasiedzi-muzyka-z-bajki).
 - [Forum Harmoszka (Archive version)](http://web.archive.org/web/20200224194456/https://www.forum.harmoszka.com/) - A very cool forum with tabs for the harmonica. I, for example, used this forum to learn how to play ["Hejnał mariacki"](https://pl.wikipedia.org/wiki/Hejna%C5%82_mariacki). I gave a link to the archive version of the forum, because it did not work for me personally, maybe some technical work is in progress. As far as the choice of instrument to play is concerned, I recommend the piano [keyboard] (king of instruments), but if you want something even simpler and very mobile, the harmonica and kazoo (a totally easy to play instrument) will also be cool.
+- 
 
 ### Karaoke
 
@@ -388,14 +395,16 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 ### Internet Radio (Radio internetowe)
 
 - [Radio.pl](https://www.radio.pl) - A website where you can find a lot of internet radio from different categories and regions.
-
 - [Open FM](https://open.fm) 
 - [RMF FM](https://www.rmf.fm/radio-internetowe.html)
 - [Online Radio](https://onlineradio.pl)
 - [Radio ZET Online](https://player.radiozet.pl)
+- [eskaGO](https://www.eskago.pl/radio)
 - [Radio-Polska](https://www.radio-polska.pl)
 
 ## Games (Gry)
+
+- [Helltaker](https://store.steampowered.com/app/1289310/Helltaker) - (Available on the Steam platform) A very [globally] popular and free fantastic Polish adventure and logic game [+ some dating elements] with very interesting graphics and unique characters. Not only Japanese pop culture fans will like it. The creator of the game has also created a separate official Polish translation, which you can download [here](https://vanripper.itch.io/helltaker-spolszczenie) and [here](https://steamcommunity.com/app/1289310/discussions/1/4666237625644776225) are the installation instructions. It is also possible to find several other translations created by the community, such as Spanish translation.
 
 - [Janosik](https://store.steampowered.com/app/1412170/Janosik) - Very cool Polish computer game available for download for free on the Steam platform (Three languages are currently available: Polish, English and Slovak).  The game contains elements known from games of ["metroidvania"](https://en.wikipedia.org/wiki/Metroidvania) type. The main goal of the game's plot is to save Janosik's comrades who have been kidnapped and imprisoned. The title of the game and the main character itself refers to [Juraj Jánošík]([https://pl.wikipedia.org/wiki/Juraj_J%C3%A1no%C5%A1%C3%ADk](https://pl.wikipedia.org/wiki/Juraj_Jánošík)), who was a famous Slovak highwayman. A long time ago in Poland a famous [TV series with the same name as the game](https://pl.wikipedia.org/wiki/Janosik_(serial_telewizyjny)) was created. According to the author, it takes about 2 hours to complete the game. It is worth to look for hidden places with treasure.
 
