@@ -18,7 +18,7 @@ Pozdrawiam was bardzo serdecznie.
 1. [Texts (Teksty)](#texts-teksty)
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
      - [Fantasy (Fantastyka)](#fantasy-fantastyka)
-     - [Learning other languages in Polish (Nauka innych języków po polsku)](learning-other-languages-in-Polish-nauka-innych-języków-po-polsku))
+     - [Learning other languages in Polish (Nauka innych języków po polsku)](#https://github.com/TheDomcio/WonderfulPolishLanguage/blob/master/README.md#learning-other-languages-in-polish-nauka-innych-j%C4%99zyk%C3%B3w-po-polsku)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
