@@ -124,7 +124,7 @@ Pozdrawiam was bardzo serdecznie.
 
 #### Learning other languages in Polish (Nauka innych języków po polsku)
 
-`Hello world! I also thought that some of you will want to learn other languages through Polish or just my countrymen looking for cool sources may find something they missed earlier.`
+`Hello world! I also thought that some of you will want to learn other languages through Polish or just my countrymen looking for cool sources may find something they missed earlier. Of course I will try not to list here again the multilingual pages that are already lower on this list, because there is no need to make too many duplicates, but sometimes I can make an exception.`
 
 - Multilingual
 
@@ -140,6 +140,9 @@ Pozdrawiam was bardzo serdecznie.
 - Norwegian
   - [LearnNoW - NTNU](https://www.ntnu.edu/learnnow-pl/info/downloads) - An interesting collection of free materials for learning Norwegian. You will find here e.g. textbook, vocabulary tables, basic words and much more.  Also there are available lessons in audio form and text with comparisons - sound differences between languages. 
   - [Słownik Polsko-Norweski](https://slowniczek.no) - Polish-Norwegian dictionary with pronunciation (still under construction). A [mobile version for Android](https://slowniczek.no) is also available.
+
+- Polish
+  - [Wonderful Polish Language](https://github.com/TheDomcio/WonderfulPolishLanguage) - This is a surprise.
 
 ### Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)
 
