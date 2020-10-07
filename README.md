@@ -18,6 +18,7 @@ Pozdrawiam was bardzo serdecznie.
 1. [Texts (Teksty)](#texts-teksty)
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
      - [Fantasy (Fantastyka)](#fantasy-fantastyka)
+     - [Learning other languages in Polish (Nauka innych języków po polsku)](learning-other-languages-in-Polish-nauka-innych-języków-po-polsku))
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
@@ -33,6 +34,7 @@ Pozdrawiam was bardzo serdecznie.
      - [Culinary (Kulinarne)](https://github.com/TheDomcio/WonderfulPolishLanguage/blob/master/README.md#culinary-kulinarne)
      - [Historical (Historyczne)](#historical-historyczne)
      - [Cultural (Kulturalne)](#cultural-kulturalne)
+     - [Books (Książki)](#books-książki)
      - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
      - [Games (Gry)](#games-gry)
      - [Movies (Filmy)](#film-filmowe)
@@ -88,7 +90,6 @@ Pozdrawiam was bardzo serdecznie.
 - [Wielkopolska Digital Library](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library. 
 - [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time (I will try to add interesting books In other categories from there, e.g. I have already added some [here](#recipes-for-holidays-and-festivities-prescriptions-and-holidays-and-festivities-and-festivalry)).
 - [Nowe baśnie z 1001 nocy](https://polona.pl/item/nowe-basnie-z-1001-nocy,Njc3NjUyMzc) - A very shortened version of the ["One Thousand and One Nights"]([https://pl.wikipedia.org/wiki/Ksi%C4%99ga_tysi%C4%85ca_i_jednej_nocy](https://pl.wikipedia.org/wiki/Księga_tysiąca_i_jednej_nocy)) in which some of the most famous stories are presented. The book is also [available at Wikisource](https://pl.wikisource.org/wiki/Nowe_ba%C5%9Bnie_z_1001_nocy).
-
 - [O takim, co rozumiał, jak dźwirzęta gwarzom (O takim, co rozumiał, co zwierzęta mówią - About a man who understood animal speech)](https://polona.pl/item/o-takim-co-rozumial-jak-dzwirzeta-gwarzom-bajka,NzI1NTMxNjU/) - An old Polish fairy tale written in countryside village dialect [from Województwo świętokrzyskie]([https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie](https://pl.wikipedia.org/wiki/Województwo_świętokrzyskie)) (Author was born in [Nietulisko Duże]([https://pl.wikipedia.org/wiki/Nietulisko_Du%C5%BCe](https://pl.wikipedia.org/wiki/Nietulisko_Duże))) over a hundred years ago ([More works by this author](https://polona.pl/search/?filters=public:1,creator:%22Piotrowski,_Antoni_(1853--1924)%22)). It is such an interesting thing, for people who want to learn dialects (Sometimes they are very funny, because the sometimes words used in them are vulgar in the common use - common language).
   - [Polish magazines published in Polish (You can also choose other languages in the filters, I set up Polish for this)](https://polona.pl/search/?filters=language:polski,category:serials,public:1,hasTextContent:0) - A public mine of historical information, you can read here a lot of articles from the pre-war period and more.
 - [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - A website very similar to [Polona](https://fbc.pionier.net.pl). 
@@ -101,6 +102,7 @@ Pozdrawiam was bardzo serdecznie.
 - [Lektorek](https://lektorek.org/lektorek/) - Website associated with [University of Pittsburgh](https://www.pitt.edu/) You will find here a lot of valuable documents related to learning Polish. For example, in the category [First Year Polish](https://lektorek.org/lektorek/firstyear/) > [Lessons](https://lektorek.org/lektorek/firstyear/lessons/) there are 12 lessons (as 12 PDF files) and also a supplement and a glossary. In ["Other"](https://lektorek.org/lektorek/Other/) you will also find a lot of interesting things, for example [Polish song book](https://lektorek.org/lektorek/Other/), [short stories](https://lektorek.org/lektorek/Other/opowiesci.pdf) and [English-Polish phrasebook](https://lektorek.org/lektorek/Other/phrasebook.pdf) and more.
 - [Ebooks from the government website of The Polish State Forests](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania) - You can find a lot of ebooks on forest-related things. in different formats here, most often in PDF format, but also, of course, in .epub and .mobi. [Here, for example, you have a book on the art of photographing nature](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/sztuka-fotografowania-przyrody) and about [forest survival](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/survival). A lot of people will certainly be interested in [a book on forest recipes](https://www.lasy.gov.pl/pl/informacje/publikacje/e-book-od-lasow-panstwowych/dobre-z-lasu-czyli-natura-od-kuchni).
 - [Wirtualne modelarstwo by Witold Jaworski](https://samoloty3d.pl/wm-000_p.xml) - Ebooks about aircraft computer modeling  (the programs that will be used are Blender, Gimp and Inkscape). If you ever wanted to learn how to model, then this guide may prove useful to you, although it is now, when I write it, intended for an older version of Blender, but in fact, the instructions relating to that version will also, of course, be able to be reproduced in the latest version of this software, only requiring a few moments more.
+- [LearnNoW - NTNU](https://www.ntnu.edu/learnnow-pl/info/downloads) - 
 - [Niebezpieczne litery](https://gfijas.pl/niebezpieczne-litery-e-book) - Here you can download a book about [typography](https://en.wikipedia.org/wiki/Typography) (PDF, EPUB and MOBI).
 - [Python na luzie](http://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - "Python on chillout" it's a very nice and big guide to learning the Python programming language in Polish. This is a direct link to download the latest version (as of 22.09.2020). If you want to start your adventure with the world of programming and you don't know which language to choose for the start, I personally recommend Python, because you can start this adventure in a very simple and quite relaxed way, but it is also worth trying to get to know other languages later, to have a kind of contrast and to be sure if this choice was really good, you can also know many programming languages and a lot of people do, but it is worth knowing one very well first, because then it is easier with others ([Here is the official tutorial page in Polish](https://www.learnpython.org/pl/)). 
 
@@ -119,6 +121,25 @@ Pozdrawiam was bardzo serdecznie.
 - [Historia Vita](http://www.historiavita.pl) - Here you can download some fantasy anthologies, for example the first part of anthology ["Ostatni dzień pary"](http://www.historiavita.pl/ostatni-dzien-pary/) (The Last Day of the Steam). [Second is available here](http://www.historiavita.pl/ostatni-dzien-pary-2).
 - [Silmaris](https://silmaris.pl) - Another good online magazine about fantasy and science fiction.
 - [Ścieżki wyobraźni](https://www.sekcjalogrus.slask.pl/publikacje-sekcji/) - Anthologies of fantastic texts prepared by the [Sekcję Literacką Śląskiego Klubu Fantastyki "Logrus" (Literary Section of the Silesian Fantasy Club "Logrus")](https://www.skf.org.pl/sekcja-literacka-logrus).
+
+#### Learning other languages in Polish (Nauka innych języków po polsku)
+
+`Hello world! I also thought that some of you will want to learn other languages through Polish or just my countrymen looking for cool sources may find something they missed earlier.`
+
+- Multilingual
+
+  - [Ba Ba Dum](https://babadum.com) - A very interesting word game, which currently supports over 1000 words in more than 20 languages, including of course Polish. There are various game modes available. It may come in handy, for example, during more boring or your [really not] favorite subjects at school. 
+
+- Japanese
+
+  - [Benkyo](http://benkyo.ml/old) - This is a mirror of website of a Pole who lived in Japan for many years ([Here you can read more about the creator of benkyo.pl](http://benkyo.ml/autor)) and the archivist who, due to the fact that the information available on the site is quite interesting, did not want to let the site go into oblivion, so she threw in the hosting again - all this with the permission of the author.. You will find a lot of help files under this link, for example, exercise sheets with hiragana, katakana and kanji. [A prettier - remake version of this mirror is also available](http://benkyo.ml/) , but it is still under construction, but we can already find a lot of interesting things there, for example [lesson no. 0](http://benkyo.ml/lekcja-0/) with pronunciation and [a game that involves typing in the equivalents of Latin symbols from the hiragana and the katakana](http://benkyo.ml/lekcja-0/kana-gra).
+  - [japonia-info.pl](https://japonia-info.pl/nauka-japonskiego) - A website with interesting information about Japan and of course the Japanese language itself.
+
+  - [Japoński pomocnik](https://www.japonski-pomocnik.pl/wordDictionary) - "A small, modest Japanese helper". A brilliant Polish-Japanese dictionary containing a huge number of words. [There is also its [minimalistic] mobile version for Android](https://play.google.com/store/apps/details?id=pl.idedyk.android.japaneselearnhelper).
+
+- Norwegian
+  - [LearnNoW - NTNU](https://www.ntnu.edu/learnnow-pl/info/downloads) - An interesting collection of free materials for learning Norwegian. You will find here e.g. textbook, vocabulary tables, basic words and much more.  Also there are available lessons in audio form and text with comparisons - sound differences between languages. 
+  - [Słownik Polsko-Norweski](https://slowniczek.no) - Polish-Norwegian dictionary with pronunciation (still under construction). A [mobile version for Android](https://slowniczek.no) is also available.
 
 ### Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)
 
@@ -184,6 +205,7 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Słownik polszczyzny XVI wieku](https://spxvi.edu.pl) - A dictionary of Polish language from the XVI century. If you would like to sound like a great nobleman, then thanks to knowing these words you will be closer to achieving this.
 - [Słownik staropolski](https://www.staropolska.pl/slownik) - The Old Polish dictionary, a lot of archaic words, will come in handy if you are going to travel in time and communicate with older Polish people.
 - [Słownik staropolski IJP PAN](https://pjs.ijp.pan.pl/sstp.html) - Here you can download many volumes of the Old Polish dictionary and other documents related to the project. The site belongs to the Krakow Old Polish language studio.
+- [Słownik polsko – potocznoludowy niektórych roślin i chwastów](http://wodr.poznan.pl/component/k2/item/4224-słownik-polsko-–-potocznoludowy-niektórych-roślin-i-chwastów) - [Small] dictionary of Polish - colloquials of some plants and weeds.
 - [Gwara góralska](https://pl.wiktionary.org/wiki/Indeks:Polski_-_Gwara_g%C3%B3ralska) - Polish highlander dialect. It may be useful if you are going to [Zakopane](https://pl.wikipedia.org/wiki/Zakopane) ([Here you will find more regional dialects](https://pl.wiktionary.org/wiki/Kategoria:Polski_(dialects_and_guards))).
 - [Gwara więzienna](https://pl.wiktionary.org/wiki/Indeks:Polski_-_Gwara_wi%C4%99zienna) - A set of words used in prison colloquial speech. It certainly won't come in handy, but it's a cool curiosity and after getting to know these words you can show people that you are able to get along with every layer of society.
 
@@ -262,6 +284,14 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [mietczynski](https://www.youtube.com/channel/UCZP_DXnKgfs_ZX3RHVmu6qQ) - The person who recording videos for this YouTube channel is mainly known among Polish youth for humorous and simple summary of the various required school readings. He talks about them by adding more of his colorful metaphors and opinions, so he simply talks about the plot in an unconventional and accessible way, so it helps many people to remember the course of these books, which is often useful on all school's "smaller" and "main" exams (I personally am neutral to this, but I add this channel objectively, because I know that many people like it for different reasons). He also reviews films in a similar way and tries his hand at cooking based on popular recipes. 
 - [Polimaty](https://www.youtube.com/Polimaty) - Very interesting channel about nice life topics (yes, it's worth to check it).
 - [Krzysztof Gonciarz](https://www.youtube.com/KrzysztofGonciarz) - channel of the Polish traveler Krzysztof Gonciarz, who also lived in Japan for many years. He also has a stricte comedy channel [Zapytaj Beczkę](https://www.youtube.com/user/TheBeeczka). 
+
+#### Books (Książki)
+
+- [Strefa Czytacza](https://www.youtube.com/channel/UCIFUzlJ4yDspwLmqAK-HGxg) - Really cool YouTube channel about books and reviews of them. I found him a long time ago, but I haven't looked there for a long time, it's a pity, fortunately by creating this list, my memory on channel has returned. 
+- [Book Reviews by Anita](https://www.youtube.com/bookreviewsbyanita) - Another interesting channel about books.
+- [Doktor Book](https://www.youtube.com/channel/UCFX883oeu7KDGnGT0Yrn6cw) - Next worth checking channel on books.
+- [Zaksiążkowane](https://www.youtube.com/channel/UCP0LnBml_CVq5gaDD6qcsxw) - One more good channel about books.
+- [Bestselerki](https://www.youtube.com/Bestselerki) -  Also an interesting channel. 
 
 #### Social and philosophical (Społeczne i filozoficzne)
 
@@ -358,6 +388,8 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 ## Audio
 
+- [Polska-poezja.pl](https://polska-poezja.pl/lista-wierszy) - An interesting website where you can find Polish poems and listen to them in a audio form.
+
 - [My playlist with "The best of Polish music creations"](https://www.youtube.com/watch?v=CCw3rMng0nw&list=PL2yH5_nRkFqwxh63njdnt3emJ0rq0f2fp) - I have created a playlist of songs that are memorable, also a part of the Polish culture, often many jokes - references to them. I update it from time to time as soon as I have a "marathon of listening to music". So that's the playlist of "core songs of Poland" (But there's not much Disco Polo here anyway, I keep it to a minimum because it's still a subjective playlist, and I'm already bored with this genre and I think then that it's mostly "homogenous"). I'm also interested in Polish music from different times, so you'll find some older songs there, I'm also trying to add the best quality version to the playlist, and not thrown by a third party in very poor and even more compressed quality.
 - [Lista przebojów TOP 30](https://kinopolskamuzyka.pl/top-30)  - TOP 30 of Polish music hits by Kino Polska Muzyka. The vote is repeated every week, so the ranking is often refreshed (Many Polish hits are so good that they always appear on the rankings, so it's usually just about a place on the list).
 - [Polski Top Wszech Czasów](https://pl.wikipedia.org/wiki/Polski_Top_Wszech_Czas%C3%B3w) - The list of TOP 100 best Polish music works of all time, updated every year and created by [Polskie Radio Program III](https://pl.wikipedia.org/wiki/Polskie_Radio_Program_III). 
@@ -370,7 +402,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Polskie Nagrania](https://www.youtube.com/channel/UCeAFhL7tQmtLp9zk7uQpNoQ) - official channel of the Polish record company ["Polskie Nagrania"](https://pl.wikipedia.org/wiki/Polskie_Nagrania_%E2%80%9EMuza%E2%80%9D). They also have [playlist with the best Polish music (Top 100)](https://www.youtube.com/watch?v=jpxbojoCbS4&list=PLRm7CMrlXHQ8Ng-NjxTjzgwsskaCeg7L5).
 - [Pomaton](https://www.youtube.com/ParlophonePoland) - official YouTube channel of another Polish record company ["Pomaton"](https://pl.wikipedia.org/wiki/Pomaton). 
 - [MTJ Wytwórnia Muzyczna](https://www.youtube.com/user/MTJPoland) - official channel of the Polish music label MTJ Wytwórnia Muzyczna. 
-- [Real Polish](https://realpolish.pl/podcast) and [Here is the official Archive.org profile with free podcasts, because some of them require a VIP account, and here you have free podcasts right away](https://archive.org/details/@realpolish)
+- [Real Polish](https://realpolish.pl/podcast) and [Here is the official Archive.org profile with free podcasts, because some of them require a VIP account, and here you have free podcasts right away](https://archive.org/details/@realpolish).
 - [Great78](https://archive.org/details/georgeblood?&and[]=languageSorter%3A%22Polish%22) - Polish collections from The Great 78 Project, where the local community make preservation, research and discovery 78 rpm records, which are very old vinyl records, so it's a great source to listen to old Polish songs and see what the language and style of the melody sounded like at the time, a really cool thing, I'd like more projects of this kind to be on this list, not just websites that aren't eternal, here you can download these songs (they're in .flac format) and listen them on your favorite device. There are usually several versions available in one archive file, i.e. versions with extra settings and the original version without any additional settings.
 - [Audioteka](https://www.youtube.com/user/audiotekapl) - The official YouTube channel of [Audioteka](https://audioteka.com/pl), you will find a lot of audiobooks to listen here, of course often only parts of the books are available to encourage you to buy them, but it is in very fair form - the videos have many minutes.
 - [Bajkowy tata](https://bajkowytata.com/audiobooki) - Audiobooks for children, which "can be downloaded and listened to for free, without restrictions".
@@ -504,6 +536,8 @@ Law is a very important thing in society, the following links will be useful for
 
 - [Krwiod@wcy.org (Honorowe krwiodawstwo i krwiolecznictwo)](https://krwiodawcy.org) - A page with information on how to prepare for the blood donation process in Poland. There is also a [survey which must be completed before each donation](https://krwiodawcy.org/ankiety-dla-kandydatow-na-dawcow) (Now, during coronavirus, an additional questionnaire must also be filled in before entering the waiting room etc.). This is a really helpful thing about the subject, and it is also a wonderful action, which is voluntary blood donation.
 - [Fundacja DKMS](https://www.dkms.pl/pl) - On this page you can learn about the bone marrow donation process and you can register as a donor or give dotation (this also applies to people from other countries, because the foundation has many branches).
+- [Rada Języka Polskiego - RJP](https://rjp.pan.pl) - Official website of Council for the Polish Language. A very good source of information about Polish. [Here you will find a very interesting entry about the classification of punctuation errors](https://rjp.pan.pl/index.php?option=com_content&view=article&id=1100:klasyfikacja-bdow-interpunkcyjnych). [A smaller version in English](https://rjp.pan.pl/index.php?option=com_content&view=article&id=1853&Itemid=61) ([And Germany](https://rjp.pan.pl/index.php?option=com_content&view=category&id=72&Itemid=64)) is also available.
+- [Językowe dylematy](http://www.jezykowedylematy.pl) - A website "for everyone who appreciates the correct Polish language" and also with interesting language facts. 
 - [Obcy język polski](https://obcyjezykpolski.pl) - a very interesting blog about things related to the Polish language. You will also find [many interesting language quizzes here](https://obcyjezykpolski.pl/tematy/quiz-jezykowy/).
 - [Culture.PL](https://culture.pl/en) - Here you will find a lot of articles about things related to Poland and Polish language. They have a lot of cool articles about Polish literature and well-known literary authors.
 - [Anime24](https://anime24.pl/) - "The latest news from the anime world".
@@ -616,6 +650,7 @@ Law is a very important thing in society, the following links will be useful for
 - [Legalna Kultura](https://legalnakultura.pl/pl/legalne-zrodla)
 - ["Top Resources for Learning Polish" by 101languages"](https://www.101languages.net/resources/polish)
 - ["The Best Resources To Learn POLISH For Free Online"](https://gratisglobal.com/learn-polish-free/)
+- [Direct invite link to Discord text channel of Learn Polish server with different resources](https://discord.gg/99sPZkt)
 
 ### Operating systems (Systemy operacyjne)
 
