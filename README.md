@@ -10,7 +10,7 @@ Pozdrawiam was bardzo serdecznie.
 
 ## Contents (Spis treści)
 
-(I offered the [hamsters](https://pl.wikipedia.org/wiki/Chomiki) that destroyed the cables from the teleports to cooperate in searching for bugs in the text code. After that I repaired the teleport connections, so in this version all should work)
+(I offered the [hamsters](https://pl.wikipedia.org/wiki/Chomiki) that destroyed the cables from the teleports to cooperate in searching for bugs in the text code. After that I repaired the teleport connections, so in this version all should work. By the way, this text file was, is and will be resistant to viruses, [here you can check scan](https://www.virustotal.com/gui/url/467856e2d4fe0b14e4c625c372312c4edd425ba06e25fe12ea25217e190979e1/detection))
 
   -0. [What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
 
@@ -87,7 +87,7 @@ Pozdrawiam was bardzo serdecznie.
   [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
 - [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A brilliant source with a lot of famous literary texts. 
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Wolne Lektury](https://wolnelektury.pl), also contains a lot of books.
-- [Wielkopolska Digital Library](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library. 
+- [Wielkopolska Biblioteka Cyfrowa](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library. 
 - [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time (I will try to add interesting books In other categories from there, e.g. I have already added some [here](#recipes-for-holidays-and-festivities-prescriptions-and-holidays-and-festivities-and-festivalry)).
 - [Nowe baśnie z 1001 nocy](https://polona.pl/item/nowe-basnie-z-1001-nocy,Njc3NjUyMzc) - A very shortened version of the ["One Thousand and One Nights"]([https://pl.wikipedia.org/wiki/Ksi%C4%99ga_tysi%C4%85ca_i_jednej_nocy](https://pl.wikipedia.org/wiki/Księga_tysiąca_i_jednej_nocy)) in which some of the most famous stories are presented. The book is also [available at Wikisource](https://pl.wikisource.org/wiki/Nowe_ba%C5%9Bnie_z_1001_nocy).
 - [O takim, co rozumiał, jak dźwirzęta gwarzom (O takim, co rozumiał, co zwierzęta mówią - About a man who understood animal speech)](https://polona.pl/item/o-takim-co-rozumial-jak-dzwirzeta-gwarzom-bajka,NzI1NTMxNjU/) - An old Polish fairy tale written in countryside village dialect [from Województwo świętokrzyskie]([https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie](https://pl.wikipedia.org/wiki/Województwo_świętokrzyskie)) (Author was born in [Nietulisko Duże]([https://pl.wikipedia.org/wiki/Nietulisko_Du%C5%BCe](https://pl.wikipedia.org/wiki/Nietulisko_Duże))) over a hundred years ago ([More works by this author](https://polona.pl/search/?filters=public:1,creator:%22Piotrowski,_Antoni_(1853--1924)%22)). It is such an interesting thing, for people who want to learn dialects (Sometimes they are very funny, because the sometimes words used in them are vulgar in the common use - common language).
@@ -653,6 +653,7 @@ Law is a very important thing in society, the following links will be useful for
 - [Legalna Kultura](https://legalnakultura.pl/pl/legalne-zrodla)
 - ["Top Resources for Learning Polish" by 101languages"](https://www.101languages.net/resources/polish)
 - ["The Best Resources To Learn POLISH For Free Online"](https://gratisglobal.com/learn-polish-free/)
+- [Resources for learning Polish by /r/languagelearning](https://www.reddit.com/r/languagelearning/wiki/resources#wiki_polish)
 - [Direct invite link to Discord text channel of Learn Polish server with different resources](https://discord.gg/99sPZkt)
 
 ### Operating systems (Systemy operacyjne)
