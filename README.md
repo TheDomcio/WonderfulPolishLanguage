@@ -18,7 +18,15 @@ Pozdrawiam was bardzo serdecznie.
 1. [Texts (Teksty)](#texts-teksty)
    - [Free books (Darmowe książki)](#free-books-darmowe-książki)
      - [Fantasy (Fantastyka)](#fantasy-fantastyka)
-     - [Learning other languages in Polish (Nauka innych języków po polsku)](#learning-other-languages-in-polish-nauka-innych-j%C4%99zyk%C3%B3w-po-polsku)
+    - [Learning other languages in Polish (Nauka innych języków po polsku)](#learning-other-languages-in-polish-nauka-innych-j%C4%99zyk%C3%B3w-po-polsku)
+      - [Multilangual (Wielojęzykowe)](#multilingual-wielojęzykowe)
+      - [Czech (Czeski)](#czech-czeski)
+      - [Finnish (Fiński)](#finnish-fiński)
+      - [Italian (Włoski)](#italian-włoski)
+      - [Japanese (Japoński)](#japanese-japoński)
+      - [Norwegian (Norweski)](#norwegian-norweski)
+      - [Polish (Polski)](#polish-polski)
+      - [Romanian (Rumuński)](#romanian-rumuński)
    - [Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)](#free-books-in-paid-internet-bookstores-darmowe-książki-w-płatnych-księgarniach-internetowych)
    - [The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)](#the-bible-translations---online-and-for-download-przekłady-bibli---online-i-do-pobrania)
    - [Indexes and virtual bookcases (Indeksy i wirtualne biblioteczki)](#indexes-and-virtual-bookcases-indeksy-i-wirtualne-biblioteczki)
@@ -122,28 +130,6 @@ Pozdrawiam was bardzo serdecznie.
 - [Silmaris](https://silmaris.pl) - Another good online magazine about fantasy and science fiction.
 - [Ścieżki wyobraźni](https://www.sekcjalogrus.slask.pl/publikacje-sekcji/) - Anthologies of fantastic texts prepared by the [Sekcję Literacką Śląskiego Klubu Fantastyki "Logrus" (Literary Section of the Silesian Fantasy Club "Logrus")](https://www.skf.org.pl/sekcja-literacka-logrus).
 
-#### Learning other languages in Polish (Nauka innych języków po polsku)
-
-`Hello world! I also thought that some of you will want to learn other languages through Polish or just my countrymen looking for cool sources may find something they missed earlier. Of course I will try not to list here again the multilingual pages that are already lower on this list, because there is no need to make too many duplicates, but sometimes I can make an exception.`
-
-- Multilingual
-
-  - [Ba Ba Dum](https://babadum.com) - A very interesting word game, which currently supports over 1000 words in more than 20 languages, including of course Polish. There are various game modes available. It may come in handy, for example, during more boring or your [really not] favorite subjects at school. 
-
-- Japanese
-
-  - [Benkyo](http://benkyo.ml/old) - This is a mirror of website of a Pole who lived in Japan for many years ([Here you can read more about the creator of benkyo.pl](http://benkyo.ml/autor)) and the archivist who, due to the fact that the information available on the site is quite interesting, did not want to let the site go into oblivion, so she threw in the hosting again - all this with the permission of the author.. You will find a lot of help files under this link, for example, exercise sheets with hiragana, katakana and kanji. [A prettier - remake version of this mirror is also available](http://benkyo.ml/) , but it is still under construction, but we can already find a lot of interesting things there, for example [lesson no. 0](http://benkyo.ml/lekcja-0/) with pronunciation and [a game that involves typing in the equivalents of Latin symbols from the hiragana and the katakana](http://benkyo.ml/lekcja-0/kana-gra).
-  - [japonia-info.pl](https://japonia-info.pl/nauka-japonskiego) - A website with interesting information about Japan and of course the Japanese language itself.
-
-  - [Japoński pomocnik](https://www.japonski-pomocnik.pl/wordDictionary) - "A small, modest Japanese helper". A brilliant Polish-Japanese dictionary containing a huge number of words. [There is also its [minimalistic] mobile version for Android](https://play.google.com/store/apps/details?id=pl.idedyk.android.japaneselearnhelper).
-
-- Norwegian
-  - [LearnNoW - NTNU](https://www.ntnu.edu/learnnow-pl/info/downloads) - An interesting collection of free materials for learning Norwegian. You will find here e.g. textbook, vocabulary tables, basic words and much more.  Also there are available lessons in audio form and text with comparisons - sound differences between languages. 
-  - [Słownik Polsko-Norweski](https://slowniczek.no) - Polish-Norwegian dictionary with pronunciation (still under construction). A [mobile version for Android](https://slowniczek.no) is also available.
-
-- Polish
-  - [Wonderful Polish Language](https://github.com/TheDomcio/WonderfulPolishLanguage) - This is a surprise.
-
 ### Free books in paid internet bookstores (Darmowe książki w płatnych księgarniach internetowych)
 
 `(Almost always registration is required for download)`
@@ -191,7 +177,8 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Wielki słownik języka polskiego](https://www.wsjp.pl) - a [great - huge] Polish dictionary, also contains a lot of definitions. It  contains different varieties, phraseologies, etc.
 - [Słownik języka polskiego PWN](https://sjp.pwn.pl) - Another noteworthy dictionary, which also contains interesting features, such as [Puzzle](https://sjp.pwn.pl/puzzle), where you can test your knowledge of words and have some fun.
 - [Wikisłownik](https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna) - Polish version of the [Wiktionary](https://www.wiktionary.org).  This allows you to immediately compare a given word with its translations in other languages, and you are also able to see what synonyms, anonyms, etymologies etc. it has.
-- [Korpusowy Polskiego Słownik Języka Migowego](https://www.slownikpjm.uw.edu.pl/page/opjm) - Polish Sign Language Dictionary. If you are a deaf person or want to communicate with such, this is something for you. (Some people might consider deaf to be a politically incorrect term but it's actually not - [that's what community itself calls themselves](https://www.nad.org/resources/american-sign-language/community-and-culture-frequently-asked-questions) and [polish explanation of use](https://sjp.pwn.pl/poradnia/haslo/glusi-i-gluchoniemi;3424.html))
+- [Diki](https://www.diki.pl) - Very nice English-Polish dictionary. Often there are also pictures of nouns. There is of course also support for [IPA (International Phonetic Alphabet)](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
+- [Korpusowy Polskiego Słownik Języka Migowego](https://www.slownikpjm.uw.edu.pl/page/opjm) - Polish Sign Language Dictionary. If you are a deaf person or want to communicate with such, this is something for you. (Some people might consider deaf to be a politically incorrect term but it's actually not - [that's what community itself calls themselves](https://www.nad.org/resources/american-sign-language/community-and-culture-frequently-asked-questions) and [polish explanation of use](https://sjp.pwn.pl/poradnia/haslo/glusi-i-gluchoniemi;3424.html)).
 - [Słownik slangu oraz mowy potocznej](https://www.miejski.pl) - A dictionary of slang and colloquial speech - street speech - If you would like to become head of many secret city organizations, this will surely be useful.
 - [Synonim.NET](https://synonim.net) - Online dictionary of Polish language synonyms.
 - [Synonimy.pl](https://www.synonimy.pl) - similar to above.
@@ -204,7 +191,6 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Language Tool](https://languagetool.org) - Great multilingual spelling and grammar checker. Useful if you are still not very good at using the comma character in Polish, but it is not perfect, sometimes it may find the necessary comma unnecessary and vice versa (also, this tool does not always handle dialects and archaisms well).
 - [Youglish](https://youglish.com/polish) - brilliant website for improving pronunciation and more. As the authors write, there are millions of entries with tracks in the index, after entering a word that interests us,the search engine tries to find a video on YouTube (based on subtitles) in which it is used. ([Word "pingwin" for example]([https://youglish.com/pronounce/pingwin/polish?)).
 - [Encyklopedia PWN](https://encyklopedia.pwn.pl) - Nice encyclopedia.
-- [Diki](https://www.diki.pl) - Very nice English-Polish dictionary. Often there are also pictures of nouns.
 - [Słownik polszczyzny XVI wieku](https://spxvi.edu.pl) - A dictionary of Polish language from the XVI century. If you would like to sound like a great nobleman, then thanks to knowing these words you will be closer to achieving this.
 - [Słownik staropolski](https://www.staropolska.pl/slownik) - The Old Polish dictionary, a lot of archaic words, will come in handy if you are going to travel in time and communicate with older Polish people.
 - [Słownik staropolski IJP PAN](https://pjs.ijp.pan.pl/sstp.html) - Here you can download many volumes of the Old Polish dictionary and other documents related to the project. The site belongs to the Krakow Old Polish language studio.
@@ -216,6 +202,71 @@ I will mention that currently the most popular polish translation of the Bible i
 
 - [Translatica](https://translatica.pl) - Language translator. Currently it is able to translate from Polish into English [British], German and Russian.
 - [DeepL](deepl.com) - Very cool neural machine translator. It is becoming increasingly popular ([according to Alexa Rank](https://www.alexa.com/siteinfo/deepl.com)). Currently it supports such languages as: Polish, English (UK), English (US), German, French, Spanish, Portuguese,  Portuguese (BR), Italian, Dutch, Russian, Japanese and Chinese (Simplified)  ([The CEO - dr. Jarosław Kutyłowski](https://www.deepl.com/pl/publisher) is probably from Poland and the company is located in Germany).
+
+### Learning other languages in Polish (Nauka innych języków po polsku)
+
+`Hello world! I also thought that some of you will want to learn other languages through Polish or just my countrymen looking for cool sources may find something they missed earlier. Of course I will try not to list here again the multilingual pages that are already lower on this list, because there is no need to make too many duplicates, but sometimes I can make an exception.`
+
+#### Multilingual (Wielojęzykowe)
+
+- [Ba Ba Dum](https://babadum.com) - A very interesting word game, which currently supports over 1000 words in more than 20 languages, including of course Polish. There are various game modes available. It may come in handy, for example, during more boring or your [really not] favorite subjects at school. 
+- [50LANGUAGES](https://www.50languages.com/phrasebook/en/pl) - Free lessons for beginners in different languages. From what I have noticed, there are 100 lessons available in each language. You can have the words in .mp3 format compressed into a .zip archive. There is a very interesting option where you can choose from which language you want to learn, I set the link from English to Polish and then there are e.g. .mp3 with English words with Polish translation.
+- [loecsen](https://www.loecsen.com/en) - A website similar to the above, also offers a huge number of languages.
+- [aztekium](http://aztekium.pl/nauka.py) - Another webpage where you can choose which language you want to learn from is the translation of words from the second language into the first.
+- [LingoHut](https://www.lingohut.com/) - A page similar to the above. Here you will find many interesting quizzes and mini-games.
+
+#### Czech (Czeski)
+
+- [Czeski dla Polaków: Materiały Online by Martin Adámek](https://www.adamek.cz/pl/czeski/materialy/) - Here you will find a lot of materials available for download for learning Czech in Polish, e.g. [video and text presentations for about pronunciation of the Czech language](https://www.adamek.cz/pl/czeski/wymowa).
+
+- [Słownik Polsko-Czeski by Glosbe](https://pl.glosbe.com/pl/cs) - Polish - Czech dictionary containing more than 130 thousand phrases.
+
+- [Czesko-polski słownik by Lingea](https://slowniki.lingea.pl/czesko-polski) - Czech-Polish dictionary containing more than 27 thousand entries.
+
+- [Polish-Czech dictionary by Agencja Skrivanek - Biuro Tłumaczeń](https://skrivanek.pl/slownik-polsko-czeski) - Online small dictionary with the possibility to download a PDF file.
+
+- [Mały słownik polsko-czeski, czesko-polski by Jezyk-Czeski.info](https://www.jezyk-czeski.info/slownik-PL-c-5.html) - A small dictionary with a search engine.
+
+#### Finnish (Fiński)
+
+- [Suomika](https://suomika.pl) - A large number of free articles about learning Finnish. 
+- [Słownik polsko - fiński by Glosbe](https://pl.glosbe.com/pl/fi) - An online dictionary containing over 142 thousand phrases.
+- [Darmowe lekcje fińskiego by Łosiowisko](http://finski.losiowisko.com/lekcje) - At least 12 free Finnish lessons are available here after also free registration.
+- [Polish-Finnish dictionary by Agencja Skrivanek - Biuro Tłumaczeń](https://skrivanek.pl/slownik-polsko-finski/) - Online small dictionary with the possibility to download a PDF file.
+
+#### Italian (Włoski)
+
+  - [Podstawy włoskiego](https://podstawywloskiego.pl/) - A page with free basic Italian lessons.
+  - [Materiały do pobrania za darmo by ITALIANO VERO](https://italianovero.com.pl/materialy-do-pobrania) - A lot of free materials to download. There are lessons of grammar, vocabulary, idioms and much more.
+
+  - [Słownik polsko-włoski by PONS](https://pl.pons.com/t%C5%82umaczenie/polski-w%C5%82oski) - Polish-Italian online dictionary offering over 100,000 translations in these languages.
+  - [Słownik polsko-włoski by Glosbe](https://pl.glosbe.com/pl/it) - An online dictionary containing over 190 thousand phrases.
+
+  - [Słowniczek polsko-włoski by TravelOne.pl](https://www.travelone.pl/bezdroza/slownik_wlochy.pdf) - Small Polish-Italian dictionary to download as PLIKU PDF
+
+#### Japanese (Japoński)
+
+  - [Benkyo](http://benkyo.ml/old) - This is a mirror of website of a Pole who lived in Japan for many years ([Here you can read more about the creator of benkyo.pl](http://benkyo.ml/autor)) and the archivist who, due to the fact that the information available on the site is quite interesting, did not want to let the site go into oblivion, so she threw in the hosting again - all this with the permission of the author.. You will find a lot of help files under this link, for example, exercise sheets with hiragana, katakana and kanji. [A prettier - remake version of this mirror is also available](http://benkyo.ml/) , but it is still under construction, but we can already find a lot of interesting things there, for example [lesson no. 0](http://benkyo.ml/lekcja-0/) with pronunciation and [a game that involves typing in the equivalents of Latin symbols from the hiragana and the katakana](http://benkyo.ml/lekcja-0/kana-gra).
+
+  - [japonia-info.pl](https://japonia-info.pl/nauka-japonskiego) - A website with interesting information about Japan and of course the Japanese language itself.
+
+  - [Japoński pomocnik](https://www.japonski-pomocnik.pl/wordDictionary) - "A small, modest Japanese helper". A brilliant Polish-Japanese dictionary containing a huge number of words. [There is also its [minimalistic] mobile version for Android](https://play.google.com/store/apps/details?id=pl.idedyk.android.japaneselearnhelper).
+
+#### Norwegian (Norweski)
+
+  - [LearnNoW - NTNU](https://www.ntnu.edu/learnnow-pl/info/downloads) - An interesting collection of free materials for learning Norwegian. You will find here e.g. textbook, vocabulary tables, basic words and much more.  Also there are available lessons in audio form and text with comparisons - sound differences between languages. 
+  - [Darmowy kurs norweskiego](https://pol-nor.com/kurs-norweskiego.php) - Over 45 free Norwegian lessons. Also for each lesson you have a quiz from it, for example [from first lesson](https://pol-nor.com/quiz1.php). 
+  - [Słownik Polsko-Norweski](https://slowniczek.no) - Polish-Norwegian dictionary with pronunciation (still under construction). A [mobile version for Android](https://slowniczek.no) is also available.
+
+#### Polish (Polski)
+
+  - [Wonderful Polish Language](https://github.com/TheDomcio/WonderfulPolishLanguage) - This is a surprise.
+
+#### Romanian (Rumuński)
+
+- [Słownik polsko-rumuński by Glosbe](https://pl.glosbe.com/pl/ro) - An online dictionary containing over 63 thousand phrases.
+
+- [Polish-Romanian dictionary by Agencja Skrivanek - Biuro Tłumaczeń](https://skrivanek.pl/slownik-polsko-rumunski) - A handy dictionary from twith the possibility to download a PDF file.
 
 ## Videos (Filmy)
 
@@ -231,6 +282,8 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Filmoteka - Muzeum Sztuki Nowoczesnej w Warszawie](http://artmuseum.pl/pl/filmoteka) - Film archive of the Museum of Modern Art in Warsaw. **Maybe** you will find here some movies about dancing and singing rice pasta.
 
 ### Pingwin Mroźny
+
+*11.10.2020 at 2:30 pm (Polish time) another movie (with Polish and English subtitles available) will be published.*
 
 [Pingwin Mroźny (Penguin Frosty)](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN&index=2) - This is a character created by me ([Pingwin](https://pl.wikipedia.org/wiki/Pingwin_kr%C3%B3lewski) - first name and [Mroźny](https://pl.wiktionary.org/wiki/mro%C5%BAny) - surname). The mascot of my main channel and artistic activity. I created a whole [Universe](https://pl.wikipedia.org/wiki/Wszech%C5%9Bwiat) around him. Each "typical" episode is intended to introduce the viewer to some kind of profession (the core of the Penguin's movements themselves refers to the film [Wonsz żeczny (humorous record of correct form "wąż rzeczny")](https://www.youtube.com/watch?v=aVPj0phGjyU), which is still present in Poland or was present in the old times - "extinct professions" and sometimes there were references to historical characters, I also invented some of my own professions. Here is [guide](https://www.youtube.com/watch?v=_HyAuXibszs), in which I described "how to get to know this universe so as not to get lost in it", i.e. I presented the chronology, because I created a lot of films, as well as a [short] [computer game](https://gamejolt.com/games/pingwinmroznypoczatek/343963) and [also] a [short story](https://www.wattpad.com/594393714), so the viewer could get lost in my universe without it. A lot of people will ask "Why?", at that time my head was like a locomotive from which the steam flew all the time, so I wanted to find my way to "express myself artistically" and eventually I did it in this form, but I tried very hard, so these are not the kind of films you would think if you look at them out of context. I also started to promote this kind of "pseudo-animation", which I personally called "dead animation". In other film forms, a revolution began to take place, just like in Antic Theater - more [voice] actors (synthesizer voices) began to arrive. I am most pleased with the series ["Przygody Pingwinbada Żeglarza"](https://www.youtube.com/watch?v=DUnP-kDL284&list=PL2yH5_nRkFqxtW04-v-yDyB7QUD__oAmn) (The name refers to:  ["Przygody Sindbada Żeglarza" by Bolesław Leśmian]([https://pl.wikipedia.org/wiki/Przygody_Sindbada_%C5%BBeglarza](https://pl.wikipedia.org/wiki/Przygody_Sindbada_Żeglarza)) and it's wordplay) ["Pingwinia Komedia"](https://www.youtube.com/watch?v=DUnP-kDL284&list=PL2yH5_nRkFqxtW04-v-yDyB7QUD__oAmn) (The name refers to: ["Boska Komedia"](https://wolnelektury.pl/katalog/lektura/boska-komedia/) - Polish translation of ["Divine Comedy"](https://en.wikipedia.org/wiki/Divine_Comedy) by Dante Alighieri). and from [the first episode of the "Danse Pingvinabre"](https://www.youtube.com/watch?v=O15T5evhnQk) (The name refers to the medieval [Danse Macabre](https://pl.wikipedia.org/wiki/Taniec_%C5%9Bmierci)) series. I wanted to include this long description (and I created a separate subcategory) in this list as "the main reward of my work", because I want to leave some remembrance and awareness in people to remember my works and also to open the door to potential cooperation and job. 
 
