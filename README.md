@@ -76,6 +76,8 @@ Pozdrawiam was bardzo serdecznie.
    - [Agregators (Agregatory)](#agregators-agregatory)
 10. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
 11. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
+    - [Reddit](#reddit)
+    - [Discord](#discord)
 12. [My nice tips (Moje świetne wskazówki)](#my-nice-tips-moje-świetne-wskazówki)
 13. [Others (Inne)](#others-inne)
     - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
@@ -304,6 +306,8 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Niklaus Pieron](https://www.youtube.com/NiklausPieron) - The channel of Mikołaj, who often talks about things related to the Silesian language and culture (On the subject of the [ślůnsko godka]([https://pl.wikipedia.org/wiki/Etnolekt_%C5%9Bl%C4%85ski](https://pl.wikipedia.org/wiki/Etnolekt_śląski)), I recommend listening to the Silesian version of ["Grosza daj Wieźminowi" - "Toss A Coin To Your Witcher"](https://www.youtube.com/watch?v=PcQfjH6PFUE)).
 - [Mówiąc Inaczej](https://www.youtube.com/user/PamikuPL) - great and very popular YouTube channel about "How to speak Polish correctly".
 - [Arlena Witt](https://www.youtube.com/user/jezykalnia) - A channel to learn English, but of course you can also use a magic trick and learn Polish from it.
+- [Dave z Ameryki](https://www.youtube.com/user/ShfinkaMaster) - A very well-known Polish-American channel, where Dave often talks about various subjects concerning Poland and the Polish language itself, as well as frequent mistakes made by Poles learning Polish.
+- [Trev](https://www.youtube.com/TrevTrev) - Another Polish-American YouTube channel, which also talking about cultural differences  and more. 
 
 #### Scientific (Naukowe)
 
@@ -312,6 +316,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Nauka. To lubię](https://www.youtube.com/user/naukatolubie) - A [scientific] channel dedicated to get knowledge about many things.
 - [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) - Another Polish respected scientific channel, where various topics are often discussed in the form of long films. Also worth checking the subchannel [Wyłącznie Naukowy Bełkot ](https://www.youtube.com/channel/UCBcXA_jyGkSUU6is4xS6S4g).
 - [SciFun](https://www.youtube.com/scifun) - One of the most popular Polish scientific channels. The subject of his recent films is checking various things under the microscope, but in a "normal way" and not hyperbolized. [He also made a serious analysis of the "theory that the Earth is flat"](https://www.youtube.com/watch?v=lDFo70FlbAo&list=PLuui6B7jlJXkLMxXo6sI6iZEkSCU-3WQZ).
+- [Kasia Gandor](https://www.youtube.com/KasiaGandor) - Another interesting channel to popularize science.
 - [NaukowoTV](https://www.youtube.com/channel/UCXdxta-h8zDUc8dhGiOsi9g) - Next cool channel about learning.
 - [Astronarium](https://www.youtube.com/AstronariumPl) - A channel about space - astronomy and Polish scientists related to this subject.
 - [Pod Mikroskopem](https://www.youtube.com/channel/UCnAX2kPJ32Kyvr-BfTnDjkQ) - A channel where detailed discussions on many scientific topics appear.
@@ -393,6 +398,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 #### Japanese Culture and Popculture (Japońska kultura oraz popkultura)
 
 - [Ignacy z Japonii](https://www.youtube.com/channel/UC84AaEtr7hlaYYwXDSKAbNg) - Very cool channel of a Japanese man named Kohei, who records videos under the pseudonym "Ignacy" ([Explanation](https://www.youtube.com/watch?v=wjWU4MClUbQ)). The channel might be useful for people from Japan who would like to learn Polish and more, because "Ignacy" was a free listener in Polish studies at the Uniwersytet Śląski in Katowice, as he himself wrote in the description of the channel. He explains very interesting issues, refutes myths and stereotypes related to Japan or Japanese, which people spread unconsciously in Poland (and not only here).  
+- [Janusz z Japonii [Kotaro Hisada]](https://www.youtube.com/channel/UCz1K-1jkqoBlnslVVNc0U_A) - The channel of another Japanese man who speaks Polish really well (He lived in Poland for 4 years in total). Recently he has been publishing a lot of videos from his expeditions - he has the soul of a traveller, on which he talks about things there, for example [Kinkakuji temple](https://www.youtube.com/watch?v=dOG7vCeySD4). He also talks about language issues, of course, and often talks about what he was doing in Polish, and made an interesting video [about one of the frequent mistakes made by beginner Japanese people learning Polish](https://www.youtube.com/watch?v=suDeob65_io).
 - [Aiko & Emil](https://www.youtube.com/channel/UCXRJfVWEjv9qxooSbOkFmkw) - The channel of a very nice marriage - Japanese woman Aiko and the Polish man Emil. They form a very powerful duo and their videos are very interesting. We can learn from them many of their opinions about Japan and Poland, as well as video about very unique topics, for example video about [Ainu people](https://www.youtube.com/watch?v=vnib1muoygY) and really cool video [about their traditional Japanese wedding](https://www.youtube.com/watch?v=7p5htOlavFI). There is also a videos about ["mythical Japanese square watermelon"](https://www.youtube.com/watch?v=KdpGaknqJdI). It is also worthwhile to have a look at the separate Emil channel - [Podcast Po Japonii](https://www.youtube.com/channel/UCfegHHvKywKjJ69Ymcb6j0w) and as the name says it is a podcast about Japanese things, often here are further conversations of those shown on [Aiko & Emil](https://www.youtube.com/channel/UCXRJfVWEjv9qxooSbOkFmkw) channel. Emil also has another channel about North Korea, to which he often went on tours in the past and it's called [Pozdro z KRLD](https://www.youtube.com/channel/UCUCVBflimUih08ONuOKOpfQ).  
 - [Enma Official](https://www.youtube.com/channel/UC9Vi25H6lQvPqcepJCJ3sEg) - YouTube channel of Polish woman who has lived in Japan since 2015, she is also a Graduate of Japanese Philology. She really likes do cosplay also. She very often refutes the false information and myths about Japan that are really often spread in popular media. 
 - [NanoKarrin](https://www.youtube.com/channel/UCue2Utve3Cz8Cb2eIJzWGUQ) - A Polish group creating covers of well-known songs. They are also create short parodies of some anime productions.
@@ -472,7 +478,6 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Śpiewnik Wywroty](https://spiewnik.wywrota.pl) - lyrics of Polish and foreign songs and "the biggest Polish Wiki-Songbook created by guitarists for guitarists!", so of course you will find here the guitar tabs.
 - [Taby na harmonijkę](https://taby-na-harmonijke.pl) - list of many taboos for the harmonica. A really cool website, I learned on it e.g. [intro song from "Pat a Mat"](https://taby-na-harmonijke.pl/sasiedzi-muzyka-z-bajki).
 - [Forum Harmoszka (Archive version)](http://web.archive.org/web/20200224194456/https://www.forum.harmoszka.com/) - A very cool forum with tabs for the harmonica. I, for example, used this forum to learn how to play ["Hejnał mariacki"](https://pl.wikipedia.org/wiki/Hejna%C5%82_mariacki). I gave a link to the archive version of the forum, because it did not work for me personally, maybe some technical work is in progress. As far as the choice of instrument to play is concerned, I recommend the piano [keyboard] (king of instruments), but if you want something even simpler and very mobile, the harmonica and kazoo (a totally easy to play instrument) will also be cool.
-- 
 
 ### Karaoke
 
@@ -665,27 +670,33 @@ Law is a very important thing in society, the following links will be useful for
 
 ## Social networks (Sieci społecznościowe)
 
-- Reddit:
-  - [/r/learnpolish](https://www.reddit.com/r/learnpolish) - Very nice subreddit about learning Polish. If you have any questions, doubts or interesting information about things related to the Polish language, feel free to write there. Poland is generally a nation willing to help others, there is a huge hospitality culture here since the beginning of the country, so for over 1000 years. In every society, there are stupid, silly and fanatic people, and Poland is no exception, so we should not generalize, because we have a lot of intelligent, nice and tolerant people here. Poland often lost out on such an attitude, because for other countries, as it be in Politics, only interests mattered.
-  - [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
-  - [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
-
-  - [/r/Polish](https://www.reddit.com/r/Polish) - Subreddit about "Polish culture and language".
-
-  - [/r/PolskaNaLuzie](https://www.reddit.com/r/PolskaNaLuzie) - Poland on chillout - "without politics and other heavy topics".
-  - [/r/TVGRYpl](https://www.reddit.com/r/TVGRYpl) - Unofficial subreddit about the [TVGRYpl](https://www.youtube.com/user/TVGRYpl).
-  - [/r/Zagranicznicy](https://www.reddit.com/r/Zagranicznicy) - Subreddit bringing together all those who have emigrated.
-  - [/r/filozofia](https://www.reddit.com/r/filozofia) -  Polish subreddit about philosophy.
-  - [/r/muzyka](https://www.reddit.com/r/muzyka) - Polish subreddit about music.
-- Discord:
-  - [Learn Polish Discord Server](https://discord.gg/4U7Akj6) - The best Discord server to learn Polish. I would like to invite everyone here who has some problems with the language, is curious about something or just wants to talk to people in Polish, the community is open to other and active. I am too active here. 
-  - [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
-  - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
-  - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
-  - [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solutions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? The [Wiki](https://przygodyreksia.fandom.com/wiki/Strona_g%C5%82%C3%B3wna) is also worth checking.
-  - [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
 - [HiNative](https://hinative.com/pl) - A multilingual platform for asking and answering questions (Q&A). Here you can ask questions about Poland and Polish language issues.
+- [Conlanger - Polskie Forum Językowe](https://jezykotw.webd.pl/f/index.php?PHPSESSID=29d59e308560456a59a283f029de123b&board=22.0) - Polish language forum, at this link you can find a section for talking about Polish language.
+- [e-polish.eu](https://e-polish.eu/forum-dyskusyjne-jezyka-polskiego) - Discussion forum about Polish language learning.
 - [Nasza Klasa (NK)](https://nk.pl) - One of Poland's cult social networking sites, before the popularization of Facebook in Poland, was very often used by Poles, offered a lot of online games, I personally switched from NK to Facebook 8 years ago because I wanted to play the latest version of Shadow Fight, and this Polish version had less updates. This site can be very useful to you, for example if you once lived in Poland and attended a Polish school, and you've really liked a lot of people and forgotten their names, there's a chance that you'll find some pictures and details of these people there (These are also worth mentioning: [Gadu-Gadu](https://gadu-gadu.pl) or [Grono.net](https://pl.wikipedia.org/wiki/Grono.net) - which lost its popularity when popularity of NK grew).
+
+#### Reddit:
+
+- [/r/learnpolish](https://www.reddit.com/r/learnpolish) - Very nice subreddit about learning Polish. If you have any questions, doubts or interesting information about things related to the Polish language, feel free to write there. Poland is generally a nation willing to help others, there is a huge hospitality culture here since the beginning of the country, so for over 1000 years. In every society, there are stupid, silly and fanatic people, and Poland is no exception, so we should not generalize, because we have a lot of intelligent, nice and tolerant people here. Poland often lost out on such an attitude, because for other countries, as it be in Politics, only interests mattered.
+- [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
+- [/r/Poland](https://www.reddit.com/r/poland) - Subreddit about Poland in English.
+
+- [/r/Polish](https://www.reddit.com/r/Polish) - Subreddit about "Polish culture and language".
+
+- [/r/PolskaNaLuzie](https://www.reddit.com/r/PolskaNaLuzie) - Poland on chillout - "without politics and other heavy topics".
+- [/r/TVGRYpl](https://www.reddit.com/r/TVGRYpl) - Unofficial subreddit about the [TVGRYpl](https://www.youtube.com/user/TVGRYpl).
+- [/r/Zagranicznicy](https://www.reddit.com/r/Zagranicznicy) - Subreddit bringing together all those who have emigrated.
+- [/r/filozofia](https://www.reddit.com/r/filozofia) -  Polish subreddit about philosophy.
+- [/r/muzyka](https://www.reddit.com/r/muzyka) - Polish subreddit about music.
+
+##### Discord:
+
+- [Learn Polish Discord Server](https://discord.gg/4U7Akj6) - The best Discord server to learn Polish. I would like to invite everyone here who has some problems with the language, is curious about something or just wants to talk to people in Polish, the community is open to other and active. I am too active here. 
+- [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
+- [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
+- [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
+- [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solutions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? The [Wiki](https://przygodyreksia.fandom.com/wiki/Strona_g%C5%82%C3%B3wna) is also worth checking.
+- [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
 
 ## My nice tips (Moje świetne wskazówki)
 
@@ -739,13 +750,13 @@ If you want to support the project, just send people in need a link to this list
 
 ## Acknowledgements (Podziękowania)
 
-Thank you to **everyone who helps to promote this project and is interested in it** - your feedback motivates me to work. 
+- Thank you to **everyone who helps to promote this project and is interested in it** - your feedback motivates me to work. 
 
-Thank you **Mother Nature** for the bees honey.
+- Thank you **Mother Nature** for the bees honey.
 
-Thank you **Polish education system** for the fact that I did not have to buy tickets for the circus so often, because I had it at my fingertips.
+- Thank you **Polish education system** for the fact that I did not have to buy tickets for the circus so often, because I had it at my fingertips.
 
-Thank you **szew** for helping with grammar proofreading [of this list] and for suggestions for extending the list with various elements. (She also helped with chasing away unnecessary butterflies - pleonasms and etc.).
+- Thank you **szew** for helping with grammar proofreading [of this list] and for suggestions for extending the list with various elements. (She also helped with chasing away unnecessary butterflies - pleonasms and etc.).
 
 ## My others projects (Moje inne projekty)
 
