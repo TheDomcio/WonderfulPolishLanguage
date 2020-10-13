@@ -327,7 +327,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Mówiąc Inaczej](https://www.youtube.com/user/PamikuPL) - great and very popular YouTube channel about "How to speak Polish correctly".
 - [Arlena Witt](https://www.youtube.com/user/jezykalnia) - A channel to learn English, but of course you can also use a magic trick and learn Polish from it.
 - [Dave z Ameryki](https://www.youtube.com/user/ShfinkaMaster) - A very well-known Polish-American channel, where Dave often talks about various subjects concerning Poland and the Polish language itself, as well as frequent mistakes made by Poles learning Polish.
-- [Trev](https://www.youtube.com/TrevTrev) - Another Polish-American YouTube channel, which also talking about cultural differences  and more. 
+- [Trev](https://www.youtube.com/TrevTrev) - Trevor's - Tadeusz's (Polish-American) YouTube channel, which also talking about cultural differences and more. 
 
 #### Scientific (Naukowe)
 
