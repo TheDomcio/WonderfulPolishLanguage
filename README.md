@@ -267,9 +267,9 @@ ENG: Welcome! If you are a person who still doesn't speak English at a really co
 #### French (Francuski)
 
 - [Podstawy francuskiego](https://podstawyfrancuskiego.pl/) - a page with basic French lessons. There are currently a minimum of 14 lessons available.
-  - [E-francuski](http://www.e-francuski.pl/) - 
-- [Mówimy po francusku](http://www.mowimypofrancusku.pl/) - Here you can learn words, watch movies, read cartoons and learn about the culture of france. Lessons and exercises are available.
-- [Szlifuj swój francuski](https://francuski.ang.pl/) - 
+- [E-francuski](http://www.e-francuski.pl/) - Free learning of French - "everything about the French language - word ~ grammar ~ fun facts". [Here](http://www.e-francuski.pl/index.php/download) you will also find a download section where you can get learning materials in the form of RTF documents.
+- [Mówimy po francusku](http://www.mowimypofrancusku.pl/) - Here you can learn words, watch movies, read cartoons and learn about the culture of France. Lessons and exercises are available.
+- [Szlifuj swój francuski](https://francuski.ang.pl/) - On this website you can polish your French language.
 - [Rozmówki francuskie by Tomszon](https://tomszom.com/traveling/rozmowki-francuskie-z-polska-wymowa) - French phrasebook, from this page you can download a PDF with basic vocabulary, which can be very useful for those who want to go to France one day for tourism and more. There is also Polish pronunciation.
 - [Matura z języka francuskiego](http://maturana6.pl/jezyk-francuski) - Tests - the official French language [Polish matura exams](https://en.wikipedia.org/wiki/Matura) are available for free download, also with transcription and answers. [Here is the rest of the matura sheets](https://cke.gov.pl/egzamin-maturalny/egzamin-w-nowej-formule/arkusze/).
 
