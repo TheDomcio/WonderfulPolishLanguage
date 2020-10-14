@@ -27,7 +27,7 @@ Pozdrawiam was bardzo serdecznie.
      - [Multilangual (Wielojęzykowe)](#multilingual-wielojęzykowe)
      - [Czech (Czeski)](#czech-czeski)
      - [Finnish (Fiński)](#finnish-fiński)
-     - [French (Francuski)](french-francuski)
+     - [French (Francuski)](#french-francuski)
      - [German (Niemiecki)](#german-niemiecki)
      - [Interslavic (Międzysłowiański)](#interslavic-międzysłowiański) 
      - [Italian (Włoski)](#italian-włoski)
