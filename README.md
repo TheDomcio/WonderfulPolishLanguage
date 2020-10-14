@@ -26,6 +26,7 @@ Pozdrawiam was bardzo serdecznie.
    - [Learning other languages in Polish (Nauka innych języków po polsku)](#learning-other-languages-in-polish-nauka-innych-j%C4%99zyk%C3%B3w-po-polsku)
      - [Multilangual (Wielojęzykowe)](#multilingual-wielojęzykowe)
      - [Czech (Czeski)](#czech-czeski)
+     - [English (Angielski)](#english-angielski)
      - [Finnish (Fiński)](#finnish-fiński)
      - [French (Francuski)](#french-francuski)
      - [German (Niemiecki)](#german-niemiecki)
@@ -221,6 +222,8 @@ Hello world! I also thought that some of you will want to learn other languages 
 
 `Sometimes under some subcategory here you will not find enough material for some languages, but in this subcategory, on linked websites, there is often a choice of Polish as the first language to learn from.`
 
+- [Duolingo](http://duolingo.com/) - The world's best known platform for learning different languages.
+
 - [Ba Ba Dum](https://babadum.com) - A very interesting word game, which currently supports over 1000 words in more than 20 languages, including of course Polish. There are various game modes available. It may come in handy, for example, during more boring or your [really not] favorite subjects at school. 
 - [50LANGUAGES](https://www.50languages.com/phrasebook/en/pl) - Free lessons for beginners in different languages. From what I have noticed, there are 100 lessons available in each language. You can have the words in .mp3 format compressed into a .zip archive. There is a very interesting option where you can choose from which language you want to learn, I set the link from English to Polish and then there are e.g. .mp3 with English words with Polish translation.
 - [loecsen](https://www.loecsen.com/en) - A website similar to the above, also offers a huge number of languages.
@@ -238,6 +241,21 @@ Hello world! I also thought that some of you will want to learn other languages 
 - [Polish-Czech dictionary by Agencja Skrivanek - Biuro Tłumaczeń](https://skrivanek.pl/slownik-polsko-czeski) - Online small dictionary with the possibility to download a PDF file.
 
 - [Mały słownik polsko-czeski, czesko-polski by Jezyk-Czeski.info](https://www.jezyk-czeski.info/slownik-PL-c-5.html) - A small dictionary with a search engine.
+
+#### English (Angielski)
+
+(Information - Informacja) 
+
+Cześć! Jeżeli jesteś osobą, która nadal nie umie języka angielskiego na naprawdę komunikatywnym poziomie lub taką, zwyczajnie lubiącą szlifować swoje umiejętności lingwistyczne, to mam nadzieję, że poniższe linki będą dla was przydatne. Na edukację zawsze jest dobry czas i nie ma się czego wstydzić, a angielski jest kluczem do zdobywania wszelakiej wiedzy z różnych zakątków świata. Sam bardzo lubię się uczyć w języku ojczystym, gdyż jest to dla mnie oczywiście bardziej wydajne i przyjemne, ale języki łączą ludzi, więc warto znać ich, jak najwięcej, przynajmniej wszystkie, oprócz niektórych z nich. Angielski jest naprawdę wszędobylski, więc sprawia to, iż jego nauka jest znacznie prostsza, gdyż nie trzeba szukać go specjalnie, gdyż sam się zjawia w praktycznie każdej części życia. Warto również sprawdzić w tym celu resztę linków na tej liście, również serwisy wielojęzykowe, do których potężne łącza są dostępne [tutaj](https://github.com/TheDomcio/WonderfulPolishLanguage#multilingual-wieloj%C4%99zykowe). 
+
+ENG: Welcome! If you are a person who still doesn't speak English at a really communicative level or one who simply likes to polish his or her linguistic skills, I hope the following links will be useful for you. There is always a good time for education and there is nothing to be ashamed of and English is the key to gaining all kinds of knowledge from all over the world. I like to learn in my mother tongue very much myself, because it's obviously more efficient and nice for me, but languages bring people together, so it's worth knowing as many of them as possible, at least all of them, except some of them. English is really ubiquitous, so it makes learning it much easier, because you don't have to look for it especially, as it appears in practically every part of life. It is also worth checking the rest of the links in this list, including multilingual services, to which powerful links are available [here](https://github.com/TheDomcio/WonderfulPolishLanguage#multilingual-wieloj%C4%99zykowe).
+
+- [E-angielski.com](https://www.e-angielski.com/) - Free English language learning. Here you will find classes of grammar, vocabulary, complete basics, tests and quizzes, English reading, courses, idioms, collocation, free ebooks, exams and phrasal verbs and much more (Strona internetowa oferująca bezpłatną naukę języka angielskiego. Znajdziesz tu gramatykę, słownictwo, "podstawy podstaw", testy i quizy, czytania po angielsku, kursy, idiomy, kolokacje, darmowe książeczki, egzaminy oraz czasowniki frazowe i wiele więcej).
+- [Przewodnik po angielskim by Education First Polska](https://www.ef.pl/przewodnik-po-angielskim) - On this website you will find learning materials, among other things, there are famous quotes, tests, most frequently used words and more (Na tej stronie znajdują się materiały edukacyjne, m.in. słynne cytaty, testy, najczęściej używane słowa i inne).
+- [Platforma do bezpłatnej nauki języka angielskiego online engly.pl](https://engly.pl) - Another interesting website for learning English with a lot of various things, also [a bank of PDF materials available for free download](https://engly.pl/subjects/listing/14) (Kolejna interesująca strona do nauki języka angielskiego zawierająca sporo wszelakich rzeczy, również [bank materiałów PDF dostępnych bezpłatnie do pobrania](https://engly.pl/subjects/listing/14)). 
+- [Darmowy kurs języka angielskiego by Ebrio](http://www.angielski.ebrio.pl/) - You will find course with over 20 English lessons here (Znajdziecie tutaj kurs zawierający ponad 20 lekcji języka angielskiego). 
+- [Diki.pl](https://www.diki.pl) - One of the best existing Polish-English dictionaries online (Jeden z najlepszych istniejących polsko - angielskich słowników online).
+- [My ClassRoom](https://myclassroom.pl/kategoria-produktu/freebies/) - Free[bies] English language learning printable materials for children (Darmowe materiały do druku do nauki języka angielskiego - dla dzieci).
 
 #### Finnish (Fiński)
 
