@@ -27,12 +27,16 @@ Pozdrawiam was bardzo serdecznie.
      - [Multilangual (Wielojęzykowe)](#multilingual-wielojęzykowe)
      - [Czech (Czeski)](#czech-czeski)
      - [Finnish (Fiński)](#finnish-fiński)
+     - [French (Francuski)](french-francuski)
+     - [German (Niemiecki)](#german-niemiecki)
      - [Interslavic (Międzysłowiański)](#interslavic-międzysłowiański) 
      - [Italian (Włoski)](#italian-włoski)
      - [Japanese (Japoński)](#japanese-japoński)
      - [Norwegian (Norweski)](#norwegian-norweski)
      - [Polish (Polski)](#polish-polski)
      - [Romanian (Rumuński)](#romanian-rumuński)
+     - [Russian (Rosyjski)](#russian-rosyjski)
+     - [Slovak (Słowacki)](#slovak-słowacki)
      - [Spanish (Hiszpański)](#spanish-hiszpański)
 2. [Videos (Filmy)](#videos-filmy)
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
@@ -215,6 +219,8 @@ Hello world! I also thought that some of you will want to learn other languages 
 
 #### Multilingual (Wielojęzykowe)
 
+`Sometimes under some subcategory here you will not find enough material for some languages, but in this subcategory, on linked websites, there is often a choice of Polish as the first language to learn from.`
+
 - [Ba Ba Dum](https://babadum.com) - A very interesting word game, which currently supports over 1000 words in more than 20 languages, including of course Polish. There are various game modes available. It may come in handy, for example, during more boring or your [really not] favorite subjects at school. 
 - [50LANGUAGES](https://www.50languages.com/phrasebook/en/pl) - Free lessons for beginners in different languages. From what I have noticed, there are 100 lessons available in each language. You can have the words in .mp3 format compressed into a .zip archive. There is a very interesting option where you can choose from which language you want to learn, I set the link from English to Polish and then there are e.g. .mp3 with English words with Polish translation.
 - [loecsen](https://www.loecsen.com/en) - A website similar to the above, also offers a huge number of languages.
@@ -240,6 +246,22 @@ Hello world! I also thought that some of you will want to learn other languages 
 - [Darmowe lekcje fińskiego by Łosiowisko](http://finski.losiowisko.com/lekcje) - At least 12 free Finnish lessons are available here after also free registration.
 - [Polish-Finnish dictionary by Agencja Skrivanek - Biuro Tłumaczeń](https://skrivanek.pl/slownik-polsko-finski/) - Online small dictionary with the possibility to download a PDF file.
 
+#### French (Francuski)
+
+- [Podstawy francuskiego](https://podstawyfrancuskiego.pl/) - a page with basic French lessons. There are currently a minimum of 14 lessons available.
+  - [E-francuski](http://www.e-francuski.pl/) - 
+- [Mówimy po francusku](http://www.mowimypofrancusku.pl/) - Here you can learn words, watch movies, read cartoons and learn about the culture of france. Lessons and exercises are available.
+- [Szlifuj swój francuski](https://francuski.ang.pl/) - 
+- [Rozmówki francuskie by Tomszon](https://tomszom.com/traveling/rozmowki-francuskie-z-polska-wymowa) - French phrasebook, from this page you can download a PDF with basic vocabulary, which can be very useful for those who want to go to France one day for tourism and more. There is also Polish pronunciation.
+- [Matura z języka francuskiego](http://maturana6.pl/jezyk-francuski) - Tests - the official French language [Polish matura exams](https://en.wikipedia.org/wiki/Matura) are available for free download, also with transcription and answers. [Here is the rest of the matura sheets](https://cke.gov.pl/egzamin-maturalny/egzamin-w-nowej-formule/arkusze/).
+
+#### German (Niemiecki)
+
+- [Podstawy niemieckiego](https://podstawyniemieckiego.pl) - Free course with basic German, a minimum of 24 lessons are available for free (I write about this minimum always as if more have been added in the meantime and all these lessons are available for free). 
+- [Kocham niemiecki](https://kochamniemiecki.pl/bezplatne-lekcje/) - A large number of free German lessons.
+- [Nauka Niemieckiego](https://www.nauka-niemieckiego.net/cwiczenia/) - At this link you will find free repetition exercises in German with different difficulty levels.
+- [Słownik polsko-niemiecki by Diki](https://www.diki.pl/slownik-niemieckiego) - A very good online dictionary for both English and German.
+
 #### Interslavic (Międzysłowiański)
 
 Why did I add it here? It is an [constructed language](https://en.wikipedia.org/wiki/Constructed_language), which is called, among others ["Medžuslovjanski"](https://pl.wikipedia.org/wiki/J%C4%99zyk_mi%C4%99dzys%C5%82owia%C5%84ski), which uses both the [Latin alphabet](https://en.wikipedia.org/wiki/Latin_alphabet) and the [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script). I add it as an interesting fact for people who know very well some language with Slavic roots. In short, it is simply a "Slavic [auxlang (international auxiliary language)](https://en.wikipedia.org/wiki/International_auxiliary_language), which is something similar to Esperanto" (By the way, [Ludwik Łazarz Zamenhof ](https://en.wikipedia.org/wiki/L._L._Zamenhof) is a Pole who created [Esperanto](https://en.wikipedia.org/wiki/Esperanto)).
@@ -260,10 +282,10 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 #### Japanese (Japoński)
 
   - [Benkyo](http://benkyo.ml/old) - This is a mirror of website of a Pole who lived in Japan for many years ([Here you can read more about the creator of benkyo.pl](http://benkyo.ml/autor)) and the archivist who, due to the fact that the information available on the site is quite interesting, did not want to let the site go into oblivion, so she threw in the hosting again - all this with the permission of the author.. You will find a lot of help files under this link, for example, exercise sheets with hiragana, katakana and kanji. [A prettier - remake version of this mirror is also available](http://benkyo.ml/) , but it is still under construction, but we can already find a lot of interesting things there, for example [lesson no. 0](http://benkyo.ml/lekcja-0/) with pronunciation and [a game that involves typing in the equivalents of Latin symbols from the hiragana and the katakana](http://benkyo.ml/lekcja-0/kana-gra).
-
+  - [Słownik znaków japońskich](http://kanji.nowaksvd.net) - Electronic dictionary offering translation of about 2200 Japanese characters (kanji). The author of the blog decided to publish a dictionary - „Słownik znaków japońskich” in the form of a blog (the list of keys and kanji characters is available for download in PDF format), the copyrights to which have already expired according to him (So Bogusław Nowak, author of the book himself). The paper version of that dictionary has 1945 characters and the digital version, as I wrote earlier, contains about 2200. These are characters approved by the Japanese Ministry of Education. Really good work and worth checking. The author is also a member of the Catholic [Society of the Divine Word - SVD](https://en.wikipedia.org/wiki/Society_of_the_Divine_Word) - missionary, so here you can read in Polish about his missions in Japan and [about him](http://www.nowaksvd.net/pl/index.php/intro/) and [here is his Japanese website](https://lumen-christi.com/).
   - [japonia-info.pl](https://japonia-info.pl/nauka-japonskiego) - A website with interesting information about Japan and of course the Japanese language itself.
-
   - [Japoński pomocnik](https://www.japonski-pomocnik.pl/wordDictionary) - "A small, modest Japanese helper". A brilliant Polish-Japanese dictionary containing a huge number of words. [There is also its [minimalistic] mobile version for Android](https://play.google.com/store/apps/details?id=pl.idedyk.android.japaneselearnhelper).
+  - [Kanji.pl](http://www.kanji.pl/) - On this (currently inactive for a long time) blog you will find a lot of articles about learning the Japanese language. For example, [about learning hiragana signs](http://www.kanji.pl/nauka-hiragany-cz-1/) and under this link [there are teaching aids](http://www.kanji.pl/pomoce-naukowe).
 
 #### Norwegian (Norweski)
 
@@ -277,17 +299,34 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 
 #### Romanian (Rumuński)
 
+- [Nauka języka rumuńskiego](https://polsko-rumunski.blogspot.com/) - The blog with the basics of Romanian is currently inactive and 8 lessons are available.
 - [Słownik polsko-rumuński by Glosbe](https://pl.glosbe.com/pl/ro) - An online dictionary containing over 63 thousand phrases.
-- [Polish-Romanian dictionary by Agencja Skrivanek - Biuro Tłumaczeń](https://skrivanek.pl/slownik-polsko-rumunski) - A handy dictionary from twith the possibility to download a PDF file.
+- [Polish-Romanian dictionary by Agencja Skrivanek - Biuro Tłumaczeń](https://skrivanek.pl/slownik-polsko-rumunski) - A handy dictionary with the possibility to download a PDF file.
+
+#### Russian (Rosyjski)
+
+- [Podstawy rosyjskiego](https://podstawyrosyjskiego.pl) - You will find here at least 12 Russian basic lessons. 
+- [Russky.info](https://russky.info/pl) - Russian language learning service for free. You will find here many grammar lessons, to which nice pictures are added (Free registration is required for full use of the service - available courses).
+- [Matura z języka rosyjskiego](http://maturana6.pl/jezyk-rosyjski) - Tests - the official Russian language [Polish matura exams](https://en.wikipedia.org/wiki/Matura) are available for free download, also with transcription and answers. [Here is the rest of the matura sheets](https://cke.gov.pl/egzamin-maturalny/egzamin-w-nowej-formule/arkusze/).
+- [Rosyjskie słówka](https://jrosyjski.pl/c/slowka-po-rosyjsku) - Here are sets of words for some specific categories.
+- [rosyjski.slowka.pl](http://www.rosyjski.slowka.pl) - Here you will find free Russian language courses, including educational games, exams, articles and much more.
+- [Kurs języka rosyjskiego by rosyjski.pro](https://rosyjski.pro/nauka-rosyjskiego-jezyk-rosyjski-dla-poczatkujacych/) - Free Russian course for beginners. There are over 30 available lessons. [Here you will find free/additional learning materials](https://rosyjski.pro/kurs-jezyka-rosyjskiego-dodatkowe-materialy/). 
+- [Rosyjski z duszą - darmowe materiały do pobrania](http://www.rosyjskizdusza.com/materialy-do-pobrania/) - Here you can download for free a few PDFs about Russian language learning, for example about pronunciation.
+- [Słownik polsko - rosyjski by Glosbe](https://pl.glosbe.com/pl/ru) - Polish-Russian dictionary containing over 160 thousand phrases.
+
+#### Slovak (Słowacki)
+
+- [Wielojęzyczny portal do nauki języka słowackiego](https://slovake.eu/pl) - Polish version of multilingual Slovak language learning portal. There is a level of difficulty A1, A2, B1 and B2, a lot of basics and grammar and a nice graphic design (Free registration is required for full functionality).
+- [Słownik polsko - słowacki by Glosbe](https://pl.glosbe.com/pl/sk) - Polish - Slovak dictionary containing over 88 thousand phrases.
 
 #### Spanish (Hiszpański)
 
 - [Podstawy hiszpańskiego](https://podstawyhiszpanskiego.pl) - Basics of the Spanish language - a tutorial - a course with several lessons. 
-
 - [Ebrio](http://www.ebrio.pl) - A free Spanish course with more than 20 lessons available, a dictionary, flashcards and much more.
 - [Darmowy podręcznik - kurs języka hiszpańskiego](https://pl.wikibooks.org/wiki/Hiszpa%C5%84ski/Kurs_A) - Free textbook - a course for beginners and intermediate learners available on Wikibooks.
 - [Polsko - Hiszpański słownik by Glosbe](https://pl.glosbe.com/pl/es) - Polish-Spanish dictionary containing over 190 thousand phrases.
 - [Hiszpańsko - Polski słownik by PONS](https://pl.pons.com/t%C5%82umaczenie/polski-hiszpa%C5%84ski) - Another Spanish-Polish dictionary.  
+- [Matura z języka hiszpańskiego](http://maturana6.pl/jezyk-hiszpanski) - Tests - the official Spanish language [Polish matura exams](https://en.wikipedia.org/wiki/Matura) are available for free download, also with transcription and answers. [Here is the rest of the matura sheets](https://cke.gov.pl/egzamin-maturalny/egzamin-w-nowej-formule/arkusze/). 
 
 ## Videos (Filmy)
 
