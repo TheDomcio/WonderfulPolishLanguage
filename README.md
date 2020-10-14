@@ -12,7 +12,7 @@ Pozdrawiam was bardzo serdecznie.
 
 (I offered the [hamsters](https://pl.wikipedia.org/wiki/Chomiki) that destroyed the cables from the teleports to cooperate in searching for bugs in the text code. After that I repaired the teleport connections, so in this version all should work. By the way, this text file was, is and will be resistant to viruses, [here you can check scan](https://www.virustotal.com/gui/url/467856e2d4fe0b14e4c625c372312c4edd425ba06e25fe12ea25217e190979e1/detection))
 
-  -0. [What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
+  -0. [(What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
 
 0. [Contents (Spis treści)](#contents-spis-treści)
 1. [Texts (Teksty)](#texts-teksty)
@@ -30,6 +30,7 @@ Pozdrawiam was bardzo serdecznie.
      - [Finnish (Fiński)](#finnish-fiński)
      - [French (Francuski)](#french-francuski)
      - [German (Niemiecki)](#german-niemiecki)
+     - [Hungarian (Węgierski)](#hungarian-węgierski) 
      - [Interslavic (Międzysłowiański)](#interslavic-międzysłowiański) 
      - [Italian (Włoski)](#italian-włoski)
      - [Japanese (Japoński)](#japanese-japoński)
@@ -117,6 +118,7 @@ Pozdrawiam was bardzo serdecznie.
   - [About copyright violation accusations](https://en.wikipedia.org/wiki/Open_Library#Copyright_violation_accusations).
 - [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above. As the name suggests, there are many books here.
 - [Lektorek](https://lektorek.org/lektorek/) - Website associated with [University of Pittsburgh](https://www.pitt.edu/) You will find here a lot of valuable documents related to learning Polish. For example, in the category [First Year Polish](https://lektorek.org/lektorek/firstyear/) > [Lessons](https://lektorek.org/lektorek/firstyear/lessons/) there are 12 lessons (as 12 PDF files) and also a supplement and a glossary. In ["Other"](https://lektorek.org/lektorek/Other/) you will also find a lot of interesting things, for example [Polish song book](https://lektorek.org/lektorek/Other/), [short stories](https://lektorek.org/lektorek/Other/opowiesci.pdf) and [English-Polish phrasebook](https://lektorek.org/lektorek/Other/phrasebook.pdf) and more.
+- [Baśnie braci Grimm](https://www.grimmstories.com/pl/grimm_basnie/index) - here you have free online multilingual version of the Grimms' Fairy Tales. By default, you can read only in the selected language, but there is an option to read that way: on one side you have the first selected language and on the next side you have the second selected language, so for example you can set fairy tale ["Cindrella"](https://www.grimmstories.com/en/grimm_fairy-tales/aschenputtel) from [Hungary (Hamupipőke) to Polish (Kopciuszek)](https://www.grimmstories.com/language.php?grimm=021&l=hu&r=pl) or another example:  ["Rapunzel"](https://www.grimmstories.com/en/grimm_fairy-tales/rapunzel) from [Japanese ( ラプンツェル) to Polish (Roszpunka)](https://www.grimmstories.com/language.php?grimm=012&l=ja&r=pl). [Here](https://www.grimmstories.com/en/grimm_fairy-tales/list) is the whole list of available fairy tales, that is 200 + 10  The children's legends + 12 No longer included in the last edition. I have read the Polish edition, in which there were 210 of these stories in total. I recommend these tales to everyone, it is really great to read, regardless of age and mood.
 - [Ebooks from the government website of The Polish State Forests](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania) - You can find a lot of ebooks on forest-related things. in different formats here, most often in PDF format, but also, of course, in .epub and .mobi. [Here, for example, you have a book on the art of photographing nature](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/sztuka-fotografowania-przyrody) and about [forest survival](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/survival). A lot of people will certainly be interested in [a book on forest recipes](https://www.lasy.gov.pl/pl/informacje/publikacje/e-book-od-lasow-panstwowych/dobre-z-lasu-czyli-natura-od-kuchni).
 - [Wirtualne modelarstwo by Witold Jaworski](https://samoloty3d.pl/wm-000_p.xml) - Ebooks about aircraft computer modeling  (the programs that will be used are Blender, Gimp and Inkscape). If you ever wanted to learn how to model, then this guide may prove useful to you, although it is now, when I write it, intended for an older version of Blender, but in fact, the instructions relating to that version will also, of course, be able to be reproduced in the latest version of this software, only requiring a few moments more.
 - [LearnNoW - NTNU](https://www.ntnu.edu/learnnow-pl/info/downloads) - 
@@ -125,7 +127,7 @@ Pozdrawiam was bardzo serdecznie.
 
 #### Fantasy (Fantastyka)
 
-`Here you will find many available magazines, anthologies and individual stories, it is worth giving them a chance, because they are all prepared with passion and great efforts and most look really professional. I am sorry that I have described most of them so briefly.`
+`Here you will find many available magazines, anthologies and individual stories, it is worth giving them a chance, because they are all prepared with passion and great efforts and most look really professional. I am sorry that I have described most of them so briefly. They really deserve to this subsubcategory, so that fans of this kind of literature can access it even more easily, it is really worth giving chances to a large part of them.`
 
 - [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories.
 - [Legendy Polskie by Allegro](https://allegro.pl/legendy/#legendy-modal) - An anthology of many fantastic texts inspired by Polish legends. If you want to watch films from the same series also inspired by Polish legends, I invite you [here](https://www.youtube.com/watch?v=1J_Y12RqeLM&list=PLFttT4XjEwKQjYyH9m2vwwXQG94tUEeR1).
@@ -223,11 +225,11 @@ Hello world! I also thought that some of you will want to learn other languages 
 `Sometimes under some subcategory here you will not find enough material for some languages, but in this subcategory, on linked websites, there is often a choice of Polish as the first language to learn from.`
 
 - [Duolingo](http://duolingo.com/) - The world's best known platform for learning different languages.
-
 - [Ba Ba Dum](https://babadum.com) - A very interesting word game, which currently supports over 1000 words in more than 20 languages, including of course Polish. There are various game modes available. It may come in handy, for example, during more boring or your [really not] favorite subjects at school. 
 - [50LANGUAGES](https://www.50languages.com/phrasebook/en/pl) - Free lessons for beginners in different languages. From what I have noticed, there are 100 lessons available in each language. You can have the words in .mp3 format compressed into a .zip archive. There is a very interesting option where you can choose from which language you want to learn, I set the link from English to Polish and then there are e.g. .mp3 with English words with Polish translation.
 - [loecsen](https://www.loecsen.com/en) - A website similar to the above, also offers a huge number of languages.
 - [aztekium](http://aztekium.pl/nauka.py) - Another webpage where you can choose which language you want to learn from is the translation of words from the second language into the first.
+- [LinGo Play](https://www.lingo-play.com/pl) - Yes, the site is also similar to the above, very nice visually.
 - [LingoHut](https://www.lingohut.com/) - A page similar to the above. Here you will find many interesting quizzes and mini-games.
 
 #### Czech (Czeski)
@@ -279,6 +281,15 @@ ENG: Welcome! If you are a person who still doesn't speak English at a really co
 - [Kocham niemiecki](https://kochamniemiecki.pl/bezplatne-lekcje/) - A large number of free German lessons.
 - [Nauka Niemieckiego](https://www.nauka-niemieckiego.net/cwiczenia/) - At this link you will find free repetition exercises in German with different difficulty levels.
 - [Słownik polsko-niemiecki by Diki](https://www.diki.pl/slownik-niemieckiego) - A very good online dictionary for both English and German.
+- [Gwary szwajcarskie (Schwyzertüütsch)](https://pl.wikipedia.org/wiki/Gwary_szwajcarskie) - Wikipedia article about Swiss German (some comparison).
+
+#### Hungarian (Węgierski)
+
+[Lengyel, magyar – két jó barát, együtt harcol, s issza borát - Polak, Węgier, dwa bratanki, i do szabli, i do szklanki]([https://pl.wikipedia.org/wiki/Polak,_W%C4%99gier,_dwa_bratanki,_i_do_szabli,_i_do_szklanki](https://pl.wikipedia.org/wiki/Polak,_Węgier,_dwa_bratanki,_i_do_szabli,_i_do_szklanki)) ([English translation](https://en.wikipedia.org/wiki/Pole_and_Hungarian_brothers_be)). I hope that our nations will always be friends. *Poland Can Into Space.* 
+
+- [e-Bratanki - słownik polsko-węgierski](http://www.e-bratanki.hu/pl) - Nice old-school dictionary with a few additional settings. There is also an option to translate from Hungarian into Polish and the English version is also available [here](http://www.e-bratanki.hu/en/) and [here](http://www.e-bratanki.hu/pl/#tippek) are some tips on how to use the dictionary ([Mobile version](http://http://www.e-bratanki.hu/m?nyelv=pol)). There are 20505 pairs of words available, but it seems that the dictionary has not been updated for 4 years (since 21 October 2016), but it's still worth checking it out. They are also available: [Ragozások - Odmiany](http://www.e-bratanki.hu/szotar_ragozasok.php).
+- [wegierski.slowka.pl](http://www.wegierski.slowka.pl/) - Free Hungarian language course - articles, grammar, phrases and much more.
+- [Słownik polsko-węgierski by Glosbe](https://pl.glosbe.com/hu/pl) - Another cool Polish-Hungarian Dictionary containing over 103 thousand phrases.
 
 #### Interslavic (Międzysłowiański)
 
@@ -368,6 +379,8 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 I like to add those channels that do not have exaggerate with the absurdity of thumbnails and titles - [clickbaits](https://en.wikipedia.org/wiki/Clickbait). I want to make it as easy as possible to retrieve information from the videos on this site without wasting your time on "one million [fillers](https://en.wikipedia.org/wiki/Filler_(media))" included in today's **typical** YouTube videos focused on massive marketing. Of course, it is not always possible to "escape" from this, so sometimes people who want to reach a larger audience want to adapt to the "standards of popularization of content" in this way. In the future I will add more categories and channels here, but first I want to focus on those already created, so as not to create categories with a small number of recommended channels. Forgive me for describing some great channels so short, because most of them deserve a few times more description.
 
 ##### Linguistics and related (Lingwistyka i powiązane)
+
+- [Ecolinguist](https://www.youtube.com/Ecolinguist) -  "Connecting people through languages" - One of the best linguistic channels on the whole YouTube. The main content creator is Polish Norbert Wierzbicki. There are often videos where there is a meeting through video conversation of people from different countries who try to understand each other using their native language with a similar origin - the same roots to the language used by other guests. Slavic language appears very often. [Here](https://www.youtube.com/watch?v=NztgXMLwv4A) for example, there is a very popular video in which a Pole, Bulgarian and Croatian try to understand the Interslavic language used by their friend ([Here an Norbert's interview with the main creator of the Interslavic language itself](https://www.youtube.com/watch?v=8BpixH088xg)). A very cool option if you want to learn between languages, your language will probably be on the channel. For those who like English, [here](https://www.youtube.com/watch?v=sEaRBAT0TLs) is a video in which an Englishman speaks Old English and a Pole - Norbert, Australian and American try to understand it.
 
 - [Course of Polish](https://www.youtube.com/user/Jareczny) - There are a lot of "words of the day" here, and then the speaker shows the sentences in which these words can be used - context.
 - [SAY IT IN POLISH](https://www.youtube.com/channel/UCCDOVLmcmVWGit5vTgS2Q6Q) - Nice channel about "saying it" (some more complex message) in Polish. And not only that, it is also worthwhile to look through older videos.
