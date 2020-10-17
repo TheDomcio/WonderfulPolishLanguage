@@ -379,14 +379,16 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 
 - [CDA](https://www.cda.pl/video) - Very popular multimedia Polish service. It also offers a premium VOD option. Long time ago it was known for having many games, especially flash games, which of course are still on this site. You can find there a lot of movies. 
 - [Ninateka](https://ninateka.pl) - Amazing collection of documentaries, theatrical performances, cartoons for childrens, music concerts, animations, literature and journalism. And even more, this is a website that is really totally worth a look.
+- [WFDIF - Studio Filmowe TOR](https://www.youtube.com/WFDIFStudioFilmoweTOR) - Official YouTube TOR Film Studio channel, which you will find a lot of Polish feature films available for free.
+- [Arte](https://www.arte.tv/pl) - polish version of European cultural television with many movies. 
 - [POLSKA KRONIKA FILMOWA (PKF)](https://www.youtube.com/user/PolskaKronikaFilmowa) - The official YouTube channel of the Polish Film Chronicle, which was actively created between 1944-1994, so mainly from the times of the Polish People's Republic, but also before and after that period.
 - [Adapter](https://adapter.pl) - A large collection of films available for free and legally and they are friendly for disabled persons - sign language presenters and audio description and simplified subtitles are available.
 - [Repozytorium Cyfrowe Filmoteki](http://www.repozytorium.fn.org.pl/?q=pl) - digital repository of the national film library. You can find a lot of archival productions in it.
 - [Łódzkie Archiwum Filmowe](https://etiudy.filmschool.lodz.pl) - archive of films from the Łódź Film School.
-- [Arte](https://www.arte.tv/pl) - polish version of European cultural television.
 - [Dokument Cyfrowo](http://www.dokumentcyfrowo.pl) - Archive of Polish reconstructed films. Another really good source of renovated old productions.
 - [SALA KINOWA](https://www.youtube.com/user/SalaKinowa) - Several films available for free.
 - [Filmoteka - Muzeum Sztuki Nowoczesnej w Warszawie](http://artmuseum.pl/pl/filmoteka) - Film archive of the Museum of Modern Art in Warsaw. **Maybe** you will find here some movies about dancing and singing rice pasta.
+- [Netflixowe darmówki](https://www.netflix.com/pl/watch-free) - ([Darmówki]([https://pl.wiktionary.org/wiki/darm%C3%B3wka](https://pl.wiktionary.org/wiki/darmówka)) in colloquial speech = [freebies](https://dictionary.cambridge.org/pl/dictionary/english/freebie)) Here you can watch several movies, some episodes of series and programs for free on the Netflix platform with Polish subtitles (probably in some regions they are unavailable), which Netflix allows you to watch to give you the free opportunity to test that service.
 
 ### Pingwin Mroźny
 
