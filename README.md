@@ -238,7 +238,7 @@ Hello world! I also thought that some of you will want to learn other languages 
 - [LinGo Play](https://www.lingo-play.com/pl) - Yes, the site is also similar to the above, very nice visually.
 - [LingoHut](https://www.lingohut.com/) - A page similar to the above. Here you will find many interesting quizzes and mini-games.
 
-#### Cinese (Chiński)
+#### Chinese (Chiński)
 
 - [Kurs języka chińskiego online - chiński dla początkujących](http://www.chinese4.eu/pl/) - On this website (Unfortunately, a lot of elements on the website and subpage require [Adobe Flash, whose official EOL - end-of-life - will be on 31 December 2021](adobe.com/pl/products/flashplayer/end-of-life.html)) you will find 5 Chinese courses: ["Chinese for you"](http://www.chinese4.eu/pl/jezyk-chinski-dla-ciebie/) and ["Chinese for children" (Here the subpage is different and there are also educational games)](http://www.children.chinese4.eu/PL/) and ["Chinese for students"](http://www.chinese4.eu/pl/jezyk-chinski-dla-studentow/), ["Chinese for business"](http://www.chinese4.eu/pl/jezyk-chinski-dla-biznesu/) and ["Chinese for tourists"](http://www.chinese4.eu/pl/jezyk-chinski-dla-turystow/). Some courses require [free] registration. In "Chinese for you" you can learn about the tones, signs, greetings, thanks and apologies and more of the basics. 
 - [Słownik Bohan](http://www.bohan.pl/index.php/pl) - Chinese - Polish dictionary (over 32000 phrases), Polish - Chinese (over 24000 phrases), Mandarin - Chengyu (over 1800 phrases), Chinese - Kashubian (over 4800 phrases), Chinese - Silesian (over 600 phrases). 
