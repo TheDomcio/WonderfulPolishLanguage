@@ -1,4 +1,5 @@
-# Wonderful Polish Language
+# Wonderful Polish Language 
+🎂 A month has passed since the first publication in 18.09.2020 🎂
 
 ## Preamble (Wstęp - Preambuła)
 
