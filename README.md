@@ -67,9 +67,10 @@ Pozdrawiam was bardzo serdecznie.
 
    - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
 3. [Audio](#audio)
-   - [Song lyrics (Teksty piosenek, nuty i taby)](#song-lyrics-notes-and-tabs-teksty-piosenek-nuty-i-taby)
+   - [Song lyrics (Teksty piosenek)](#song-lyrics-teksty-piosenek)
+   - [Music sheets and tabs (Nuty oraz taby)](#music-sheets-and-tabs-nuty-oraz-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
-   - [Karaoke](#karaoke)
+   - [Karaoke online](#karaoke-online)
 4. [Games (Gry)](#games-gry-1)
 
    - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe)
@@ -388,7 +389,6 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 - [Dokument Cyfrowo](http://www.dokumentcyfrowo.pl) - Archive of Polish reconstructed films. Another really good source of renovated old productions.
 - [SALA KINOWA](https://www.youtube.com/user/SalaKinowa) - Several films available for free.
 - [Filmoteka - Muzeum Sztuki Nowoczesnej w Warszawie](http://artmuseum.pl/pl/filmoteka) - Film archive of the Museum of Modern Art in Warsaw. **Maybe** you will find here some movies about dancing and singing rice pasta.
-- [Netflixowe darmówki](https://www.netflix.com/pl/watch-free) - ([Darmówki]([https://pl.wiktionary.org/wiki/darm%C3%B3wka](https://pl.wiktionary.org/wiki/darmówka)) in colloquial speech = [freebies](https://dictionary.cambridge.org/pl/dictionary/english/freebie)) Here you can watch several movies, some episodes of series and programs for free on the Netflix platform with Polish subtitles (probably in some regions they are unavailable), which Netflix allows you to watch to give you the free opportunity to test that service.
 
 ### Pingwin Mroźny
 
@@ -400,7 +400,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 ##### Linguistics and related (Lingwistyka i powiązane)
 
-- [Ecolinguist](https://www.youtube.com/Ecolinguist) -  "Connecting people through languages" - One of the best linguistic channels on the whole YouTube. The main content creator is Polish Norbert Wierzbicki. There are often videos where there is a meeting through video conversation of people from different countries who try to understand each other using their native language with a similar origin - the same roots to the language used by other guests. Slavic language appears very often. [Here](https://www.youtube.com/watch?v=NztgXMLwv4A) for example, there is a very popular video in which a Pole, Bulgarian and Croatian try to understand the Interslavic language used by their friend ([Here an Norbert's interview with the main creator of the Interslavic language itself](https://www.youtube.com/watch?v=8BpixH088xg)). A very cool option if you want to learn between languages, your language will probably be on the channel. For those who like English, [here](https://www.youtube.com/watch?v=sEaRBAT0TLs) is a video in which an Englishman speaks Old English and a Pole - Norbert, Australian and American try to understand it.
+- [Ecolinguist](https://www.youtube.com/Ecolinguist) -  "Connecting people through languages" - One of the best linguistic channels on the whole YouTube. The main content creator is Polish [Norbert Wierzbicki](http://ecolinguist.com/bio). There are often videos where there is a meeting through video conversation of people from different countries who try to understand each other using their native language with a similar origin - the same roots to the language used by other guests. Slavic language appears very often. [Here](https://www.youtube.com/watch?v=NztgXMLwv4A) for example, there is a very popular video in which a Pole, Bulgarian and Croatian try to understand the Interslavic language used by their friend ([Here an Norbert's interview with the main creator of the Interslavic language itself](https://www.youtube.com/watch?v=8BpixH088xg)). A very cool option if you want to learn between languages, your language will probably be on the channel. For those who like English, [here](https://www.youtube.com/watch?v=sEaRBAT0TLs) is a video in which an Englishman speaks Old English and a Pole - Norbert, Australian and American try to understand it.
 
 - [Course of Polish](https://www.youtube.com/user/Jareczny) - There are a lot of "words of the day" here, and then the speaker shows the sentences in which these words can be used - context.
 - [SAY IT IN POLISH](https://www.youtube.com/channel/UCCDOVLmcmVWGit5vTgS2Q6Q) - Nice channel about "saying it" (some more complex message) in Polish. And not only that, it is also worthwhile to look through older videos.
@@ -517,16 +517,12 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 ### VOD
 
 -  [Teatr Wielki VOD](http://vod.teatrwielki.pl) - Official VOD website of the Teatr Wielki. There you can watch archival versions of theatrical performances.
-
 -  [Kino Świat VOD](https://www.youtube.com/channel/UCDqUHYuQcF191eT3_eydXGw) - YouTube channel of the Polish distribution company Kino Świat. A large number of films are available here.
-
 -  [VOD.pl](https://vod.pl/filmy-za-darmo?insider_menu_za_darmo) - The link leads to a free list of films shared - streamed by this service.
-
 -  [TVP's VOD](https://vod.tvp.pl) - Official VOD of Polish Television - Telewizja Polska (TVP). There are a lot of film/serial recordings that were broadcast on the main channels.
-
 -  [Ipla](https://www.ipla.tv) - It's a VOD associated mainly with Polsat TV. There are a lot of films and series available for free. Of course there are also movies for pay-per-view option. 
-
 -  [TVN's Player](https://player.pl) - VOD associated with TVN television, on which the content is broadcast on channels associated with it.
+-  [Netflixowe darmówki](https://www.netflix.com/pl/watch-free) - ([Darmówki]([https://pl.wiktionary.org/wiki/darm%C3%B3wka](https://pl.wiktionary.org/wiki/darmówka)) in colloquial speech = [freebies](https://dictionary.cambridge.org/pl/dictionary/english/freebie)) Here you can watch several movies, some episodes of series and programs for free on the Netflix platform with Polish subtitles (probably in some regions they are unavailable), which Netflix allows you to watch to give you the free opportunity to test that service.
 
 ### Television (Telewizja)
 
@@ -579,17 +575,23 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Audioteka](https://www.youtube.com/user/audiotekapl) - The official YouTube channel of [Audioteka](https://audioteka.com/pl), you will find a lot of audiobooks to listen here, of course often only parts of the books are available to encourage you to buy them, but it is in very fair form - the videos have many minutes.
 - [Bajkowy tata](https://bajkowytata.com/audiobooki) - Audiobooks for children, which "can be downloaded and listened to for free, without restrictions".
 
-### Song lyrics, notes and tabs (Teksty piosenek, nuty i taby)
+### Song lyrics (Teksty piosenek)
 
 - [Tekstowo](https://www.tekstowo.pl) - one of the currently most popular Polish websites offering lyrics to songs. Transcriptions are created by users. You will need it if you want to learn a language by listening to songs, because you will be able, for example, to listen and read at the same time or you can try to write down what you heard and then check the lyrics of the song to see if it is correct, it is certainly a nice method and quite mind friendly and not boring in my opinion. 
 - [Groove](https://www.groove.pl) - Another option, there are a lot of song interpretations and, of course, the subtitles themselves, so this will come in handy if we want to understand the deeper meaning of the tracks. Sometimes you have to do some research anyway to find out what song had the true message, especially in case of old Polish songs, like those from the 80s. If you haven't found the meaning of a song, write to me, then I'll try to help you interpret it by helping you know the history of those times and knowing the people who lived then, because I'm from 2001, so hehehe. but I still have a lot of knowledge on this issue, and I also got to know a part of the biographies of the local music artists, which can be useful in this regard.
 - [Teksty](https://teksty.org) - service very similar to the above. It has a slightly more old-school look.
 - [Tekściory](https://teksciory.interia.pl) - Another alternative.
+
+#### Music sheets and tabs (Nuty oraz taby)
+
+- [Biblioteka nut - Stare melodie](https://staremelodie.pl/biblioteka) - A really huge and wonderful library of notes of old Polish melodies, which you can download as a PDF file. I really like the animations on the site and its style. Well done, author. [More about the website - project](https://staremelodie.pl/o_stronie).
 - [Śpiewnik Wywroty](https://spiewnik.wywrota.pl) - lyrics of Polish and foreign songs and "the biggest Polish Wiki-Songbook created by guitarists for guitarists!", so of course you will find here the guitar tabs.
 - [Taby na harmonijkę](https://taby-na-harmonijke.pl) - list of many taboos for the harmonica. A really cool website, I learned on it e.g. [intro song from "Pat a Mat"](https://taby-na-harmonijke.pl/sasiedzi-muzyka-z-bajki).
 - [Forum Harmoszka (Archive version)](http://web.archive.org/web/20200224194456/https://www.forum.harmoszka.com/) - A very cool forum with tabs for the harmonica. I, for example, used this forum to learn how to play ["Hejnał mariacki"](https://pl.wikipedia.org/wiki/Hejna%C5%82_mariacki). I gave a link to the archive version of the forum, because it did not work for me personally, maybe some technical work is in progress. As far as the choice of instrument to play is concerned, I recommend the piano [keyboard] (king of instruments), but if you want something even simpler and very mobile, the harmonica and kazoo (a totally easy to play instrument) will also be cool.
+- [Musicscore](https://musescore.com/) - A great collection of music sheets, in which you can also find Polish songs. You can also download [their official free and professional software "to create, play and print Sheet music"](https://musescore.org/pl)- I personally really recommend it. 
+- [Nuty za free](http://nutyzafree.pl/) - Website with Polish as well as other notes, which in total are over 450 available.
 
-### Karaoke
+### Karaoke online
 
 - [iSing](https://ising.pl) - The most popular Polish karaoke service. You can listen many song covers here.
 
@@ -598,12 +600,13 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 ### Internet Radio (Radio internetowe)
 
 - [Radio.pl](https://www.radio.pl) - A website where you can find a lot of internet radio from different categories and regions.
+- [Radio Anime24](http://radioanime24.pl) - Polish radio anime, which has existed for over 10 years. [There are [of course] broadcasts](http://radioanime24.pl/ramowka/). Once upon a time, there was also [Radio Wakai](https://wakai.pl), but nowadays it's focused mainly into information from anime world (Similar Polish service: [Anime24](https://anime24.pl)). 
+- [Radio-Polska](https://www.radio-polska.pl)
 - [Open FM](https://open.fm) 
 - [RMF FM](https://www.rmf.fm/radio-internetowe.html)
-- [Online Radio](https://onlineradio.pl)
 - [Radio ZET Online](https://player.radiozet.pl)
 - [eskaGO](https://www.eskago.pl/radio)
-- [Radio-Polska](https://www.radio-polska.pl)
+- [Online Radio](https://onlineradio.pl)
 
 ## Games (Gry)
 
@@ -709,7 +712,6 @@ Law is a very important thing in society, the following links will be useful for
 - [Językowe dylematy](http://www.jezykowedylematy.pl) - A website "for everyone who appreciates the correct Polish language" and also with interesting language facts. 
 - [Obcy język polski](https://obcyjezykpolski.pl) - a very interesting blog about things related to the Polish language. You will also find [many interesting language quizzes here](https://obcyjezykpolski.pl/tematy/quiz-jezykowy/).
 - [Culture.PL](https://culture.pl/en) - Here you will find a lot of articles about things related to Poland and Polish language. They have a lot of cool articles about Polish literature and well-known literary authors.
-- [Anime24](https://anime24.pl/) - "The latest news from the anime world".
 - [Kwantowo](https://www.kwantowo.pl) - A very cool science blog that deals with physics, astronomy and rationality. A lot of things are presented in a very cool form.
 - [Histmag.org](https://histmag.org) - Nice website about history.
 - [Sekurak](https://sekurak.pl) - website dedicated to online security.
@@ -803,8 +805,9 @@ Law is a very important thing in society, the following links will be useful for
 - [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
 - [Languages of Poland Discord Server](https://discord.gg/ADUAQNZ)
 - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
+- [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad. For example: there is a text channel with Penguins Frosty on the [📼odcinki📼](https://discord.gg/8Xqw7M) channel, also [📄napisy📄](https://discord.gg/XQbKuh) on which information about the subtitles added to the movies appears,  a text channel where my projects are described: [🌞moje-projekty🌞](https://discord.gg/MjGhFe) and also among other a text channel [📣za-darmo⁉](https://discord.gg/DNKCTn), where it informs about free games or [really good] programs etc. Which are available for free to claim for some time.
 - [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solutions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? The [Wiki](https://przygodyreksia.fandom.com/wiki/Strona_g%C5%82%C3%B3wna) is also worth checking.
-- [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad.
+- [Nie wiem, ale się dowiem](https://discord.gg/3XhkCE) - The official Discord server of ["Nie wiem, ale się dowiem"](https://www.youtube.com/Niewiemalesiędowiem) YouTube channel, although it seems that recently main creator of the channel is no longer using this server very much.
 
 ## My nice tips (Moje świetne wskazówki)
 
