@@ -1,5 +1,4 @@
 # Wonderful Polish Language 
-🎂 A month has passed since the first publication in 18.09.2020 🎂
 
 ## Preamble (Wstęp - Preambuła)
 
@@ -401,6 +400,8 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 ##### Linguistics and related (Lingwistyka i powiązane)
 
+- [The Polish Language by Langfocus](https://www.youtube.com/watch?v=hfJinyofQdk) - Great video showing Polish language from many different sides. Its history is shown, including of course the structure of the language structure and much more.
+
 - [Ecolinguist](https://www.youtube.com/Ecolinguist) -  "Connecting people through languages" - One of the best linguistic channels on the whole YouTube. The main content creator is Polish [Norbert Wierzbicki](http://ecolinguist.com/bio). There are often videos where there is a meeting through video conversation of people from different countries who try to understand each other using their native language with a similar origin - the same roots to the language used by other guests. Slavic language appears very often. [Here](https://www.youtube.com/watch?v=NztgXMLwv4A) for example, there is a very popular video in which a Pole, Bulgarian and Croatian try to understand the Interslavic language used by their friend ([Here an Norbert's interview with the main creator of the Interslavic language itself](https://www.youtube.com/watch?v=8BpixH088xg)). A very cool option if you want to learn between languages, your language will probably be on the channel. For those who like English, [here](https://www.youtube.com/watch?v=sEaRBAT0TLs) is a video in which an Englishman speaks Old English and a Pole - Norbert, Australian and American try to understand it.
 
 - [Course of Polish](https://www.youtube.com/user/Jareczny) - There are a lot of "words of the day" here, and then the speaker shows the sentences in which these words can be used - context.
@@ -455,7 +456,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 - [mietczynski](https://www.youtube.com/channel/UCZP_DXnKgfs_ZX3RHVmu6qQ) - The person who recording videos for this YouTube channel is mainly known among Polish youth for humorous and simple summary of the various required school readings. He talks about them by adding more of his colorful metaphors and opinions, so he simply talks about the plot in an unconventional and accessible way, so it helps many people to remember the course of these books, which is often useful on all school's "smaller" and "main" exams (I personally am neutral to this, but I add this channel objectively, because I know that many people like it for different reasons). He also reviews films in a similar way and tries his hand at cooking based on popular recipes. 
 - [Polimaty](https://www.youtube.com/Polimaty) - Very interesting channel about nice life topics (yes, it's worth to check it).
-- [Krzysztof Gonciarz](https://www.youtube.com/KrzysztofGonciarz) - channel of the Polish traveler Krzysztof Gonciarz, who also lived in Japan for many years. He also has a stricte comedy channel [Zapytaj Beczkę](https://www.youtube.com/user/TheBeeczka). 
+- [Krzysztof Gonciarz](https://www.youtube.com/KrzysztofGonciarz) - channel of the Polish traveler Krzysztof Gonciarz, who also lived in Japan for many years. 
 
 #### Books (Książki)
 
@@ -471,6 +472,14 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Nie wiem, ale się dowiem](https://www.youtube.com/channel/UCZ7KWO9E51KNtkDN_TfA69Q) - A project very similar to the above, also raises a lot of problems of today's world. This channel also has films created in a very accessible form.
 - [Człowiek Absurdalny](https://www.youtube.com/Cz%C5%82owiekAbsurdalny) - "important questions about life, philosophy, psychology, literature". 
 - [Klocuch](https://www.youtube.com/user/KlocuchRecenzje) - [Mr. Cuch's](https://www.youtube.com/watch?v=sS3xkUyqyUQ) YouTube channel. This is one of the legends of Polish YouTube, which shares its opinions on various topics in a very unconventional way, and you should not take things that he says personally, because all these words are said in a joke or some philosophical aspect (he often refers to things related to the childhood of many Poles). I also add it here because he speaks a very diverse language - he uses words from many dialects and loan words (a lot of German origin).
+
+#### Comedy (Komediowe)
+
+- [Zapytaj Beczkę](https://www.youtube.com/user/TheBeeczka) - A [stricte](https://pl.wiktionary.org/wiki/stricte) comedy [Krzysztof Gonciarz's](https://www.youtube.com/KrzysztofGonciarz) YouTube Channel. He laughs (in caricatured - cartoonish way) at various specific social phenomena and human behavior in his videos.
+- [Z Dvpy](https://www.youtube.com/channel/UCNhtAn1MT600xiNiX8ErnyQ) - Maciej Dąbrowski's YouTube Channel. He among others: creates quite a specific videos about various cultural works, he reviews cities, he creates parodic dubbings and song covers and he also refers to recent events in Poland and in the world and he comments "the Polish YouTube scene". (there is a noticeable policy here and he sometimes likes to share his point of view, but does not do so in a very  intrusive way, I think that it is worth having your opinion own and have a calm mind - think clear-headedly).
+- [Lekko Stronniczy](https://www.youtube.com/user/lekkostronniczy) - The YouTube channel, which is created by Włodek Markowicz and Karol Paciorek (The order of the names was taken from the YouTube channel description, as if someone would like to ask about it), they has been publishing videos (there's a new video every day) about current affairs since 2011 (there was a few year break, which ended over a year ago). They often talk about it in a humorous way, but they also know how to maintain the seriousness of the situation if it requires it. Karol Paciorek has his podcast channel which is called ["Imponderabilia"](https://www.youtube.com/ImponderabiliaTV), where he invites many very famous Polish people. Podcasts are known for the fact that some of them last really many hours and there are no unnecessary cuts (mainly in general, the assembly consists of changing the camera and colors). [Włodek Markowicz](https://www.youtube.com/user/wlodekmarkowicz) also has his own YouTube channel and is very famous for his movie ["Dots"](https://www.youtube.com/watch?v=O6UBkXLN4PI) (Polish, English, Spanish, Russian and German subtitles are available).
+
+- [Pawelandbajer](https://www.youtube.com/user/Pawelandbajer) - YouTube channel, where its creator every day publishes a video with a kind of  joke called [in slang] ["suchar"](https://pl.wiktionary.org/wiki/suchar) (literally: [rusk](https://en.wikipedia.org/wiki/Rusk)), but in the sense of a synonym for ["żart"](https://pl.wiktionary.org/wiki/%C5%BCart) and ["dowcip"](https://pl.wiktionary.org/wiki/dowcip) and ["kawał"](https://pl.wiktionary.org/wiki/kawa%C5%82). 
 
 #### Games (Gry)
 
