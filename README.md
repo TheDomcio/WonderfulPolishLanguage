@@ -54,6 +54,7 @@ Pozdrawiam was bardzo serdecznie.
      - [Cultural (Kulturalne)](#cultural-kulturalne)
      - [Books (Książki)](#books-książki)
      - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
+     - [Comedy (Komediowe)](#comedy-komediowe)
      - [Games (Gry)](#games-gry)
      - [Movies (Filmy)](#movies-filmy)
      - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
