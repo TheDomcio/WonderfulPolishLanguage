@@ -46,7 +46,6 @@ Pozdrawiam was bardzo serdecznie.
    - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
 
    - [YouTube](#youtube)
-
      - [Linguistics and related (Lingwistyka i powiązane)](#linguistics-and-related-lingwistyka-i-powiązane)
      - [Scientific (Naukowe)](#scientific-naukowe)
      - [Culinary (Kulinarne)](https://github.com/TheDomcio/WonderfulPolishLanguage/blob/master/README.md#culinary-kulinarne)
@@ -59,14 +58,16 @@ Pozdrawiam was bardzo serdecznie.
      - [Movies (Filmy)](#movies-filmy)
      - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
      - [Japanese Culture and Popculture (Japońska kultura oraz popkultura)](#japanese-culture-and-popculture-japońska-kultura-oraz-popkultura)
+     - [Mathematical and Information Technology (Matematyczne i informatyczne)](#mathematical-and-information-technology-matematyczne-i-informatyczne)
 
-   - [VOD](#vod)
+- [VOD](#vod)
 
-   - [Television (Telewizja)](#television-telewizja)
+- [Television (Telewizja)](#television-telewizja)
 
-   - [Subtitles (Napisy)](#subtitles-napisy)
+- [Subtitles (Napisy)](#subtitles-napisy)
 
-   - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
+  - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
+
 3. [Audio](#audio)
    - [Song lyrics (Teksty piosenek)](#song-lyrics-teksty-piosenek)
    - [Music sheets and tabs (Nuty oraz taby)](#music-sheets-and-tabs-nuty-oraz-taby)
@@ -525,6 +526,13 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [NanoKarrin](https://www.youtube.com/channel/UCue2Utve3Cz8Cb2eIJzWGUQ) - A Polish group creating covers of well-known songs. They are also create short parodies of some anime productions.
 - [Spychu91](https://www.youtube.com/user/Spychu91) - Announcements of new anime production and information from "that world". So if someone has already watched many productions and doesn't know what to watch, then maybe something of the [hypothetical] promising new series will interest him.
 
+#### Mathematical and Information Technology (Matematyczne i informatyczne)
+
+- [Tomasz Gwiazda](https://www.youtube.com/user/TDGwiazda) - Very well known online math teacher. He has several hundred videos published on his channel. It is mainly mathematics at elementary school level and no longer existing [gymnasium (gimnazjum)](https://en.wikipedia.org/wiki/Gymnasium_(school)) in Poland. When I went to school, it was 6 primary classes (and a sixth-grade graduation exam) and it was three years of middle school (and a gymnasium exam), even before the first grade of the elementary school, that I went to ["zerówka" (0 class)](https://pl.wikipedia.org/wiki/System_o%C5%9Bwiaty_w_Polsce#Wychowanie_przedszkolne) - Here you can read more about stages of education in Poland - [in English](https://en.wikipedia.org/wiki/Education_in_Poland) or preferably [in Polish](https://pl.wikipedia.org/wiki/System_o%C5%9Bwiaty_w_Polsce) (also worth checking out [here)](https://pl.wikipedia.org/wiki/Struktura_szkolnictwa_w_Polsce).
+- [MATMAG.pl](https://www.youtube.com/channel/UC49eEyfnpKEFvYDyHtifEo) - The YouTube channel for learning mathematics - mainly targeted to parents who would like to teach their children mathematics in a quite accessible [more] graphic way
+- [Matemaks](https://www.youtube.com/user/matemaks) - Next very cool channel to improve mathematical skills. Here you will learn mathematical knowledge at secondary school level - the knowledge necessary to pass the Polish [Matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland) in mathematics.
+- [Pasja Informatyki](https://www.youtube.com/Pasjainformatykitutoriale) - Marvellous YouTube channel about computer science and related things. From here you can learn, among others, the basics of [C++ programming language ("Programming in C++. A course from scratch, for everyone")](https://www.youtube.com/watch?v=ErOzmh3BiXU&list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) in a very cool way and also you can see what knowledge is needed to pass exams for the Polish occupational title "IT Technician" (["Technik Informatyk"](https://pl.wikipedia.org/wiki/Technik_informatyk)). I am in the last class and already I passed one exam splited into theoretical part and practical part - [EE.08](https://www.youtube.com/watch?v=WxH9YNAfAao&list=PLOYHgt8dIdoz2fyn0gv4fs2t4tayalsh3) and in a few months, I'll be passing also splited into theoretical part and practical part - [EE.09](https://www.youtube.com/watch?v=Ugl3ZS62rvs&list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq) - after passing all parts of both exams you can finish school with this title.
+
 ### VOD
 
 -  [Teatr Wielki VOD](http://vod.teatrwielki.pl) - Official VOD website of the Teatr Wielki. There you can watch archival versions of theatrical performances.
@@ -627,7 +635,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [GRY-OnLine](https://www.gry-online.pl) - The largest Polish portal dedicated to games. It has a fairly active community and a database of games with ratings. So if you are looking for some Polish game, you should find a page with it here.
 - [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl) - A web portal dedicated to polishing modifications and translations to Gothic, recently a very good dubbing for production is being created. Gothic is a cult game for many Poles, so it is worthwhile to get to know the sites associated with it. Recently, many great Polish professional moderation projects have been created, e.g. ["History of Khorinis"](https://dziejekhorinis.org). This will be the unofficial prequel of the Gothic I game. The voices of the characters are from very popular voice actors, and documentary films about these actors have been made as part of the project, so it is worth watching them on [the project's official YouTube channel](https://www.youtube.com/channel/UCzZPtg45BJjKpxSB2ER1mxw). Another big project worth mentioning is the still being created mod ["Myrtana Chronicles"](https://www.youtube.com/KronikiMyrtany) (A lot of great Gothic mods have been created for many years, so when they come out, there will be a lot of them to play).
 - [theModders](https://themodders.org) -A web portal dedicated to creating and modifying games (currently mainly Gothic series).
-- [Spine Mod Manager]() - I will also mention a program - a mod manager named Spine, which also supports Polish language and mods for [Gothic](https://en.wikipedia.org/wiki/Gothic_(video_game)) and [Gothic II](https://en.wikipedia.org/wiki/Gothic_II) (With ["Night of the Raven"](https://en.wikipedia.org/wiki/Gothic_II:_Night_of_the_Raven) extension of course, so Gold Edition).
+- [Spine Mod Manager](https://www.worldofgothic.de/dl/download_540.htm) - I will also mention a German program - a mod manager named Spine, which also supports Polish language and mods for [Gothic](https://en.wikipedia.org/wiki/Gothic_(video_game)) and [Gothic II](https://en.wikipedia.org/wiki/Gothic_II) (With ["Night of the Raven"](https://en.wikipedia.org/wiki/Gothic_II:_Night_of_the_Raven) extension of course, so Gold Edition).
 - [Graj Po Polsku](https://grajpopolsku.pl) - A nice website with great quality Polish translations for many computer games.
 
 ### Browser games (Gry przeglądarkowe)
