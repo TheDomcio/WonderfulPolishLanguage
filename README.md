@@ -59,6 +59,7 @@ Pozdrawiam was bardzo serdecznie.
      - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
      - [Japanese Culture and Popculture (Japońska kultura oraz popkultura)](#japanese-culture-and-popculture-japońska-kultura-oraz-popkultura)
      - [Mathematical and Information Technology (Matematyczne i informatyczne)](#mathematical-and-information-technology-matematyczne-i-informatyczne)
+     - [Technological (Technologiczne)](#technological-technologiczne)
 
 - [VOD](#vod)
 
@@ -210,6 +211,8 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Linguee](https://www.linguee.com) - A good alternative to the above page. It is related to [DeepL](https://www.deepl.com/translator) - it comes from the same authors.
 - [Language Tool](https://languagetool.org) - Great multilingual spelling and grammar checker. Useful if you are still not very good at using the comma character in Polish, but it is not perfect, sometimes it may find the necessary comma unnecessary and vice versa (also, this tool does not always handle dialects and archaisms well).
 - [Youglish](https://youglish.com/polish) - brilliant website for improving pronunciation and more. As the authors write, there are millions of entries with tracks in the index, after entering a word that interests us,the search engine tries to find a video on YouTube (based on subtitles) in which it is used. ([Word "pingwin" for example]([https://youglish.com/pronounce/pingwin/polish?)).
+- [Lekarski Poradnik Językowy (LPJ)](https://lpj.pl/) - The online medical language guide has been in existence for over 22 years. You will find a lot of cool articles on it - subpages, [for example with a certain grammatical rule with a comma](https://lpj.pl/index.php?op=31&id=2). It is an interesting old-school source of linguistic knowledge.
+- [Słownik terminów anatomicznych](http://anationary.pl/) - Polish-English and Polish-Latin (and various combinations of these) dictionary of anatomical terms. [There is also a mobile version for Android](https://play.google.com/store/apps/details?id=pl.anationary.previewer).
 - [Encyklopedia PWN](https://encyklopedia.pwn.pl) - Nice encyclopedia.
 - [Słownik polszczyzny XVI wieku](https://spxvi.edu.pl) - A dictionary of Polish language from the XVI century. If you would like to sound like a great nobleman, then thanks to knowing these words you will be closer to achieving this.
 - [Słownik staropolski](https://www.staropolska.pl/slownik) - The Old Polish dictionary, a lot of archaic words, will come in handy if you are going to travel in time and communicate with older Polish people.
@@ -485,7 +488,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 #### Games (Gry)
 
-- [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics (On the subchannel [TVGRYplus](https://www.youtube.com/channel/UCBuapzlArSNwZk-n4gQIsRQ) there is news etc.).
+- [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics (On the subchannel [TVGRYplus](https://www.youtube.com/channel/UCBuapzlArSNwZk-n4gQIsRQ) there is news etc.). Some of their team also run a very interesting [Gospoda RPG channel](https://www.youtube.com/GospodaRPG), where they play ["classic Role-playing games (RPG)"](https://en.wikipedia.org/wiki/Role-playing_game), i.e. those without electricity - using dices and those with [the game master (GM)](https://en.wikipedia.org/wiki/Game_master).
 - [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. So if you are looking for someone who records games and adds his cool commentary and doesn't without a lot of unnecessary things, this is a good choice because his videos are in really good quality. 
 - [quaz9](https://www.youtube.com/quaz9) - The biggest Polish dinosaur of computer game reviews. He has been running his channel for over 10 years and his reviews still hold a huge level - he shares his opinions in a very interesting form.
 - [Broda ty](https://www.youtube.com/user/Midvith) - Second Polish "dinosaur of computer games reviews". His films are really qualitative. He describes his experiences with the game - reviews in a very interesting way, he is not afraid to criticize them constructively and speaks brief and to the point.
@@ -532,6 +535,15 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [MATMAG.pl](https://www.youtube.com/channel/UC49eEyfnpKEFvYDyHtifEo) - The YouTube channel for learning mathematics - mainly targeted to parents who would like to teach their children mathematics in a quite accessible [more] graphic way
 - [Matemaks](https://www.youtube.com/user/matemaks) - Next very cool channel to improve mathematical skills. Here you will learn mathematical knowledge at secondary school level - the knowledge necessary to pass the Polish [Matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland) in mathematics.
 - [Pasja Informatyki](https://www.youtube.com/Pasjainformatykitutoriale) - Marvellous YouTube channel about computer science and related things. From here you can learn, among others, the basics of [C++ programming language ("Programming in C++. A course from scratch, for everyone")](https://www.youtube.com/watch?v=ErOzmh3BiXU&list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) in a very cool way and also you can see what knowledge is needed to pass exams for the Polish occupational title "IT Technician" (["Technik Informatyk"](https://pl.wikipedia.org/wiki/Technik_informatyk)). I am in the last class and already I passed one exam splited into theoretical part and practical part - [EE.08](https://www.youtube.com/watch?v=WxH9YNAfAao&list=PLOYHgt8dIdoz2fyn0gv4fs2t4tayalsh3) and in a few months, I'll be passing also splited into theoretical part and practical part - [EE.09](https://www.youtube.com/watch?v=Ugl3ZS62rvs&list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq) - after passing all parts of both exams you can finish school with this title.
+
+#### Technological (Technologiczne)
+
+- [Kuba Klawiter](https://www.youtube.com/channel/UCLr4hMhk_2KE0GUBSBrspGA) - A very cool YouTube channel, which Kuba Klawiter and his team describe news from the world of technology, there are also reviews and the Tech Week program is published regularly.
+- [Mobzilla](https://www.youtube.com/MobzillaTV) - ests and reviews of most popular phones. There is also [a review of my favorite and owned phone-camera - Nokia Lumia 1020 (I bought earlier this year 64 GB edition with nice yellow color)](https://www.youtube.com/watch?v=Owr62Nf9I1Y).
+- [TechLipton](https://www.youtube.com/channel/UC5yINQup0pg6kf3fQ3RDvWw) - The technological channel mainly about computers - about their components - so of course benchmarks appear also.
+- [ZMASLO](https://www.youtube.com/user/VesparV11) - Also a channel about computer technology, but here the videos are even more varied - there are many experiments with components, so with hardware and software.
+- [blackwhite TV](https://www.youtube.com/user/blackwhite321) - Another YouTube channel about computer technology.
+- [WavePC](https://www.youtube.com/user/DawidN20v2) - Another worth mentioning YouTube channel similar to the above.
 
 ### VOD
 
@@ -732,6 +744,7 @@ Law is a very important thing in society, the following links will be useful for
 - [Obcy język polski](https://obcyjezykpolski.pl) - a very interesting blog about things related to the Polish language. You will also find [many interesting language quizzes here](https://obcyjezykpolski.pl/tematy/quiz-jezykowy/).
 - [Culture.PL](https://culture.pl/en) - Here you will find a lot of articles about things related to Poland and Polish language. They have a lot of cool articles about Polish literature and well-known literary authors.
 - [Kwantowo](https://www.kwantowo.pl) - A very cool science blog that deals with physics, astronomy and rationality. A lot of things are presented in a very cool form.
+- [Zioła Lecznicze - poradnikzielarski.pl](https://www.poradnikzielarski.pl/ziola-lecznicze/) - Very cool articles about medicinal herbs and plants. [Here, for example, about a quince](https://www.poradnikzielarski.pl/ziola-lecznicze/pigwa-bogactwo-witaminy-c-pyszna-jako-pigwa-do-herbaty.html). 
 - [Histmag.org](https://histmag.org) - Nice website about history.
 - [Sekurak](https://sekurak.pl) - website dedicated to online security.
 - [Ciekawostki historyczne](https://ciekawostkihistoryczne.pl) - A cool page where very interesting historical facts are described.
@@ -785,7 +798,7 @@ Law is a very important thing in society, the following links will be useful for
 
 ### Agregators (Agregatory)
 
-- [Wykop](https://www.wykop.pl) - The largest Polish news aggregator. The male user in the local dialect is called "Mirek" and the female "Mirabelka". You can choose to browse the homepage and also choose the tags you are interested in or create your own. You can also add tag data to the blacklist so that these do not appear on your homepage. The community is very diverse. I like the blood donation action under the name "Baryłka Krwi" (Barrel of Blood) and it is under the tag [#barylkakrwi](https://www.wykop.pl/tag/barylkakrwi).
+- [Wykop](https://www.wykop.pl) - The largest Polish news aggregator. The male user in the local dialect is called "Mirek" and the female "Mirabelka". You can choose to browse the homepage and also choose the tags you are interested in or create your own. You can also add post tags to the blacklist and then these posts with these blocked tags will not appear. The community is very diverse. I like the blood donation action under the name "Baryłka Krwi" (Barrel of Blood) and it is under the tag [#barylkakrwi](https://www.wykop.pl/tag/barylkakrwi).
 - [Lurker](https://www.lurker.pl) - The alternative to the above page, has a very cool interface, so it is also worth a look.
 - [Karab.in](https://karab.in) - A page similar to the above. It was launched recently, but it has potential, because there are a lot of new things there.
 
@@ -876,7 +889,7 @@ Feel free to ask, if you have any doubts or would you simply like to propose add
 
 ## Support (Wsparcie)
 
-If you want to support the project, just send people in need a link to this list, surely many people will be happy and the popularity of the project will increase. I also hope that you will help me improve - expand this list. The Internet is huge, so I'm sure I overlooked something. Pingwin Mroźny will be happy if you don't forget him (If you would like to create subtitles for an episode with Pingwin Mroźny, let me know, I will gladly add them if they are in good quality). You can also create your own GitHub forks (Or write in pull requests) of this list or just create your own lists on another websites, if they are cool, I will also be happy to include link to your version or list, because of course this - my list is intended to help people learn and get to know the Polish language and culture, not for commercial or advertising purposes.
+If you want to support the project, just send people in need a link to this list, surely many people will be happy and the popularity of the project will increase. I also hope that you will help me to improve - expand this list via feedback. The Internet is huge, so I'm sure I overlooked something. [Pingwin Mroźny](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN) will be happy if you don't forget him (If you would like to create subtitles for an episode with [Pingwin Mroźny](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN, let me know, I will gladly add them if they are in good quality) let me know, I will send you a file with subtitles to translate, because unfortunately, YouTube recently disabled the possibility for propose to subtitles by community - ["Contribute translated content"](https://support.google.com/youtube/answer/6054623?hl=en). You can also create [your own GitHub fork (Or write in pull requests) of this list - repositorium](https://github.com/TheDomcio/WonderfulPolishLanguage/network/members) or just create your own lists on another websites, if they are cool, I will also be happy to include link to your version or list, because of course this - my list is intended to help people learn and get to know the Polish language and culture, not for commercial or advertising purposes. You can of course also [download this list](https://github.com/TheDomcio/WonderfulPolishLanguage/archive/master.zip) (Direct link for Code > Download ZIP) - archive it, keep it on local disk or in the cloud.
 
 ## Acknowledgements (Podziękowania)
 
@@ -886,7 +899,7 @@ If you want to support the project, just send people in need a link to this list
 
 - Thank you **Polish education system** for the fact that I did not have to buy tickets for the circus so often, because I had it at my fingertips.
 
-- Thank you **szew** for helping with grammar proofreading [of this list] and for suggestions for extending the list with various elements. (She also helped with chasing away unnecessary butterflies - pleonasms and etc.).
+- Thank you **szew** for helping with grammar proofreading [of this list] and for few suggestions for extending the list with various elements (She also helped with chasing away unnecessary butterflies - pleonasms and etc.).
 
 ## My others projects (Moje inne projekty)
 
