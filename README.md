@@ -11,8 +11,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 ## Contents (Spis treści)
 
 (I offered the [hamsters](https://pl.wikipedia.org/wiki/Chomiki) that destroyed the cables from the teleports to cooperate in searching for bugs in the text code. After that I repaired the teleport connections, so in this version all should work. By the way, this text file was, is and will be resistant to viruses, [here you can check scan](https://www.virustotal.com/gui/url/467856e2d4fe0b14e4c625c372312c4edd425ba06e25fe12ea25217e190979e1/detection))
-
-  -0. [(What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
+-0. [(What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
 
 0. [Contents (Spis treści)](#contents-spis-treści)
 1. [Texts (Teksty)](#texts-teksty)
@@ -43,23 +42,23 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
      - [Slovak (Słowacki)](#slovak-słowacki)
      - [Spanish (Hiszpański)](#spanish-hiszpański)
 2. [Videos (Filmy)](#videos-filmy)
-   - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
 
-   - [YouTube](#youtube)
-      - [Linguistics and related (Lingwistyka i powiązane)](#linguistics-and-related-lingwistyka-i-powiązane)
-      - [Scientific (Naukowe)](#scientific-naukowe)
-      - [Culinary (Kulinarne)](https://github.com/TheDomcio/WonderfulPolishLanguage/blob/master/README.md#culinary-kulinarne)
-      - [Historical (Historyczne)](#historical-historyczne)
-     - [Cultural (Kulturalne)](#cultural-kulturalne)
-     - [Books (Książki)](#books-książki)
-     - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
-     - [Comedy (Komediowe)](#comedy-komediowe)
-     - [Games (Gry)](#games-gry)
-     - [Movies (Filmy)](#movies-filmy)
-     - [Japanese Culture and Popculture (Japońska kultura oraz popkultura)](#japanese-culture-and-popculture-japońska-kultura-oraz-popkultura)
-     - [Mathematical and Information Technology (Matematyczne i informatyczne)](#mathematical-and-information-technology-matematyczne-i-informatyczne)
-     -  [Technological (Technologiczne)](#technological-technologiczne)
-     -  [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
+  - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
+  - [YouTube](#youtube)
+    - [Linguistics and related (Lingwistyka i powiązane)](#linguistics-and-related-lingwistyka-i-powiązane)
+    - [Scientific (Naukowe)](#scientific-naukowe)
+    - [Culinary (Kulinarne)](https://github.com/TheDomcio/WonderfulPolishLanguage/blob/master/README.md#culinary-kulinarne)
+    - [Historical (Historyczne)](#historical-historyczne)
+    - [Cultural (Kulturalne)](#cultural-kulturalne)
+    - [Books (Książki)](#books-książki)
+    - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
+    - [Comedy (Komediowe)](#comedy-komediowe)
+    - [Games (Gry)](#games-gry)
+    - [Movies (Filmy)](#movies-filmy)
+    - [Japanese Culture and Popculture (Japońska kultura oraz popkultura)](#japanese-culture-and-popculture-japońska-kultura-oraz-popkultura)
+    - [Mathematical and Information Technology (Matematyczne i informatyczne)](#mathematical-and-information-technology-matematyczne-i-informatyczne)
+    - [Technological (Technologiczne)](#technological-technologiczne)
+    - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
 - [VOD](#vod)
 
 - [Television (Telewizja)](#television-telewizja)
@@ -910,4 +909,5 @@ If you want to support the project, just send people in need a link to this list
 
 ## Lorem ipsum
 
-Lorem ipsum. To jest taka ciekawostka. Nie chciałem, żeby w dniu publikacji ostatnią kategorią była „pechowa trzynasta kategoria”, więc dodałem tę - wtedy jako czternastą. Oczywiście to takie nawiązanie do polskich zabobonów, może też i jakiś czarny kot się tutaj kiedyś pojawi.
+Lorem ipsum. To jest taka ciekawostka. Nie chciałem, żeby w dniu publikacji ostatnią kategorią była [„pechowa trzynasta kategoria”, więc dodałem tę - wtedy jako czternastą. Oczywiście to takie nawiązanie do [m.in.] polskich [zabobonów]([https://pl.wikipedia.org/wiki/Przes%C4%85d](https://pl.wikipedia.org/wiki/Przesąd)), może też i jakiś czarny kot się tutaj kiedyś pojawi.
+
