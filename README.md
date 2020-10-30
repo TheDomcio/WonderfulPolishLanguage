@@ -35,7 +35,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
      - [Interslavic (Międzysłowiański)](#interslavic-międzysłowiański) 
      - [Italian (Włoski)](#italian-włoski)
      - [Japanese (Japoński)](#japanese-japoński)
-     - [Kaszubski (Kashubian)](#kaszubski-kashubian)
+     - [Kashubian (Kaszubski)](#kashubian-kaszubski)
      - [Norwegian (Norweski)](#norwegian-norweski)
      - [Polish (Polski)](#polish-polski)
      - [Portuguese (Portugalski)](#portuguese-portugalski)
@@ -44,7 +44,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
      - [Slovak (Słowacki)](#slovak-słowacki)
      - [Spanish (Hiszpański)](#spanish-hiszpański)
      - [Swedish (Szwedzki)](#swedish-szwedzki) 
-     - [Śląski (Silesian)](#śląski-silesian)
+     - [Silesian (Śląski)](#silesian-śląski)
 2. [Videos (Filmy)](#videos-filmy)
 
   - [Pingwin Mroźny (Penguin Frosty)](#pingwin-mroźny)
@@ -372,7 +372,7 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
   - [Japoński pomocnik](https://www.japonski-pomocnik.pl/wordDictionary) - "A small, modest Japanese helper". A brilliant Polish-Japanese dictionary containing a huge number of words. [There is also its [minimalistic] mobile version for Android](https://play.google.com/store/apps/details?id=pl.idedyk.android.japaneselearnhelper).
   - [Kanji.pl](http://www.kanji.pl/) - On this (currently inactive for a long time) blog you will find a lot of articles about learning the Japanese language. For example, [about learning hiragana signs](http://www.kanji.pl/nauka-hiragany-cz-1/) and under this link [there are teaching aids](http://www.kanji.pl/pomoce-naukowe).
 
-#### Kaszubski (Kashubian)
+#### Kashubian (Kaszubski)
 
 `I want to praise here the promoters of the Kashubian language, you are doing a good job by providing - sharing so many free and legal materials to learn your language.`
 
@@ -425,6 +425,12 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 - [Rosyjski z duszą - darmowe materiały do pobrania](http://www.rosyjskizdusza.com/materialy-do-pobrania/) - Here you can download for free a few PDFs about Russian language learning, for example about pronunciation.
 - [Słownik polsko - rosyjski by Glosbe](https://pl.glosbe.com/pl/ru) - Polish-Russian dictionary containing over 160 thousand phrases.
 
+#### Silesian (Śląski)
+
+- [Słownik Śląśki](http://www.slownikslaski.pl/index.html) - Here you will find a dictionary, thanks to which you will be able to learn a lot of Silesian words ([Here is the Polish-Silesian version](http://www.slownikslaski.pl/polskoslaski.html)). If you would like to read some short stories - Silesian fairy tales, you will find them [here](http://www.slownikslaski.pl/berybojki.html). [On this subpage]() you will find, among others, Silesian versions of names. The website, of course, also offers a lot of information about Silesia itself.
+- [Słowniczek gwarowy](http://www.isibrno.cz/~malczyk/ondrslow.htm) - A small dictionary of the Silesian language. [Here - on this subpage](http://www.isibrno.cz/~malczyk/czasslow.htm) you will find words that are not included in it, and users have suggested [to add] them.  
+- [Etnolekt Śląski]([https://pl.wikipedia.org/wiki/Etnolekt_%C5%9Bl%C4%85ski](https://pl.wikipedia.org/wiki/Etnolekt_śląski)) - Quite a good article on Wikipedia about the Silesian language. Also the short one about the Silesian alphabet - [slabikŏrzowy szrajbōnek]([https://pl.wikipedia.org/wiki/%C5%9Alabik%C5%8Frzowy_szrajb%C5%8Dnek](https://pl.wikipedia.org/wiki/Ślabikŏrzowy_szrajbōnek)). There is also [an official Silesian version of Wikipedia]([https://szl.wikipedia.org/wiki/Przodni%C5%8F_zajta](https://szl.wikipedia.org/wiki/Przodniŏ_zajta)).  If you like to play [Minecraft](https://www.minecraft.net/pl-pl), you will also find the Silesian language version there. You can also browse [Facebook in this language](https://sz-pl.facebook.com).
+
 #### Slovak (Słowacki)
 
 - [Wielojęzyczny portal do nauki języka słowackiego](https://slovake.eu/pl) - Polish version of multilingual Slovak language learning portal. There is a level of difficulty A1, A2, B1 and B2, a lot of basics and grammar and a nice graphic design (Free registration is required for full functionality).
@@ -443,12 +449,6 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 
 - [Materiały do nauki języka szwedzkiego](http://1lo-lask.pl/LO_wp/materialy-do-nauki-jezyka-szwedzkiego/) - In this link you will find links to download a Swedish language textbook and a set of exercises created by Maciej Szulc and shared via website of [I Liceum Ogólnokształcące im. Tadeusza Kościuszki w Łasku](http://1lo-lask.pl/LO_wp/i-lo-w-lasku). The textbook includes 25 lessons, it is mainly designed to be taught under the guidance of the instructor (lector), as you can read in the introduction, but it will surely also help you to learn by yourself.
 - [Słownik Polsko - Szwedzki by Glosbe](https://pl.glosbe.com/pl/sv) - The Polish-Swedish dictionary, which contains over 128 thousand phrases.
-
-#### Śląski (Silesian)
-
-- [Słownik Śląśki](http://www.slownikslaski.pl/index.html) - Here you will find a dictionary, thanks to which you will be able to learn a lot of Silesian words ([Here is the Polish-Silesian version](http://www.slownikslaski.pl/polskoslaski.html)). If you would like to read some short stories - Silesian fairy tales, you will find them [here](http://www.slownikslaski.pl/berybojki.html). [On this subpage]() you will find, among others, Silesian versions of names. The website, of course, also offers a lot of information about Silesia itself.
-- [Słowniczek gwarowy](http://www.isibrno.cz/~malczyk/ondrslow.htm) - A small dictionary of the Silesian language. [Here - on this subpage](http://www.isibrno.cz/~malczyk/czasslow.htm) you will find words that are not included in it, and users have suggested [to add] them.  
-- [Etnolekt Śląski]([https://pl.wikipedia.org/wiki/Etnolekt_%C5%9Bl%C4%85ski](https://pl.wikipedia.org/wiki/Etnolekt_śląski)) - Quite a good article on Wikipedia about the Silesian language. Also the short one about the Silesian alphabet - [slabikŏrzowy szrajbōnek]([https://pl.wikipedia.org/wiki/%C5%9Alabik%C5%8Frzowy_szrajb%C5%8Dnek](https://pl.wikipedia.org/wiki/Ślabikŏrzowy_szrajbōnek)). There is also [an official Silesian version of Wikipedia]([https://szl.wikipedia.org/wiki/Przodni%C5%8F_zajta](https://szl.wikipedia.org/wiki/Przodniŏ_zajta)).  If you like to play [Minecraft](https://www.minecraft.net/pl-pl), you will also find the Silesian language version there. You can also browse [Facebook in this language](https://sz-pl.facebook.com).
 
 ## Videos (Filmy)
 
