@@ -11,7 +11,8 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 ## Contents (Spis treści)
 
 (I offered the [hamsters](https://pl.wikipedia.org/wiki/Chomiki) that destroyed the cables from the teleports to cooperate in searching for bugs in the text code. After that I repaired the teleport connections, so in this version all should work. By the way, this text file was, is and will be resistant to viruses, [here you can check scan](https://www.virustotal.com/gui/url/467856e2d4fe0b14e4c625c372312c4edd425ba06e25fe12ea25217e190979e1/detection))
--0. [(What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
+
+  -0. [(What? How?! It shouldn't be possible!) Preamble (Wstęp - Preambuła)](#preamble-wstęp---preambuła)
 
 0. [Contents (Spis treści)](#contents-spis-treści)
 1. [Texts (Teksty)](#texts-teksty)
@@ -910,4 +911,3 @@ If you want to support the project, just send people in need a link to this list
 ## Lorem ipsum
 
 Lorem ipsum. To jest taka ciekawostka. Nie chciałem, żeby w dniu publikacji ostatnią kategorią była [„pechowa trzynasta kategoria”, więc dodałem tę - wtedy jako czternastą. Oczywiście to takie nawiązanie do [m.in.] polskich [zabobonów]([https://pl.wikipedia.org/wiki/Przes%C4%85d](https://pl.wikipedia.org/wiki/Przesąd)), może też i jakiś czarny kot się tutaj kiedyś pojawi.
-
