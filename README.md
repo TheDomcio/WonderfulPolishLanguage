@@ -110,10 +110,20 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 
 ### Free books (Darmowe książki)
 
-- [Wolne Lektury (Free readings)](https://wolnelektury.pl) - A great source of ebooks and audiobooks and much more. The website interface supports many languages. A cool option available on this page is to generate custom PDFs of available works, where you can e.g. add or delete indexes etc.
-  [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
+- [Wolne Lektury (Free readings)](https://wolnelektury.pl) - A great source of ebooks and audiobooks and much more. The website interface supports many languages. A cool option available on this page is to generate custom PDFs of available works, where you can e.g. add or delete indexes etc. 
 
-- [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A brilliant source with a lot of famous literary texts. 
+  ​													(Below are some examples of available books)
+
+  - [Aleksander Brückner - Mitologia słowiańska](https://wolnelektury.pl/katalog/lektura/mitologia-slowianska/) - A very interesting book on the mythology of ancient Slavs.
+  - [Dante Alighieri - Boska Komedia](https://wolnelektury.pl/katalog/lektura/boska-komedia) - "All hope abandon, ye who enter in!" - "The Divine Comedy" in Polish.
+  - [Sofokles - Król Edyp](https://wolnelektury.pl/katalog/lektura/krol-edyp) - Another well-known cultural text written by famous Sophocles.
+  - [Daniel Defoe - Robinson Crusoe](https://wolnelektury.pl/katalog/lektura/robinson-crusoe) - Polish version of the famous book about Robinson Crusoe.
+  - [Tadeusz Dołęga-Mostowicz - Znachor](https://wolnelektury.pl/katalog/lektura/znachor) - A very interesting story, on the basis of which [a very famous Polish movie of the same title](https://www.filmweb.pl/film/Znachor-1981-1175) was made (we can often watch repetitions of that movie on Polish TV).
+  - William Shakespeare's: [Makbet](https://wolnelektury.pl/katalog/lektura/makbet), [Hamlet](https://wolnelektury.pl/katalog/lektura/hamlet), [Romeo i Julia](https://wolnelektury.pl/katalog/lektura/romeo-i-julia) and [Król Lear](https://wolnelektury.pl/katalog/lektura/krol-lear) - You can also read here nice translations of these great Shakespeare's creations.
+
+  - [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
+
+- [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A brilliant source with a lot of famous literary texts. You can find there a lot of free texts to learn various things, also textbooks to learn a language and it is not difficult to find there some well-known cultural texts and there are a lot of Polish school readings here. 
 
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Wolne Lektury](https://wolnelektury.pl), also contains a lot of books.
 
@@ -129,7 +139,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 
   - [Polish magazines published in Polish (You can also choose other languages in the filters, I set up Polish for this)](https://polona.pl/search/?filters=language:polski,category:serials,public:1,hasTextContent:0) - A public mine of historical information, you can read here a lot of articles from the pre-war period and more.
 
-- [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - A website very similar to [Polona](https://fbc.pionier.net.pl). 
+- [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - A website very similar to [Polona](https://fbc.pionier.net.pl). Here we can also find a lot of interesting digitalized content, which now has a chance to reach more people - to survive longer in the form of a bytes.
 
 - [Project Gutenberg](https://www.gutenberg.org/browse/languages/pl) - A worldwide project for the distribution of books for free, there are also books protected by copyright, but added with owner's permission. Some countries [maybe] do not have access to this website, for example: you can't visit it in Germany or with Germany IP because it is against German law - [Explanation](https://cand.pglaf.org/germany/index.html). The name of the project obviously refers to [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), who invented the [printing method with movable type](https://en.wikipedia.org/wiki/Johannes_Gutenberg#Printing_method_with_movable_type). 
 
@@ -137,15 +147,15 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 
   - [About copyright violation accusations](https://en.wikipedia.org/wiki/Open_Library#Copyright_violation_accusations).
 
-- [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above. As the name suggests, there are many books here.
+- [ManyBooks](https://manybooks.net/search-book?language%5Bpl%5D=pl) - A page similar to the above. As the name suggests, there are many books here (Hehe).
 
 - [Ebooks43](https://www.ebooks43.pl) - Over 80 books for free and without registration.
 
-- [Przystanek Historia by Instytut Pamięci Narodowej (IPN)](https://przystanekhistoria.pl/pa2/biblioteka-cyfrowa/publikacje) - Digital library from which you can download many free publications about history (PDF format). [Here](https://przystanekhistoria.pl/pa2/tematy/english-content) on the website you can read articles in English.
+- [Przystanek Historia by Instytut Pamięci Narodowej (IPN)](https://przystanekhistoria.pl/pa2/biblioteka-cyfrowa/publikacje) - Digital library from which you can download many free publications about history (PDF format). [Here](https://przystanekhistoria.pl/pa2/tematy/english-content) on the website you can read articles in English.  If you are interested in the history of Poland, you will surely find a lot of interesting materials on this website.
 
 - [Lektorek](https://lektorek.org/lektorek/) - Website associated with [University of Pittsburgh](https://www.pitt.edu/) You will find here a lot of valuable documents related to learning Polish. For example, in the category [First Year Polish](https://lektorek.org/lektorek/firstyear/) > [Lessons](https://lektorek.org/lektorek/firstyear/lessons/) there are 12 lessons (as 12 PDF files) and also a supplement and a glossary. In ["Other"](https://lektorek.org/lektorek/Other/) you will also find a lot of interesting things, for example [Polish song book](https://lektorek.org/lektorek/Other/), [short stories](https://lektorek.org/lektorek/Other/opowiesci.pdf) and [English-Polish phrasebook](https://lektorek.org/lektorek/Other/phrasebook.pdf) and more.
 
-- [Baśnie braci Grimm](https://www.grimmstories.com/pl/grimm_basnie/index) - here you have free online multilingual version of the Grimms' Fairy Tales. By default, you can read only in the selected language, but there is a option to read that way: on one side you have the first selected language and on the next side you have the second selected language, so for example you can set fairy tale ["Cindrella"](https://www.grimmstories.com/en/grimm_fairy-tales/aschenputtel) from [Hungary (Hamupipőke) to Polish (Kopciuszek)](https://www.grimmstories.com/language.php?grimm=021&l=hu&r=pl) or another example:  ["Rapunzel"](https://www.grimmstories.com/en/grimm_fairy-tales/rapunzel) from [Japanese ( ラプンツェル) to Polish (Roszpunka)](https://www.grimmstories.com/language.php?grimm=012&l=ja&r=pl). [Here](https://www.grimmstories.com/en/grimm_fairy-tales/list) is the whole list of available fairy tales, that is 200 + 10  The children's legends + 12 No longer included in the last edition. I have read the Polish edition, in which there were 210 of these stories in total. I recommend these tales to everyone, it is really great to read, regardless of age and mood.
+- [Baśnie braci Grimm](https://www.grimmstories.com/pl/grimm_basnie/index) - here you have free online multilingual version of the Grimms' Fairy Tales. By default, you can read only in the selected language, but there is a option to read that way: on one side you have the first selected language and on the next side you have the second selected language, so for example you can set fairy tale ["Cindrella"](https://www.grimmstories.com/en/grimm_fairy-tales/aschenputtel) from [Hungary (Hamupipőke) to Polish (Kopciuszek)](https://www.grimmstories.com/language.php?grimm=021&l=hu&r=pl) or another example:  ["Rapunzel"](https://www.grimmstories.com/en/grimm_fairy-tales/rapunzel) from [Japanese ( ラプンツェル) to Polish (Roszpunka)](https://www.grimmstories.com/language.php?grimm=012&l=ja&r=pl). [Here](https://www.grimmstories.com/en/grimm_fairy-tales/list) is the whole list of available fairy tales, that is 200 + 10  The children's legends + 12 No longer included in the last edition. I have read the Polish edition, in which there were 210 of these stories in total. I recommend these tales to everyone, it is really great to read, regardless of age and mood. Especially since you can combine learning a particular language with nice and educational entertainment, because these fairy tales often have fantastic morals.
 
 - [Ebooks from the government website of The Polish State Forests](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania) - You can find a lot of ebooks on forest-related things. in different formats here, most often in PDF format, but also, of course, in .epub and .mobi. [Here, for example, you have a book on the art of photographing nature](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/sztuka-fotografowania-przyrody) and about [forest survival](https://www.lasy.gov.pl/pl/informacje/publikacje/do-poczytania/survival). A lot of people will certainly be interested in [a book on forest recipes](https://www.lasy.gov.pl/pl/informacje/publikacje/e-book-od-lasow-panstwowych/dobre-z-lasu-czyli-natura-od-kuchni).
 
@@ -163,11 +173,11 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 
 `Here you will find many available magazines, anthologies and individual stories, it is worth giving them a chance, because they are all prepared with passion and great efforts and most look really professional. I am sorry that I have described most of them so briefly. They really deserve to this subsubcategory, so that fans of this kind of literature can access it even more easily, it is really worth giving chances to a large part of them.`
 
-- [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories.
-- [Legendy Polskie by Allegro](https://allegro.pl/legendy/#legendy-modal) - An anthology of many fantastic texts inspired by Polish legends. If you want to watch movies from the same series also inspired by Polish legends, I invite you [here](https://www.youtube.com/watch?v=1J_Y12RqeLM&list=PLFttT4XjEwKQjYyH9m2vwwXQG94tUEeR1).
-- [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - Many of very qualitative anthologies. Covers are also very nice.
+- [FantastykaPolska](https://www.bazaebokow.robertjszmidt.pl/ebooki_r) (Registration is required to download) - A wonderful collection of professionally written fantasy stories. The choice is big, so it is worth looking for something for yourself.
+- [Legendy Polskie by Allegro](https://allegro.pl/legendy/#legendy-modal) - An anthology of many fantastic texts inspired by Polish legends. If you want to watch movies from the same series also inspired by Polish legends, I invite you [here](https://www.youtube.com/watch?v=1J_Y12RqeLM&list=PLFttT4XjEwKQjYyH9m2vwwXQG94tUEeR1), they were excellently directed and there were also very nice covers of popular Polish songs from the old days created especially for them, for example ["Kocham wolnosć"](https://www.youtube.com/watch?v=y1YbhC5spzE) and ["Jaskółka uwięziona"](https://www.youtube.com/watch?v=qdCmSt4798g). 
+- [Fantazmaty](https://fantazmaty.pl/czytaj/antologie) - Many of very qualitative anthologies. The covers are also really well made.
 - [Creatio Fantastica](https://creatiofantastica.com/archiwum/) - A free "scientific literary" magazine. It is worth checking.
-- [Magazyn Biały Kruk](https://magazyn.bialykruk.org/magazyn) - A very interesting magazine about fantasy. Here you will of course find many available publications.
+- [Magazyn Biały Kruk](https://magazyn.bialykruk.org/magazyn) - A very interesting magazine about fantasy. Of course, You will find here many available publications.
 - [Grabarz Polski](http://grabarz.net/category/grabarz-polski) - Archive of the horror fantasy magazine.
 - [Magazyn Histeria](http://magazynhisteria.pl) - The second nice Polish horror magazine.
 - [Smokopolitan](https://smokopolitan.pl) - Next great magazine. There are dragons everywhere, waiting to be blown away by a fire composed of cool articles.
@@ -179,7 +189,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 
 `(Almost always registration is required for download)`
 
-- [Geniusze fanastyki (Antologia)](https://geniuscreations.pl/geniusze-fantastyki-antologia)
+- [Geniusze fanastyki (Antologia)](https://geniuscreations.pl/geniusze-fantastyki-antologia) - This is a really good anthology full of interesting stories written by many different authors and you can download it from the three links below.
   - [First link](https://ebookpoint.pl/ksiazki/geniusze-fantastyki-genius-creations,e_1g0d.htm) 
   - [Second link](https://www.legimi.com/pl/ebook-geniusze-fantastyki-autor-zbiorowy,b134323.html) 
   - [Third link](https://virtualo.pl/ebook/geniusze-fantastyki-i183458/)
@@ -198,7 +208,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 
 ### The Bible translations - online and for download (Przekłady Bibli - online i do pobrania)
 
-I will mention that currently the most popular polish translation of the Bible is ["Biblia Tysiąclecia"](https://pl.wikipedia.org/wiki/Biblia_Tysi%C4%85clecia).
+I will mention that currently the most popular polish translation of the Bible is ["Biblia Tysiąclecia"](https://pl.wikipedia.org/wiki/Biblia_Tysi%C4%85clecia). I dedicate the list of these biblical links to people who are interested in theology or bibliology, or simply like the thinking about religious topics. I personally like these religious topics very much, I used to read a lot of books about the beliefs of ancient peoples and, of course, various mythologies (I mainly remember the Greek and Nordic ones, because I often come across characters from these myths in various literary works, the faith of the old Slavs is also very interesting thing), I think that from this religious work you can also deduce a lot of good values - morals and a warnings, and also Polish culture is strongly connected with the Catholic religion, so it is worthwhile to take an interest in culture from the religious point of view, if someone is also interested in culture apart from Polish linguistics.
 
 - [Biblie Polskie](http://bibliepolskie.pl/index.php) and ([Archive.org's mirror to The Wayback Machine](https://web.archive.org/web/20200922180928/http://bibliepolskie.pl/przeklady.php)) - A really cool website with a list of Bible translations into Polish. You will also find links to descriptions and often to download these translations (e.g. to archives, the site also has its own mirrors sometimes, so if you haven't found your favourite translation here or want to know more, I invite you there).
 - [Biblia Audio](https://bibliaaudio.pl/wideoaudio) - A great project made by the "SUPERPRODUCTION" recording studio, where you can hear audiobooks of Old Testament and New Testament with the voices of popular Polish actors and also with great sound effects.
