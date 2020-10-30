@@ -969,6 +969,7 @@ Feel free to ask, if you have any doubts or would you simply like to propose add
 - [Via comment on my YouTube channel](https://www.youtube.com/Domcio)
 - [Via comment on Learn Polish subreddit post about this list](https://www.reddit.com/r/learnpolish/comments/iv4x0i/the_powerful_list_of_resources_for_learning) (I am very often active here).
 - [Via comment on Wykop find about this list](https://www.wykop.pl/link/5703485/moj-potezny-spis-darmowych-i-legalnych-zasobow-w-jezyku-polskim-wpl)
+- [Via comment in the discussion on Pepper](https://www.pepper.pl/dyskusji/wielki-spis-polskojezycznych-darmowych-legalnych-rozrywkowych-i-edukacyjnych-dobr-internetowych-314220)
 - [Via comment on Duolingo post about this list](https://forum.duolingo.com/comment/42400591)
 - Discord: Domcio#0223  (I am on the Discord almost every day).
 - E-mail: domcio@protonmail.com (Swiss, like a watch, here I may answer less often, but I come in here from time to time).
