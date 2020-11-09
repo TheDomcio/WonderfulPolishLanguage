@@ -127,7 +127,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Wolne Lektury](https://wolnelektury.pl), also contains a lot of books.
 
-- [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - It is a federation - a search engine connected to all available online digital libraries etc. ([Polona](https://polona.pl) for example and [Jagielońska Biblioteka Cyfrowa](https://jbc.bj.uj.edu.pl/dlibra)) Here we can also find a lot of interesting digitalized content, which now has a chance to reach more people - to survive longer in the form of a bytes. [Here you can find sources](http://fbc.pionier.net.pl/pro/zrodla/) that is, all links to pages of digital library projects. 
+- [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - It is a federation's website with a search engine connected to all available online digital libraries etc. ([Polona](https://polona.pl) for example and [Jagielońska Biblioteka Cyfrowa](https://jbc.bj.uj.edu.pl/dlibra)) Here we can also find a lot of interesting digitalized content, which now has a chance to reach more people - to survive longer in the form of a bytes. [Here you can find sources](http://fbc.pionier.net.pl/pro/zrodla/) that is, all links to pages of digital library projects. 
 
 - [Polona](https://polona.pl) - Here you can find many archival materials scanned in a very good quality. It is a very good source for learning history and experiencing the change of language over time (I will try to add interesting books In other categories from there, e.g. I have already added some [here](#recipes-for-holidays-and-festivities-prescriptions-and-holidays-and-festivities-and-festivalry)).
 
