@@ -461,6 +461,7 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 - [Arte](https://www.arte.tv/pl) - Polish version of European cultural television with many movies. 
 - [POLSKA KRONIKA FILMOWA (PKF)](https://www.youtube.com/user/PolskaKronikaFilmowa) - The official YouTube channel of the Polish Film Chronicle, which was actively created between 1944-1994, so mainly from the times of the Polish People's Republic, but also before and after that period.
 - [Adapter](https://adapter.pl) - A large collection of films available for free and legally, they also are really friendly for disabled persons - sign language presenters and audio description and simplified subtitles are available.
+- [Teatr Lalka - Legendy warszawskie](https://teatrlalka.pl/pl/aktualnosci/legendy-warszawskie-czyli-basniowe-dzieje-miasta) - Here you will find seven full episodes of theatrical performances [for people at any age] from the "Legends of Warsaw" series.
 - [Repozytorium Cyfrowe Filmoteki](http://www.repozytorium.fn.org.pl/?q=pl) - digital repository of the national film library. You can find a lot of archival productions in it.
 - [Łódzkie Archiwum Filmowe](https://etiudy.filmschool.lodz.pl) - archive of films from the Łódź Film School.
 - [Dokument Cyfrowo](http://www.dokumentcyfrowo.pl) - Archive of Polish reconstructed films. Another really good source of renovated old productions.
