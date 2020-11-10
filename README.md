@@ -813,11 +813,11 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 Law is a very important thing in society, the following links will be useful for people who want to learn about Polish law and Polish legal terms - names and style of writing.
 
 - [Sources of Polish law](https://www.gov.pl/web/cyfryzacja/prawo) ([Check also here](https://pl.wikipedia.org/wiki/System_prawny_w_Polsce)) and [English version (Very short, better to see the original)](https://en.wikipedia.org/wiki/Law_of_Poland).
-
 - [Konstytucja Rzeczypospolitej Polskiej](https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm) - The Constitution of the Republic of Poland ([English version](https://www.sejm.gov.pl/prawo/konst/angielski/kon1.htm)).
 - [Polskie Prawo Karne](http://prawo.sejm.gov.pl/isap.nsf/download.xsp/WDU20180001600/U/D20181600Lj.pdf) - Polish Penal Code ([English version](https://www.legislationline.org/documents/section/criminal-codes/country/10/Poland/show)).
 - [Dziennik ustaw](https://dziennikustaw.gov.pl/DU) - Journal of Laws of the Republic of Poland.
 - [Internetowy System Aktów Prawnych (ISAP)](https://isap.sejm.gov.pl) - Internet System of Legal Acts. 
+- [ArsLege](https://www.arslege.pl/akty-prawne) - A very nice website, where you can find a lot of legal acts. [Kodeks morski](https://www.arslege.pl/kodeks-morski/k559/) for example.
 - [Policja](https://www.policja.pl) - The official website of the Polish police.
 
 ### Road traffic regulations (Przepisy prawa ruchu drogowego)
