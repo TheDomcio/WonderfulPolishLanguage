@@ -277,6 +277,7 @@ Ah, maybe one of you has done or is doing something like my "Wonderful Polish La
 
 - [Duolingo](http://duolingo.com/) - The world's best known platform for learning different languages.
 - [Ba Ba Dum](https://babadum.com) - A very interesting word game, which currently supports over 1000 words in more than 20 languages, including of course Polish. There are various game modes available. It may come in handy, for example, during more boring or your [really not] favorite subjects at school. 
+- [Digital Dialects - Polish](https://www.digitaldialects.com/Polish.htm) - On this multilingual website you can learn for example Polish numbers, clothes, names of fruits, vegetables, animals and colors, etc. It is possible to set the speed of reading words. 
 - [50LANGUAGES](https://www.50languages.com/phrasebook/en/pl) - Free lessons for beginners in different languages. From what I have noticed, there are 100 lessons available in each language. You can have the words in MP3 format compressed into a .zip archive. There is a very interesting option where you can choose from which language you want to learn, I set the link from English to Polish and then there are e.g. MP3 with English words with Polish translation.
 - [loecsen](https://www.loecsen.com/en) - A website similar to the above, also offers a huge number of languages.
 - [aztekium](http://aztekium.pl/nauka.py) - Another webpage where you can choose which language you want to learn from is the translation of words from the second language into the first.
