@@ -56,6 +56,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
     - [Cultural (Kulturalne)](#cultural-kulturalne)
     - [Music (Muzyczne)](#music-muzyczne)
     - [Books (Książki)](#books-książki)
+    - [Cryminology and criminalistics (Kryminologia i kryminalistyka)](#cryminology-and-criminalistics-kryminologia-i-kryminalistyka)
     - [Social and philosophical (Społeczne i filozoficzne)](#social-and-philosophical-społeczne-i-filozoficzne)
     - [Comedy (Komediowe)](#comedy-komediowe)
     - [Games (Gry)](#games-gry)
@@ -565,6 +566,14 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Doktor Book](https://www.youtube.com/channel/UCFX883oeu7KDGnGT0Yrn6cw) - Nikola's channel, who is passionate about reading books and also enjoys reviewing them.
 - [Zaksiążkowane](https://www.youtube.com/channel/UCP0LnBml_CVq5gaDD6qcsxw) - On this channel you can meet "Zaksiążkowane" who love to collect books and share updates of these collections. 
 - [Bestselerki](https://www.youtube.com/Bestselerki) -  The channel of successive book lovers, that is Marta Gajewska and Anna Bartłomiejczyk. They actively run the title series "Bestsellers", in which video reviews of various books appear.
+
+#####  Cryminology and criminalistics (Kryminologia i kryminalistyka)
+
+- [Karolina Anna](https://www.youtube.com/channel/UCxSDfGauduMv1ezbRVRWvCA) - Here you will find a lot of video about many mysterious criminal cases.
+- [Paweł Rosa - Sprawy Kryminalne](https://www.youtube.com/LakarnumLive) - On this YouTube channel there are archived livestreams about (currently mainly Polish) people accused (and legally convicted) of committing [many] crimes. They are conducted in a cool and reliable way (based on many verified sources).
+- [Stanowo.com](https://www.youtube.com/channel/UC01lshi_RFbK1ubJzh0Popw) - Another very cool YouTube channel about crimes. This is not only a channel [about criminal cases (here' link to the playlist with the video series "Kryminalne")](https://www.youtube.com/playlist?list=PLUOkk307eO9AfzYiHNr0t7nlqpzdAiiTk), but also about pop culture and the United States. 
+- [Niediegetyczne - Marcin Myszka](https://www.youtube.com/channel/UCiXQZKLmTi0sEBB6rapIfjg) - There is a lot of video about various criminal cases. You will find here also a series ["Niepokojące miesiąca"](https://www.youtube.com/playlist?list=PLwDrniN9q90v8SivirAl_U-hvyE0sMjWc) in which the disturbing events that occurred during the month are presented.
+- [Przesłuchania Morderców](https://www.youtube.com/channel/UCn02ZN2J2vvL2XP3uAArASg) - The creator of this YouTube channel "translates and analyzes recordings from real police interrogations of criminals" (these are mainly American cases).
 
 #### Social and philosophical (Społeczne i filozoficzne)
 
