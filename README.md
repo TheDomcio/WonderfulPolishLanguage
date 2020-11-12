@@ -63,6 +63,7 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
     - [Japanese Culture and Popculture (Japońska kultura oraz popkultura)](#japanese-culture-and-popculture-japońska-kultura-oraz-popkultura)
     - [Mathematical and Information Technology (Matematyczne i informatyczne)](#mathematical-and-information-technology-matematyczne-i-informatyczne)
     - [Technological (Technologiczne)](#technological-technologiczne)
+    - [Electronical (Elektroniczne)](#electronical-elektroniczne)
     - [For children and youth (Dla dzieci i młodzieży)](#for-children-and-youth-dla-dzieci-i-młodzieży)
 - [VOD](#vod)
 
@@ -582,6 +583,8 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 #### Games (Gry)
 
+- [Marianczello Dominoni](https://www.youtube.com/MarianczelloDominoni) - A wonderful YouTube channel from a chess enthusiast for chess enthusiasts. The videos are created in a really cool and interesting way, which is able to interest people who may not be very familiar with chess at all (this is probably the best Polish YouTube channel about chess in my opinion). 
+
 - [TVGRYpl](https://www.youtube.com/channel/UCtGnMWpCcoRZVWxkVKp3Ulg) -The most popular Polish YouTube channel dedicated to computer games. They have already created videos on many game-related topics (On the subchannel [TVGRYplus](https://www.youtube.com/channel/UCBuapzlArSNwZk-n4gQIsRQ) there is news etc.). Some of their team also run a very interesting [Gospoda RPG channel](https://www.youtube.com/GospodaRPG), where they play ["classic Role-playing games (RPG)"](https://en.wikipedia.org/wiki/Role-playing_game), i.e. those without electricity - using dices and those with [the game master (GM)](https://en.wikipedia.org/wiki/Game_master).
 - [Staszek iGRAszkowski](https://www.youtube.com/user/staszekiGRAszek) - Very cool channel with gameplays of various games with nice commentary. So if you are looking for someone who records games and adds his cool commentary and doesn't without a lot of unnecessary things, this is a good choice because his videos are in nice quality. 
 - [quaz9](https://www.youtube.com/quaz9) - The biggest Polish dinosaur of computer game reviews. He has been running his channel for over 10 years and his reviews still hold a huge level - he shares his opinions in a very interesting form.
@@ -627,6 +630,11 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [ZMASLO](https://www.youtube.com/user/VesparV11) - Also a channel about computer technology, but here the videos are even more varied - there are many experiments with components, so with hardware and software.
 - [blackwhite TV](https://www.youtube.com/user/blackwhite321) - Another YouTube channel about computer technology.
 - [WavePC](https://www.youtube.com/user/DawidN20v2) - Another worth mentioning YouTube channel similar to the above.
+
+#### Electronical (Elektroniczne)
+
+- [De-Kompozytor](https://www.youtube.com/DeKompozytor) - Very cool YouTube channel, where the channel creator deals with decomposition of electronic equipment and its repair (there is a series in which he repairs his viewers' electronic equipment).
+- [Adam Śmiałek](https://www.youtube.com/AdamŚmiałek) - On this channel you will learn a lot about technological equipment from the past. Audiophiles and musicology learners will find here a lot of videos about music equipment (the author shows in detail how the equipment works in terms of sound quality - among others, he shows the spectrum and analyzes it). 
 
 #### For children and youth (Dla dzieci i młodzieży)
 
