@@ -1026,7 +1026,7 @@ If you want to support the project, just send people in need a link to this list
 
 #### Mirror
 
-[Wonderful Polish Language on GitLab](https://gitlab.com/TheDomcio/WonderfulPolishLanguage) - There is an automatically updated mirror of the project, if someone would like to follow it for some reason on another website (I don't add this with no hidden intentions, just as an additional online backup). Maybe someone will also find this project thanks to that platform.
+[Wonderful Polish Language on GitLab](https://gitlab.com/TheDomcio/WonderfulPolishLanguage) - There is an automatically updated mirror of the project, if someone would like to follow it for some reason on another website (I don't add this with no hidden intentions, just as an additional online backup). Maybe some people in need will find this project via that platform.
 
 ## Lorem ipsum
 
