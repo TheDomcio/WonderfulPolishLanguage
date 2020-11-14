@@ -106,7 +106,8 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 15. [Support (Wsparcie)](#support-wsparcie)
 16. [Acknowledgements](#acknowledgements-podziękowania)
 17. [My other projects (Moje inne projekty)](#my-others-projects-moje-inne-projekty)
-18. [Lorem ipsum](#lorem-ipsum)
+18. [Mirror](#mirror)
+19. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
 
@@ -1023,6 +1024,9 @@ If you want to support the project, just send people in need a link to this list
 - The best PC software list (Or something like this) - Coming soon. This will be a great software list, for example: The best music player for Windows: [Foobar2000](https://www.foobar2000.org) etc.
 - My text-based computer game that I am writing, while learning another programming language, will probably want to publish it as a GitHub repository, but I don't know if I have enough time to continue this programming adventure with this particular language - Python. I'm already learning several languages at school, and soon - at the end of the school semester - I'll have the last two exams (before the final high school graduation exam), so when I'm done with them, I'll probably come back to this topic, I'd also like to learn how to create music (I'm planning to take some piano lessons in the future, when I have some money, because I could use this ability to create melodies from nothing). I would also like to write some poems etc. and make more movies with [Pingwin Mroźny](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN), so the queue of what I want to do is colossal and I often change these "creative sides of life" ((from video to writing, from writing to music, from music to programming and this loop is repeated infinity times ∞) when it comes to working on something.
 
+#### Mirror
+
+[Wonderful Polish Language on GitLab](https://gitlab.com/TheDomcio/WonderfulPolishLanguage) - There is an automatically updated mirror of the project, if someone would like to follow it for some reason on another website (I don't add this with no hidden intentions, just as an additional online backup). Maybe someone will also find this project thanks to that platform.
 
 ## Lorem ipsum
 
