@@ -75,38 +75,60 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
   - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
 
 3. [Audio](#audio)
+
    - [Song lyrics (Teksty piosenek)](#song-lyrics-teksty-piosenek)
    - [Music sheets and tabs (Nuty oraz taby)](#music-sheets-and-tabs-nuty-oraz-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke online](#karaoke-online)
+
 4. [Games (Gry)](#games-gry-1)
 
    - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe)
+
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
+
 6. [Services (Serwisy)](#services-serwisy)
+
 7. [Culinary (Kulinaria)](#culinary-kulinaria)
 
    - [Recipes for holidays and festivities (Przepisy na święta i uroczystości)](#recipes-for-holidays-and-festivities-przepisy-na-święta-i-uroczystości)
+
 8. [Polish law (Polskie prawo)](#polish-law-polskie-prawo)
 
    - [Road traffic regulations (Przepisy prawa ruchu drogowego)](#road-traffic-regulations-przepisy-prawa-ruchu-drogowego)
+
 9. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
+
+   - [Charity (Charytatywne)](#charity-charytatywne)
+
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
+
 10. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
+
 11. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
+
     - [Reddit](#reddit)
     - [Discord](#discord)
+
 12. [My nice tips (Moje świetne wskazówki)](#my-nice-tips-moje-świetne-wskazówki)
+
 13. [Others (Inne)](#others-inne)
+
     - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
 
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
+
 14. [Contact (Kontakt)](#contact-kontakt)
+
 15. [Support (Wsparcie)](#support-wsparcie)
+
 16. [Acknowledgements](#acknowledgements-podziękowania)
+
 17. [My other projects (Moje inne projekty)](#my-others-projects-moje-inne-projekty)
+
 18. [Mirror and standalone version (Mirror oraz samodzielna wersja)](#mirror-and-standalone-version-mirror-oraz-samodzielna-wersja)
+
 19. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
@@ -856,8 +878,6 @@ Law is a very important thing in society, the following links will be useful for
 
 ``Please verify the truthfulness of the information you read and be careful, politics likes to create walls between people.`` 
 
-- [Krwiod@wcy.org (Honorowe krwiodawstwo i krwiolecznictwo)](https://krwiodawcy.org) - A page with information on how to prepare for the blood donation process in Poland. There is also a [survey which must be completed before each donation](https://krwiodawcy.org/ankiety-dla-kandydatow-na-dawcow) (Now, during coronavirus, an additional questionnaire must also be filled in before entering the waiting room etc.). This is a really helpful thing about the subject, and it is also a wonderful action, which is voluntary blood donation.
-- [Fundacja DKMS](https://www.dkms.pl/pl) - On this page you can learn about the bone marrow donation process and you can register as a donor or give dotation (this also applies to people from other countries, because the foundation has many branches).
 - [Rada Języka Polskiego - RJP](https://rjp.pan.pl) - Official website of Council for the Polish Language. A very good source of information about Polish. [Here you will find a very interesting entry about the classification of punctuation errors](https://rjp.pan.pl/index.php?option=com_content&view=article&id=1100:klasyfikacja-bdow-interpunkcyjnych). [A smaller version in English](https://rjp.pan.pl/index.php?option=com_content&view=article&id=1853&Itemid=61) ([And Germany](https://rjp.pan.pl/index.php?option=com_content&view=category&id=72&Itemid=64)) is also available.
 - [Językowe dylematy](http://www.jezykowedylematy.pl) - A website "for everyone who appreciates the correct Polish language" and also with interesting language facts. 
 - [Obcy język polski](https://obcyjezykpolski.pl) - a very interesting blog about things related to the Polish language. You will also find [many interesting language quizzes here](https://obcyjezykpolski.pl/tematy/quiz-jezykowy/).
@@ -871,6 +891,24 @@ Law is a very important thing in society, the following links will be useful for
 - [Zaufana Trzecia Strona]() - Like above.
 - [Tytus.Edu.PL](https://tytus.edu.pl) - Really cool educational site about history. 
 - [Linuxiarze.pl](https://linuxiarze.pl) - website dedicated to news from the Linux world. Tux likes it.
+
+#### Charity (Charytatywne)
+
+- [Krwiod@wcy.org (Honorowe krwiodawstwo i krwiolecznictwo)](https://krwiodawcy.org) - A page with information on how to prepare for the blood donation process in Poland. There is also a [survey which must be completed before each donation](https://krwiodawcy.org/ankiety-dla-kandydatow-na-dawcow) (Now, during coronavirus, an additional questionnaire must also be filled in before entering the waiting room etc.). This is a really helpful thing about the subject, and it is also a wonderful action, which is voluntary blood donation.
+
+- [Fundacja DKMS](https://www.dkms.pl/pl) - On this page you can learn about the bone marrow donation process and you can register as a donor or give dotation (this also applies to people from other countries, because the foundation has many branches).
+
+- [Poomoc.pl](Same as above) - This is a "charity clicker aggregator and much more", on which you can click on many charity actions also on an action called ["Balonik"](http://www.poomoc.pl/komu-pomagasz-balonik.php), available only through this page, which aims at dream come true of sick children. [Here you can read more about charity actions and there you can find out "who you help"](https://www.poomoc.pl/komu-pomagasz.php).
+
+  ​                               **On this website you can find these charity actions among others:**
+
+  - [Pajacyk](https://www.pajacyk.pl) - A website where by clicking on Jumping Jack every day you can help provide meals to malnourished children. ["How to help"](https://www.pajacyk.pl/#jak-pomagac) and ["A short movie about clicking"](https://www.youtube.com/watch?v=uXPqaYiUmWE). 
+  - [Okruszek](http://www.okruszek.org.pl) - Another "charity clicker" similar to [Pajacyk](https://www.pajacyk.pl), where you can also help by clicking, but this time help is for the homeless and the poor people.
+  - [Dobry klik](https://dobryklik.pl) - There you can click on the "bricks" (Polish "cegiełka", that means its part in helping something, for example: "Chciałbym dołożyć swoją cegiełkę w tej akcji [charytatywnej]" - "I would like to add my contribution to this [charity] action", without this context it is simply a "little brick", diminutive of a brick) in the picture every day and each of your "bricks" is equal to 0,1 PLN, which will be donated to a given charity. 
+  - [Psi klik](https://psiklik.pl) - Similar action as [Dobry klik](https://dobryklik.pl) , but charity is for dogs and every click is equal to 0.05 PLN.
+  - [Koci klik](https://kociklik.pl) - Same as above, but charity is for cats and every click is also equal to 0.05 PLN.
+  - [Pusta Miska](http://www.pmiska.pl) - Here you can help cats and dogs by clicking every day.
+  - [Karmimy psiaki](https://www.karmimypsiaki.pl/pomagaj-codziennie) - On this website you can click once a day on the button under the dog you can help (you can click on any available button under the dog). 
 
 ### Typical news sites (Typowe strony informacyjne)
 
