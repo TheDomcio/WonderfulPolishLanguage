@@ -75,7 +75,6 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
   - [Movies databases and social networks (Bazy filmowe oraz sieci społecznościowe)](#movies-databases-and-social-networks-bazy-filmowe-oraz-sieci-społecznościowe)
 
 3. [Audio](#audio)
-
    - [Song lyrics (Teksty piosenek)](#song-lyrics-teksty-piosenek)
    - [Music sheets and tabs (Nuty oraz taby)](#music-sheets-and-tabs-nuty-oraz-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
@@ -107,14 +106,12 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 10. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
 
 11. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
-
     - [Reddit](#reddit)
     - [Discord](#discord)
 
 12. [My nice tips (Moje świetne wskazówki)](#my-nice-tips-moje-świetne-wskazówki)
 
 13. [Others (Inne)](#others-inne)
-
     - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
 
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
@@ -996,7 +993,6 @@ Law is a very important thing in society, the following links will be useful for
 - [The Language Café (Slavic Channels category and #polish)]( https://discord.gg/AG4NMKJ)
 - [Świta Domcia](https://discord.gg/aHthmme) - My own Discord Server which I created over 3 years ago. It is full of me because it is dedicated to my works. It's nicely developed, pretty quiet and comfortable. Friendly with descriptions for people from abroad. For example: there is a text channel with Penguins Frosty on the [📼odcinki📼](https://discord.gg/8Xqw7M) channel, also [📄napisy📄](https://discord.gg/XQbKuh) on which information about the subtitles added to the movies appears,  a text channel where my projects are described: [🌞moje-projekty🌞](https://discord.gg/MjGhFe) and also among other a text channel [📣za-darmo⁉](https://discord.gg/DNKCTn), where it informs about free games or [nice] programs etc. Which are available for free to claim for some time.
 - [Przygody Reksia](https://discord.gg/aGRYDnP) - Discord server for fans of brilliant games from the "Reksio" series by Aidem Media (Yes, it's the same cartoon Reksio). The community is very friendly. You can also find here solutions to pass these games, but you will probably want to look at them to see how well you deduced the solution, not to see how to pass the whole game, right? The [Wiki](https://przygodyreksia.fandom.com/wiki/Strona_g%C5%82%C3%B3wna) is also worth checking.
-- [Nie wiem, ale się dowiem](https://discord.gg/3XhkCE) - The official Discord server of ["Nie wiem, ale się dowiem"](https://www.youtube.com/Niewiemalesiędowiem) YouTube channel, although it seems that recently main creator of the channel is no longer using this server very much.
 
 ## My nice tips (Moje świetne wskazówki)
 
