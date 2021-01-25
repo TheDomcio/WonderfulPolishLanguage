@@ -160,8 +160,6 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 
 - [Ebooks43](https://www.ebooks43.pl) - Over 80 books for free and without registration.
 
-- [Przystanek Historia by Instytut Pamięci Narodowej (IPN)](https://przystanekhistoria.pl/pa2/biblioteka-cyfrowa/publikacje) - Digital library from which you can download many free publications about history (PDF format). [Here](https://przystanekhistoria.pl/pa2/tematy/english-content) on the website you can read articles in English.  If you are interested in the history of Poland, you will surely find a lot of interesting materials on this website.
-
 - [Lektorek](https://lektorek.org/lektorek/) - Website associated with [University of Pittsburgh](https://www.pitt.edu/) You will find here a lot of valuable documents related to learning Polish. For example, in the category [First Year Polish](https://lektorek.org/lektorek/firstyear/) > [Lessons](https://lektorek.org/lektorek/firstyear/lessons/) there are 12 lessons (as 12 PDF files) and also a supplement and a glossary. In ["Other"](https://lektorek.org/lektorek/Other/) you will also find a lot of interesting things, for example [Polish song book](https://lektorek.org/lektorek/Other/), [short stories](https://lektorek.org/lektorek/Other/opowiesci.pdf) and [English-Polish phrasebook](https://lektorek.org/lektorek/Other/phrasebook.pdf) and more.
 
 - [Otwórz Książkę](http://otworzksiazke.pl) - On this website you will find over 500 books for free. There are many books about history, cultural studies and sociology. 
@@ -865,6 +863,8 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 ## History (Historia)
 
 ([Here](#historical-historyczne) on my list are YouTube channels about history)
+
+- [Przystanek Historia by Instytut Pamięci Narodowej (IPN)](https://przystanekhistoria.pl/pa2/biblioteka-cyfrowa/publikacje) - Digital library from which you can download many free publications about history (PDF format). [Here](https://przystanekhistoria.pl/pa2/tematy/english-content) on the website you can read articles in English.  If you are interested in the history of Poland, you will surely find a lot of interesting materials on this website.
 
 - [Tytus.Edu.PL](https://tytus.edu.pl) - "Your guide to history". An interesting historical site containing a large number of articles describing various historical events.
 - [Histmag.org](https://histmag.org) - Another noteworthy Polish history portal.
