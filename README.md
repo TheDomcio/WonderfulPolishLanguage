@@ -88,10 +88,11 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 7. [Culinary (Kulinaria)](#culinary-kulinaria)
 
    - [Recipes for holidays and festivities (Przepisy na święta i uroczystości)](#recipes-for-holidays-and-festivities-przepisy-na-święta-i-uroczystości)
-8. [Math (Matematyka)](#math-matematyka)
-9. [Polish law (Polskie prawo)](#polish-law-polskie-prawo)
-   - [Road traffic regulations (Przepisy prawa ruchu drogowego)](#road-traffic-regulations-przepisy-prawa-ruchu-drogowego)
-10. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
+8. [History (Historia)](history-historia)
+9. [Math (Matematyka)](#math-matematyka)
+10. [Polish law (Polskie prawo)](#polish-law-polskie-prawo)
+    - [Road traffic regulations (Przepisy prawa ruchu drogowego)](#road-traffic-regulations-przepisy-prawa-ruchu-drogowego)
+11. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
 
    - [Charity (Charytatywne)](#charity-charytatywne)
 
@@ -602,7 +603,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Karolina Anna](https://www.youtube.com/channel/UCxSDfGauduMv1ezbRVRWvCA) - Here you will find a lot of video about many mysterious criminal cases.
 - [Paweł Rosa - Sprawy Kryminalne](https://www.youtube.com/LakarnumLive) - On this YouTube channel there are archived livestreams about (currently mainly Polish) people accused (and legally convicted) of committing [many] crimes. They are conducted in a cool and reliable way (based on many verified sources).
 - [Stanowo.com](https://www.youtube.com/channel/UC01lshi_RFbK1ubJzh0Popw) - Another very cool YouTube channel about crimes. This is not only a channel [about criminal cases (here' link to the playlist with the video series "Kryminalne")](https://www.youtube.com/playlist?list=PLUOkk307eO9AfzYiHNr0t7nlqpzdAiiTk), but also about pop culture and the United States. 
-- [Niediegetyczne - Marcin Myszka](https://www.youtube.com/channel/UCiXQZKLmTi0sEBB6rapIfjg) - There is a lot of video about various criminal cases. You will find here also a series ["Niepokojące miesiąca"](https://www.youtube.com/playlist?list=PLwDrniN9q90v8SivirAl_U-hvyE0sMjWc) in which the disturbing events that occurred during the month are presented.
+- [Niediegetyczne - Marcin Myszka](https://www.youtube.com/channel/UCiXQZKLmTi0sEBB6rapIfjg) - There is a lot of video about various criminal cases. You will find here also a series ["Niepokojące miesiąca"](https://www.youtube.com/playlist?list=PLwDrniN9q90v8SivirAl_U-hvyE0sMjWc) in which the disturbing events that occurred during the month are presented. The creator of the channel also runs his own podcast named [Kryminatorium](Kryminatorium) about crimes. It is one of the most popular podcasts in Poland.
 - [Przesłuchania Morderców](https://www.youtube.com/channel/UCn02ZN2J2vvL2XP3uAArASg) - The creator of this YouTube channel "translates and analyzes recordings from real police interrogations of criminals" (these are mainly American cases).
 
 #### Social and philosophical (Społeczne i filozoficzne)
@@ -861,6 +862,15 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 (There is also a [pumpkin holiday](https://pl.wikipedia.org/wiki/Halloween) that is celebrated in the USA and some people want to celebrate in Poland, but it is really rated very 50/50 in Poland, some people think it's nothing bad - just fun, other Poles think that this holiday does not fit into our Polish - Slavic culture and has been forcibly brought from abroad for commercial purposes, I personally don't mind this holiday, but I also think that the latter opinion is really reasonable and it's just "some kind of event" and those who play it shouldn't require the Poles to take part in it too. The day after 31 is quite a sad day, that is [All Saints' Day](https://pl.wikipedia.org/wiki/Uroczysto%C5%9B%C4%87_Wszystkich_%C5%9Awi%C4%99tych) for us such a Halloween once was an event called ["Dziady"](https://pl.wikipedia.org/wiki/Dziady_(zwyczaj)) ([Here you can read more about it](https://culture.pl/en/article/the-polish-halloween-all-you-need-to-know-about-dziady)).
 
+## History (Historia)
+
+([Here](#historical-historyczne) on my list are YouTube channels about history)
+
+- [Tytus.Edu.PL](https://tytus.edu.pl) - "Your guide to history". An interesting historical site containing a large number of articles describing various historical events.
+- [Histmag.org](https://histmag.org) - Another noteworthy Polish history portal.
+- [Ciekawostki historyczne](https://ciekawostkihistoryczne.pl/) - "The most popular magazine about history in Poland". The articles are written in the form of trivia.
+- [Historia.org.pl](https://historia.org.pl/) - Nice Polish history portal. You will find there a lot of articles, reviews and more.
+
 ## Math (Matematyka)
 
 ([Here](#mathematical-and-information-technology-matematyczne-i-informatyczne) on my list are the math YouTube channels)
@@ -905,12 +915,9 @@ Law is a very important thing in society, the following links will be useful for
 - [Culture.PL](https://culture.pl/en) - Here you will find a lot of articles about things related to Poland and Polish language. They have a lot of cool articles about Polish literature and well-known literary authors.
 - [Kwantowo](https://www.kwantowo.pl) - A very cool science blog that deals with physics, astronomy and rationality. A lot of things are presented in a very cool form.
 - [Zioła Lecznicze - poradnikzielarski.pl](https://www.poradnikzielarski.pl/ziola-lecznicze/) - Very cool articles about medicinal herbs and plants. [Here, for example, about a quince](https://www.poradnikzielarski.pl/ziola-lecznicze/pigwa-bogactwo-witaminy-c-pyszna-jako-pigwa-do-herbaty.html). 
-- [Histmag.org](https://histmag.org) - Nice website about history.
 - [Sekurak](https://sekurak.pl) - website dedicated to online security.
-- [Ciekawostki historyczne](https://ciekawostkihistoryczne.pl) - A cool page where very interesting historical facts are described.
 - [Niebezpiecznik](https://niebezpiecznik.pl) - A website similar to the one above, if you are interested in cybersecurity and want to learn more about privacy etc. then you can look there.
 - [Zaufana Trzecia Strona]() - Like above.
-- [Tytus.Edu.PL](https://tytus.edu.pl) - Really cool educational site about history. 
 - [Linuxiarze.pl](https://linuxiarze.pl) - website dedicated to news from the Linux world. Tux likes it.
 
 ### Charity (Charytatywne)
@@ -976,9 +983,11 @@ Law is a very important thing in society, the following links will be useful for
 
 ### Agregators (Agregatory)
 
+(You can also take a look at the list of Polish subreddits [here](#reddit))
+
 - [Wykop](https://www.wykop.pl) - The largest Polish news aggregator. The male user in the local dialect is called "Mirek" and the female "Mirabelka". You can choose to browse the homepage and also choose the tags you are interested in or create your own. You can also add post tags to the blacklist and then these posts with these blocked tags will not appear. The community is very diverse. I like the blood donation action under the name "Baryłka Krwi" (Barrel of Blood) and it is under the tag [#barylkakrwi](https://www.wykop.pl/tag/barylkakrwi).
-- [Lurker](https://www.lurker.pl) - The alternative to the above page, has a very cool interface, so it is also worth a look.
-- [Karab.in](https://karab.in) - A page similar to the above. It was launched recently, but it has potential, because there are a lot of new things there.
+- [Lurker](https://www.lurker.pl) - The alternative to the above page.
+- [Karab.in](https://karab.in) - A page similar to the above.
 
 ## Email providers (Dostarczyciele email)
 
