@@ -80,54 +80,39 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
    - [Music sheets and tabs (Nuty oraz taby)](#music-sheets-and-tabs-nuty-oraz-taby)
    - [Internet Radio (Radio internetowe)](#internet-radio-radio-internetowe)
    - [Karaoke online](#karaoke-online)
-
 4. [Games (Gry)](#games-gry-1)
 
    - [Browser games (Gry przeglądarkowe)](#browser-games-gry-przeglądarkowe)
-
 5. [Tools and apps (Narzędzia i aplikacje)](#tools-and-apps-narzędzia-i-aplikacje)
-
 6. [Services (Serwisy)](#services-serwisy)
-
 7. [Culinary (Kulinaria)](#culinary-kulinaria)
 
    - [Recipes for holidays and festivities (Przepisy na święta i uroczystości)](#recipes-for-holidays-and-festivities-przepisy-na-święta-i-uroczystości)
-
-8. [Polish law (Polskie prawo)](#polish-law-polskie-prawo)
-
+8. [Math (Matematyka)](#math-matematyka)
+9. [Polish law (Polskie prawo)](#polish-law-polskie-prawo)
    - [Road traffic regulations (Przepisy prawa ruchu drogowego)](#road-traffic-regulations-przepisy-prawa-ruchu-drogowego)
-
-9. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
+10. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
 
    - [Charity (Charytatywne)](#charity-charytatywne)
 
    - [Typical news sites (Typowe strony informacyjne)](#typical-news-sites-typowe-strony-informacyjne)
    - [Agregators (Agregatory)](#agregators-agregatory)
 
-10. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
-
-11. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
+11. [Email providers (Dostarczyciele email)](#email-providers-dostarczyciele-email)
+12. [Social networks (Sieci społecznościowe)](#social-networks-sieci-społecznościowe)
     - [Reddit](#reddit)
     - [Discord](#discord)
-
-12. [My nice tips (Moje świetne wskazówki)](#my-nice-tips-moje-świetne-wskazówki)
-
-13. [Others (Inne)](#others-inne)
+13. [My nice tips (Moje świetne wskazówki)](#my-nice-tips-moje-świetne-wskazówki)
+14. [Others (Inne)](#others-inne)
     - [Resources lists (Listy zasobów)](#resources-lists-listy-zasobów)
 
     - [Operating systems (Systemy operacyjne)](#operating-systems-systemy-operacyjne)
-
-14. [Contact (Kontakt)](#contact-kontakt)
-
-15. [Support (Wsparcie)](#support-wsparcie)
-
-16. [Acknowledgements](#acknowledgements-podziękowania)
-
-17. [My other projects (Moje inne projekty)](#my-others-projects-moje-inne-projekty)
-
-18. [Mirror and standalone version (Mirror oraz samodzielna wersja)](#mirror-and-standalone-version-mirror-oraz-samodzielna-wersja)
-
-19. [Lorem ipsum](#lorem-ipsum)
+15. [Contact (Kontakt)](#contact-kontakt)
+16. [Support (Wsparcie)](#support-wsparcie)
+17. [Acknowledgements](#acknowledgements-podziękowania)
+18. [My other projects (Moje inne projekty)](#my-others-projects-moje-inne-projekty)
+19. [Mirror and standalone version (Mirror oraz samodzielna wersja)](#mirror-and-standalone-version-mirror-oraz-samodzielna-wersja)
+20. [Lorem ipsum](#lorem-ipsum)
 
 ## Texts (Teksty)
 
@@ -138,12 +123,12 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
   ​													(Below are some examples of available books)
 
   - [Aleksander Brückner - Mitologia słowiańska](https://wolnelektury.pl/katalog/lektura/mitologia-slowianska/) - A very interesting book on the mythology of ancient Slavs.
+  - [Antoine de Saint-Exupéry - Mały Książę](https://wolnelektury.pl/katalog/autor/antoine-de-saint-exupery/) - From the beginning of 2021 you can also read this very famous literary work on this platform.
   - [Dante Alighieri - Boska Komedia](https://wolnelektury.pl/katalog/lektura/boska-komedia) - "All hope abandon, ye who enter in!" - "The Divine Comedy" in Polish.
   - [Sofokles - Król Edyp](https://wolnelektury.pl/katalog/lektura/krol-edyp) - Another well-known cultural text written by famous Sophocles.
   - [Daniel Defoe - Robinson Crusoe](https://wolnelektury.pl/katalog/lektura/robinson-crusoe) - Polish version of the famous book about Robinson Crusoe.
   - [Tadeusz Dołęga-Mostowicz - Znachor](https://wolnelektury.pl/katalog/lektura/znachor) - A very interesting story, on the basis of which [a very famous Polish movie of the same title](https://www.filmweb.pl/film/Znachor-1981-1175) was made (we can often watch repetitions of that movie on Polish TV).
   - William Shakespeare's: [Makbet](https://wolnelektury.pl/katalog/lektura/makbet), [Hamlet](https://wolnelektury.pl/katalog/lektura/hamlet), [Romeo i Julia](https://wolnelektury.pl/katalog/lektura/romeo-i-julia) and [Król Lear](https://wolnelektury.pl/katalog/lektura/krol-lear) - You can also read here nice translations of these great Shakespeare's creations.
-
   - [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above. 
 
 - [Epodreczniki.pl](https://epodreczniki.pl/) - Official website of [the Polish Ministry of National Education](https://pl.wikipedia.org/wiki/Ministerstwo_Edukacji_Narodowej) with free textbooks for students, which are of course compatible with the basic curriculum. They are, of course, for various grades, for example [here are Polish lessons for secondary schools](https://epodreczniki.pl/ksztalcenie-ogolne/szkola-ponadpodstawowa) and [here are the music lessons for elementary school](https://epodreczniki.pl/ksztalcenie-ogolne/szkola-podstawowa/muzyka). [There are also some materials for early schools](https://epodreczniki.pl/ksztalcenie-ogolne/edukacja-wczesnoszkolna). It's worth checking because a lot of the lessons are pretty and recently I checked the chronology of the lessons on this website and this is more or less in line with my [second] school (in my case it is [technikum](https://en.wikipedia.org/wiki/Technikum_(Polish_education))), because the same topics are, but sometimes they have a slightly different chronology (it depends on the teacher, who can combine these topics differently, this is understandable). Surely this website will be useful for autodidacts who would like to learn more on their own in a given field and wouldn't know where to start, then they could be inspired by the topics that occur and start learning them from this site or from other [type of] source.
@@ -280,6 +265,7 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Zakończone.pl](https://www.zakonczone.pl) - On this page you can check the words with the selected ending. For example:  [-ówka](https://www.zakonczone.pl/na/%C3%B3wka).
 - [Stopniowanie.net](http://stopniowanie.net) - Gradation of adjectives and adverbs.
 - [Reverso Context]([https://context.reverso.net/t%C5%82umaczenie/](https://context.reverso.net/tłumaczenie/)) - A Polish version of a very useful multilingual website where you can look up translations in context of words, groups of words and idioms.
+- [Cooljugator - Cool Polish Verb Conjugator](https://cooljugator.com/pl) - A [very] cool conjugator containing a large number of verbs.
 - [Tiengos](https://www.tiengos.com/articles?langs=pl) - An interesting website (In the link there is a setting that sets the default to show articles in Polish) where you can read various articles (There are many articles available for free), e.g. in Polish, and there is an main option to switch between languages (Vietnamese, Spanish and Russian are available now, including English of course), you can also listen to the text in audio form and the words read by the lector at a specific moment will be spotlighted, you can also listen to the word you clicked on and much more. The site also has [its official application for Android](https://play.google.com/store/apps/details?id=com.ga1.inwords).
 - [Declinator](https://www.declinator.com) - A very cool online tool for noun declination. The page is affiliated to the above website.
 - [Linguee](https://www.linguee.com) - A good alternative to the above page. It is related to [DeepL](https://www.deepl.com/translator) - it comes from the same authors.
@@ -521,7 +507,7 @@ Why did I add it here? It is an [constructed language](https://en.wikipedia.org/
 
 I like to add those channels that do not have exaggerate with the absurdity of thumbnails and titles - [clickbaits](https://en.wikipedia.org/wiki/Clickbait). I want to make it as easy as possible to retrieve information from the videos on this site without wasting your time on "one million [fillers](https://en.wikipedia.org/wiki/Filler_(media))" included in today's **typical** YouTube videos focused on massive marketing. Of course, it is not always possible to "escape" from this, so sometimes people who want to reach a larger audience want to adapt to the "standards of popularization of content" in this way. In the future I will add more categories and channels here, but first I want to focus on those already created, so as not to create categories with a small number of recommended channels. Forgive me for describing some great channels so short, because most of them deserve a few times more description. [Here you have quite a large list of some Polish YouTubers with profiles created for them with descriptions](https://apynews.pl/bio-youtuberow).
 
-##### Linguistics and related (Lingwistyka i powiązane)
+#### Linguistics and related (Lingwistyka i powiązane)
 
 - [The Polish Language by Langfocus](https://www.youtube.com/watch?v=hfJinyofQdk) - Great video showing Polish language from many different sides. Its history is shown, including of course the structure of the language structure and much more.
 - [Ecolinguist](https://www.youtube.com/Ecolinguist) -  "Connecting people through languages" - One of the best linguistic channels on the whole YouTube. The main content creator is Polish [Norbert Wierzbicki](http://ecolinguist.com/bio). There are often videos where there is a meeting through video conversation of people from different countries who try to understand each other using their native language with a similar origin - the same roots to the language used by other guests. Slavic language appears very often. [Here](https://www.youtube.com/watch?v=NztgXMLwv4A) for example, there is a very popular video in which a Pole, Bulgarian and Croatian try to understand the Interslavic language used by their friend ([Here an Norbert's interview with the main creator of the Interslavic language itself](https://www.youtube.com/watch?v=8BpixH088xg)). A very cool option if you want to learn between languages, your language will probably be on the channel. For those who like English, [here](https://www.youtube.com/watch?v=sEaRBAT0TLs) is a video in which an Englishman speaks Old English and a Pole - Norbert, Australian and American try to understand it.
@@ -611,7 +597,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Zaksiążkowane](https://www.youtube.com/channel/UCP0LnBml_CVq5gaDD6qcsxw) - On this channel you can meet "Zaksiążkowane" who love to collect books and share updates of these collections. 
 - [Bestselerki](https://www.youtube.com/Bestselerki) -  The channel of successive book lovers, that is Marta Gajewska and Anna Bartłomiejczyk. They actively run the title series "Bestsellers", in which video reviews of various books appear.
 
-#####  Cryminology and criminalistics (Kryminologia i kryminalistyka)
+#### Cryminology and criminalistics (Kryminologia i kryminalistyka)
 
 - [Karolina Anna](https://www.youtube.com/channel/UCxSDfGauduMv1ezbRVRWvCA) - Here you will find a lot of video about many mysterious criminal cases.
 - [Paweł Rosa - Sprawy Kryminalne](https://www.youtube.com/LakarnumLive) - On this YouTube channel there are archived livestreams about (currently mainly Polish) people accused (and legally convicted) of committing [many] crimes. They are conducted in a cool and reliable way (based on many verified sources).
@@ -772,7 +758,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Teksty](https://teksty.org) - service very similar to the above. It has a slightly more old-school look.
 - [Tekściory](https://teksciory.interia.pl) - Another alternative.
 
-#### Music sheets and tabs (Nuty oraz taby)
+### Music sheets and tabs (Nuty oraz taby)
 
 - [Biblioteka nut - Stare melodie](https://staremelodie.pl/biblioteka) - A really huge and wonderful library of notes of old Polish melodies, which you can download as a PDF file. I really like the animations on the site and its style. Well done, author. [More about the website - project](https://staremelodie.pl/o_stronie).
 - [Śpiewnik Wywroty](https://spiewnik.wywrota.pl) - lyrics of Polish and foreign songs and "the biggest Polish Wiki-Songbook created by guitarists for guitarists!", so of course you will find here the guitar tabs.
@@ -839,6 +825,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 - [Clozemaster](https://www.clozemaster.com/languages/learn-polish-online) - Also a very nice service for learning Polish [in context]. Currently there is support to learning Polish via: English, French, German, Hungarian, Portuguese and Russian. The free version has a few limitations, but it's still okay and very useful, Pro version [among others] has more statistics, unlimited listening practice and downloadable content for mobile.
 - [Duolingo](https://www.duolingo.com) - Practically everyone knows this wonderful service, which mascot is a green bird named Duo (just be careful and do regular lessons, then he doesn't get upset, it's very important, don't forget about your course, hehe). A Polish language course for English speakers is supported there (US, but people who know the UK version and others will understand as well). I have rewritten every English language course out of curiosity, but I mainly learn Japanese and Czech there (You can follow [my profile](https://www.duolingo.com/profile/TheDomcio), if you want to watch my progress on the platform, I recently returned to more active use of it). I used to be in the top league in the ranking, but now I've fallen by the lack of activity. Also, recently there was an option to learn Finnish, which I was interested in, and probably in 2020 there will be another available language to learn, this is a nice thing for people interested in other languages.
 - [10fastfingers](https://10fastfingers.com/typing-test/polish) - On this website you can practice the speed of typing on your keyboard, also with [200 most popular] Polish words ([or 1000 most popular words version](https://10fastfingers.com/advanced-typing-test/polish)), so if you want to practice the use of diacritics, you should definitely use something like that. [You can also participate in typing competitions on time](https://10fastfingers.com/competitions). [My personal best record](https://img.10fastfingers.com/speedtests/generate_screenshot_result/9_111_581_556_25_100_4), I think I can do this ~120 WPM for the moment with my actual keyboard.
+- [VerbCards](https://www.verbcards.com/) - A new, but promising, completely free service that helps you learn a language using cards (currently only English - Polish option available).
 - [Quizlet](https://quizlet.com/subject/polish) - something like [Anki](https://apps.ankiweb.net), but online and much more, so it's worth checking it out.
 - [Quzizz](https://quizizz.com/admin/search/J%C4%99zyk%20polski) - A page with quizzes. There are a lot of quizzes created by teachers for their [mostly young] students, so it's a good option to repeat different things for example from the basics of grammar and so on.
 
@@ -874,9 +861,21 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 (There is also a [pumpkin holiday](https://pl.wikipedia.org/wiki/Halloween) that is celebrated in the USA and some people want to celebrate in Poland, but it is really rated very 50/50 in Poland, some people think it's nothing bad - just fun, other Poles think that this holiday does not fit into our Polish - Slavic culture and has been forcibly brought from abroad for commercial purposes, I personally don't mind this holiday, but I also think that the latter opinion is really reasonable and it's just "some kind of event" and those who play it shouldn't require the Poles to take part in it too. The day after 31 is quite a sad day, that is [All Saints' Day](https://pl.wikipedia.org/wiki/Uroczysto%C5%9B%C4%87_Wszystkich_%C5%9Awi%C4%99tych) for us such a Halloween once was an event called ["Dziady"](https://pl.wikipedia.org/wiki/Dziady_(zwyczaj)) ([Here you can read more about it](https://culture.pl/en/article/the-polish-halloween-all-you-need-to-know-about-dziady)).
 
+## Math (Matematyka)
+
+([Here](#mathematical-and-information-technology-matematyczne-i-informatyczne) on my list are the math YouTube channels)
+
+- [Matemaks](https://www.matemaks.pl/) - One of the best Polish sites for learning math in a simple way. It contains everything you need to pass school exams in the mathematics part (like [matura](https://en.wikipedia.org/wiki/Matura) for example) in Poland.
+- [Polish Khan Academy](https://pl.khanacademy.org/) - An excellent service for learning math. Includes lots of fully free courses to choose from. It is mainly math at the elementary school level. There are also courses available in other sciences, such as physics, chemistry and biology, also you will find humanities and computer science and much, much more.
+- [Batmat](http://batmat.pl/) - A fully free service for learning math in an interactive way. Assignments are at the secondary school level.
+- [Matmag](https://matmag.pl/) - A service similar to the above, but in this case unfortunately the service is not fully free, but there is a free trial version without the need to register, so you can try all the lessons to some extent for free. The assignments are at the elementary school level (grade 1 - 8).
+- [Matematyczne ZOO - Matzoo](https://www.matzoo.pl/) - Service very similar to the above. It was created mainly for elementary school students. It is completely free, the only paid option is to disable advertising on the site.
+- [Matematyka szkolna](https://matematykaszkolna.pl/) - A website designed to teach high school math. You will find here almost 4000 assignments with complete solutions.
+- [Free math textbooks - Epodreczniki.pl](https://epodreczniki.pl/ksztalcenie-ogolne/szkola-podstawowa/matematyka) - The main link takes you to free math textbooks at the elementary school level. Secondary school textbooks can be found [here](https://epodreczniki.pl/ksztalcenie-ogolne/szkola-ponadpodstawowa/matematyka).
+
 ## Polish law (Polskie prawo)
 
-Law is a very important thing in society, the following links will be useful for people who want to learn about Polish law and Polish legal terms - names and style of writing.
+Law is a very important thing in society, the following links will be useful for people who want to learn about Polish law and Polish legal terms - names and their style of writing.
 
 - [Sources of Polish law](https://www.gov.pl/web/cyfryzacja/prawo) ([Check also here](https://pl.wikipedia.org/wiki/System_prawny_w_Polsce)) and [English version (Very short, better to see the original)](https://en.wikipedia.org/wiki/Law_of_Poland).
 - [Konstytucja Rzeczypospolitej Polskiej](https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm) - The Constitution of the Republic of Poland ([English version](https://www.sejm.gov.pl/prawo/konst/angielski/kon1.htm)).
@@ -914,7 +913,7 @@ Law is a very important thing in society, the following links will be useful for
 - [Tytus.Edu.PL](https://tytus.edu.pl) - Really cool educational site about history. 
 - [Linuxiarze.pl](https://linuxiarze.pl) - website dedicated to news from the Linux world. Tux likes it.
 
-#### Charity (Charytatywne)
+### Charity (Charytatywne)
 
 - [Krwiod@wcy.org (Honorowe krwiodawstwo i krwiolecznictwo)](https://krwiodawcy.org) - A page with information on how to prepare for the blood donation process in Poland. There is also a [survey which must be completed before each donation](https://krwiodawcy.org/ankiety-dla-kandydatow-na-dawcow) (Now, during coronavirus, an additional questionnaire must also be filled in before entering the waiting room etc.). This is a really helpful thing about the subject, and it is also a wonderful action, which is voluntary blood donation.
 
@@ -996,7 +995,7 @@ Law is a very important thing in society, the following links will be useful for
 - [e-polish.eu](https://e-polish.eu/forum-dyskusyjne-jezyka-polskiego) - Discussion forum about Polish language learning.
 - [Nasza Klasa (NK)](https://nk.pl) - One of Poland's cult social networking sites, before the popularization of Facebook in Poland, was very often used by Poles, offered a lot of online games, I personally switched from NK to Facebook 8 years ago because I wanted to play the latest version of Shadow Fight, and this Polish version had fewer updates. This site can be very useful to you, for example if you once lived in Poland and attended a Polish school, and you've really liked a lot of people and forgotten their names, there's a chance that you'll find some pictures and details of these people there (These are also worth mentioning: [Gadu-Gadu](https://gadu-gadu.pl) or [Grono.net](https://pl.wikipedia.org/wiki/Grono.net) - which lost its popularity when popularity of NK grew).
 
-#### Reddit:
+### Reddit:
 
 - [/r/learnpolish](https://www.reddit.com/r/learnpolish) - Very nice subreddit about learning Polish. If you have any questions, doubts or interesting information about things related to the Polish language, feel free to write there. Poland is generally a nation willing to help others, there is a huge hospitality culture here since the beginning of the country, so for over 1000 years. In every society, there are stupid, silly and fanatic people, and Poland is no exception, so we should not generalize, because we have a lot of intelligent, nice and tolerant people here. Poland often lost out on such an attitude, because for other countries, as it be in Politics, only interests mattered.
 - [/r/Polska](https://www.reddit.com/r/Polska) - Official Polish subreddit in Polish.
@@ -1010,7 +1009,7 @@ Law is a very important thing in society, the following links will be useful for
 - [/r/filozofia](https://www.reddit.com/r/filozofia) -  Polish subreddit about philosophy.
 - [/r/muzyka](https://www.reddit.com/r/muzyka) - Polish subreddit about music.
 
-##### Discord:
+### Discord:
 
 - [Learn Polish Discord Server](https://discord.gg/4U7Akj6) - The best Discord server to learn Polish. I would like to invite everyone here who has some problems with the language, is curious about something or just wants to talk to people in Polish, the community is open to other and active. I am too active here. 
 - [The Language Sloth (Studying languages - Polish and #polski-chat)](https://discord.gg/languages)
@@ -1026,10 +1025,11 @@ Law is a very important thing in society, the following links will be useful for
 - If you want to sound more like noble or just poetic (elevated/high style of speech), for example you can change the words (pronouns) "moim" (moje) to "mym" (me) and "twoim" (twoje) to "twym" (twe) [and more](https://pl.wiktionary.org/wiki/Aneks:J%C4%99zyk_polski_-_zaimki#m%C3%B3j,_tw%C3%B3j,_sw%C3%B3j) (Also check [here](https://sjp.pwn.pl/poradnia/haslo/Me-twe-swe;18579.html) and [HIER](https://pl.wikipedia.org/wiki/Mowa_(retoryka)#Mowa_w_stylu_wysokim)). So if you're wearing daily a monocle and a cylinder, it's something **absolutely necessary** for you, don't forget also to take your own tea set [and also you should have a large stock of [[matricaria chamomilla](https://en.wikipedia.org/wiki/Matricaria_chamomilla) in your inventory] with a gilded cup (In general, this can sound a bit old-fashioned, but it's one of the cool ways to ["color"](https://pl.wiktionary.org/wiki/ubarwianie) your speech in Polish - sometimes one snowman from a certain cartoon talked in this style, so if you've watched this cartoon about a helpful green dragon, you'll know who was it).
 - If you want to call (define) a person who likes something with a simple noun, you can do so by adding the ending (yes, yes - sufiks) **-olub** (or -**olubka** in femininum). For example a person who likes pasta = makaron**olub** or, for example, a person who likes locomotives = lokomotyw**olub** and yet a person who likes images = "obraz**olub**". It is a bit "synthetic" and may sound funny, so use it rather for such "chill conversations", then implement it in your everyday language, because, there are already [more "professional"] dictionary terms for people who like something like "audio**fil**" (audio**phile**) and its synonym: melo**man** (music lover and the suffix **-man** itself, that is from the word ["mania"](https://pl.wiktionary.org/wiki/mania), so it means a person who has a [mania](https://pl.wiktionary.org/wiki/mania) at some point, so a person who's maniacally eating broccoli ([brokuł - Brassica oleracea L. var. italica Plenck]([https://pl.wikipedia.org/wiki/Broku%C5%82](https://pl.wikipedia.org/wiki/Brokuł))) is "brokuło**man**" or "brokuło**maniak**" with [**-maniak**](https://pl.wiktionary.org/wiki/maniak)). I would just add that you can also do the same with the ending [**-fil**](https://pl.wiktionary.org/wiki/-fil), but there are also a lot of words to describe people with very bad tendencies (with various disorders) and you know what I mean. That is why the creation of words with this ending would be badly associated with some bad things. By the way, I would also like to take this opportunity to say that if, for example, we would like to define a human-like creatures, then we can do it by adding the ending **-lud**, e.g. a frog ([żaba](https://pl.wikipedia.org/wiki/%C5%BBaba_wodna)) with legs and hands and behaving like a human - żabo**lud** or also you can use the ending **-człek**, then żabo**człek** or another example of "human + elephant ([słoń](https://pl.wikipedia.org/wiki/S%C5%82oniowate))" - słonio**lud**/słonio**człek** (There is a very popular word in Polish - "ufolud" and the diminutive of this word - ["ufo**ludek**"](https://sjp.pwn.pl/slowniki/ufoludek.html) and it means "alien"). I will add, finally, that if we want to define a person who eats (she or he or it has a lot of this food in diet) something, for example watermelons ([arbuzy - Citrullus vulgaris](https://pl.wikipedia.org/wiki/Arbuz_zwyczajny)), then we can add the ending **-jad** and then such a person will be called arubozo**jad** or with sufiks **-żerca**, then "arbuzo**żerca**" or jabłko**jad**/jabłko**żerca** (apple-eating creature). Creatures with a plant-based diet = roślino**żercy** and those with a diet in which there is meat = mięso**żercy**, then for example, "dinozaury roślino**żerne**" (herbivorous dinosaurs) and dinozaury mięso**żerne** (carnivorous dinosaurs). So you can say in joke that vegetarians and vegans are: "roślino**żerni**/roślino**żercami**". 
 - I mentioned to you earlier the use of the word ["spoko"](https://pl.wiktionary.org/wiki/spoko). I will now tell you about another very useful and universal word (it comes from colloquial speech), the word ["lipa"](https://pl.wiktionary.org/wiki/lipa) (Literally means ["lipa"](https://pl.wikipedia.org/wiki/Lipa) - [Tilia - Linden or Lime tree](https://en.wikipedia.org/wiki/Tilia)). It is a word that means something not entirely cool or just a failure to do something etc. For example, someone may ask: "Byłeś już w tej kręgielni, która została niedawno otwarta?" (Have you been to this bowling alley that was recently opened?) and someone can answer: "Tak, totalna lipa" (Yes, totally uncool). So, as you can see, this is the complete opposite of the [positive] word ["spoko"](https://pl.wiktionary.org/wiki/spoko). Another example: "Czy udało ci się przejść ten poziom w tej nowej grze?" (Have you managed to pass this level in this new game?) and answer: "Nie, nadal lipa" (No, still not successful). You can also use this as a "statement - shout of sad" - "Co za lipa!" (Such a shame!) or alternative "Ale lipa!" (For example, when you lack a small amount of money to buy something or when just a small moment before you arrived at the bus stop, the bus you wanted to go with, drove off right before your eyes and now you have to wait 30 minutes for another one). One more example to conclude: "Jak smakuje ci ten dziwny owoc?" (How does this strange fruit taste to you?) and answer: "Lipnie" (Poorly - It's an adverb of this specific use ["lipa"](https://pl.wiktionary.org/wiki/lipa), normally, it would be correct to say "lipowe", for example "lipowa herbata" - linden tea). If you want to use this example in the plural, it would be, for example "Lipne jedzenie" (Poor food). That is the next word kind of: everyone, regardless of their age, will understand the word, because it is quite often used by people from different parts of the country (Wooden people will probably never use it in their entire lives, although Pinocchio would be happy to use it, but it is not about him).
+- Ahoy, [Mateys](https://en.wiktionary.org/wiki/matey)! If you're bored of being a [landlubber](https://en.wiktionary.org/wiki/landlubber) ([szczur lądowy](https://pl.wiktionary.org/wiki/szczur_l%C4%85dowy)) and you want to become a seadog (wilk morski) or just would like to talk like a buccaneer during [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day), which takes place on September 19 each yearrr, or something like that, these tips will help you, yo ho ho. Before I really begin, remember that an eye patch will add authenticity and allow you to get more into character, if you don't have one you can also try to squint one of your eyes, then ye'll look very menacing. Example sentence in the normal way: "O nie! Zapomniałem o nastawieniu budzika i zaspałem." ("Oh no! I forgot to set my alarm clock and overslept."), and now in a pirate way: "Do [kroćset](https://sjp.pwn.pl/sjp/krocset;2475308.html)! Zapomniałem o nastawieniu budzika, niech to [dunder](https://pl.wiktionary.org/wiki/dunder) [świśnie](https://sjp.pwn.pl/sjp/swisnac;2528441.html)!" ("Hell! I forgot to set my alarm clock and overslept, blast it!"). As you can see, it's a good idea to add more pirate exclamations, I added one at the end because there was already one at the beginning.  Ye should also add "arrr" (or with more "r" added or less amount) wherever you can, such as at the beginning of a sentence: "Arrrr! Jaki piękny mamy dzisiaj dzień, do [kroćset](https://sjp.pwn.pl/sjp/krocset;2475308.html)!" ("Arrrr! What a fabulously beautiful day we have today!"), here is an example with a pirate "r" accent: "Pewna [papuga arrra](https://pl.wikipedia.org/wiki/Ara_(rodzaj)) miała mieszkanie o wielkości jednego [arrra](https://pl.wikipedia.org/wiki/Ar_(jednostka_miary))" ("One [arrra parrrot](https://en.wikipedia.org/wiki/Ara_(genus)) had an apartment the size of one [arre](https://en.wikipedia.org/wiki/Hectare#Are)"). This is how you should greet your [not only Czech] friends: "Ahoj! Jak się masz, [kamracie](https://pl.wiktionary.org/wiki/kamrat)? Arrr!" ("Ahoy! How are you, [hearty](https://www.dictionary.com/browse/hearty)? Arrr!"). Avast, If you are a pirate abstainer, you can drink tea with lemon (or powerful Polish [kompot](https://en.wikipedia.org/wiki/Kompot)) instead of grog and rum. When you want to nod, say out loud: "Aj, aj" ("Aye, aye!"), but if you say it too quietly, that's when you give a sign that something hurts. An example of being surprised: "[Niech mnie kule biją](https://wsjp.pl/index.php?id_hasla=8690)! Przecież to ten słynny [wannolot](https://pl.wikipedia.org/wiki/Wannolot_(komiks))!" ("Holy buckets! This is the famous bathfly!"). If you want to offend someone in a pirate way (but only in jest, be nice to your fellow man), you can say: "Arrr! Idź do [czorta](https://pl.wikipedia.org/wiki/Czart), [psubracie](https://pl.wiktionary.org/wiki/psubrat)!" ("Arrr! Go to the [deuce](https://en.wiktionary.org/wiki/deuce), [scoundrel](https://en.wiktionary.org/wiki/scoundrel)!"). The important thing is to have many buried trunks with huge treasure, necessarily marked with an "X" as the famous Captain Greg did.
 
 ## Others (Inne)
 
-- [6obcy](https://6obcy.org)  - Website for talking to strangers from different regions of Poland and abroad. You can meet many interesting people here, but you can also find a lot of "suspicious people", so be careful. (M - mężczyzna - male, K - kobieta - female, so at the beginning of the conversation, when someone writes "K", it means that she says she is a woman, it's a pattern that often occurs, or e.g. M20 = a man who is 20 years old, for some people it's just something like a dating chat).
+- [6obcy](https://6obcy.org)  - Website for talking to strangers from different regions of Poland and abroad. You can meet many interesting people here, **but you can also find a lot of "suspicious people", so be careful.** (M - mężczyzna - male, K - kobieta - female, so at the beginning of the conversation, when someone writes "K", it means that she says she is a woman, it's a pattern that often occurs, or e.g. M20 = a man who is 20 years old, for some people it's just something like a dating chat.
 - [Nonsensopedia](https://nonsa.pl/wiki/Strona_g%C5%82%C3%B3wna) - A parody of Wikipedia in Polish and as the name itself says, it is full of nonsense (The equivalent of English [Uncyclopedia](https://simple.uncyc.org/wiki/Main_Page)). Sometimes you can find hilarious articles (So stupid, *applause for the creativity of their author*, then it could make you laugh) here, especially in those areas that we are very interested in and familiar with. There is certainly a lot of 'difficult humor' here, so it is rather for people with a specific sense of humor.
 
 ### Resources lists (Listy zasobów)
@@ -1088,7 +1088,7 @@ If you want to support the project, just send people in need a link to this list
 - The best PC software list (Or something like this) - Coming soon. This will be a great software list, for example: The best music player for Windows: [Foobar2000](https://www.foobar2000.org) etc.
 - My text-based computer game that I am writing, while learning another programming language, will probably want to publish it as a GitHub repository, but I don't know if I have enough time to continue this programming adventure with this particular language - Python. I'm already learning several languages at school, and soon - at the end of the school semester - I'll have the last two exams (before the final high school graduation exam), so when I'm done with them, I'll probably come back to this topic, I'd also like to learn how to create music (I'm planning to take some piano lessons in the future, when I have some money, because I could use this ability to create melodies from nothing). I would also like to write some poems etc. and make more movies with [Pingwin Mroźny](https://www.youtube.com/watch?v=AdhssPbvaKk&list=PL2yH5_nRkFqwAI-ulb6y8j-AfOiMKGLCN), so the queue of what I want to do is colossal and I often change these "creative sides of life" ((from video to writing, from writing to music, from music to programming and this loop is repeated infinity times ∞) when it comes to working on something.
 
-#### Mirror and standalone version (Mirror oraz samodzielna wersja)
+### Mirror and standalone version (Mirror oraz samodzielna wersja)
 
 - [Wonderful Polish Language on GitLab](https://gitlab.com/TheDomcio/WonderfulPolishLanguage) - There is an automatically updated mirror of the project, if someone would like to follow it for some reason on another website (I don't add this with no hidden intentions, just as an additional online backup). Maybe some people in need will find this project via that platform.
 
@@ -1100,4 +1100,4 @@ Lorem ipsum. To jest taka ciekawostka. Nie chciałem, żeby w dniu publikacji os
 
 Birthday - publication of the project is: 18.09.2020, and its first non-public version was created two weeks earlier, so in the first days of September.
 
-`The list has been updated less frequently for some time now because I will have exams at the end of January.`
+`I'm back. I passed the exams (EE.08 and EE.09).I'll be writing a matura in a few months, but I'll find some time to update the list.`
