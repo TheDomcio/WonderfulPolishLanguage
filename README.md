@@ -91,7 +91,9 @@ Pozdrawiam was bardzo serdecznie i życzę miłej doby.
 8. [History (Historia)](history-historia)
 9. [Math (Matematyka)](#math-matematyka)
 10. [Polish law (Polskie prawo)](#polish-law-polskie-prawo)
-    - [Road traffic regulations (Przepisy prawa ruchu drogowego)](#road-traffic-regulations-przepisy-prawa-ruchu-drogowego)
+
+   - [Road traffic regulations (Przepisy prawa ruchu drogowego)](#road-traffic-regulations-przepisy-prawa-ruchu-drogowego)
+
 11. [Various websites (Różne strony internetowe)](#various-websites-różne-strony-internetowe)
 
    - [Charity (Charytatywne)](#charity-charytatywne)
@@ -263,6 +265,7 @@ I will mention that currently the most popular polish translation of the Bible i
 - [Synonimy.pl](https://www.synonimy.pl) - similar to above.
 - [Zakończone.pl](https://www.zakonczone.pl) - On this page you can check the words with the selected ending. For example:  [-ówka](https://www.zakonczone.pl/na/%C3%B3wka).
 - [Stopniowanie.net](http://stopniowanie.net) - Gradation of adjectives and adverbs.
+- [Ortograf](https://www.ortograf.pl/) - A cool site where you can see common spelling mistakes, it also has a subpage with a spell checker (main link). [Here](https://www.ortograf.pl/zasady-pisowni) you can read about the rules of spelling of the Polish language, at this link about ["language doubts"](https://www.ortograf.pl/watpliwosci-jezykowe), you will also find there, for example, [dictations](https://www.ortograf.pl/dyktanda) and [abbreviations](https://www.ortograf.pl/skroty).
 - [Reverso Context]([https://context.reverso.net/t%C5%82umaczenie/](https://context.reverso.net/tłumaczenie/)) - A Polish version of a very useful multilingual website where you can look up translations in context of words, groups of words and idioms.
 - [Cooljugator - Cool Polish Verb Conjugator](https://cooljugator.com/pl) - A [very] cool conjugator containing a large number of verbs.
 - [Tiengos](https://www.tiengos.com/articles?langs=pl) - An interesting website (In the link there is a setting that sets the default to show articles in Polish) where you can read various articles (There are many articles available for free), e.g. in Polish, and there is an main option to switch between languages (Vietnamese, Spanish and Russian are available now, including English of course), you can also listen to the text in audio form and the words read by the lector at a specific moment will be spotlighted, you can also listen to the word you clicked on and much more. The site also has [its official application for Android](https://play.google.com/store/apps/details?id=com.ga1.inwords).
@@ -674,6 +677,7 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 
 - [De-Kompozytor](https://www.youtube.com/DeKompozytor) - Very cool YouTube channel, where the channel creator deals with decomposition of electronic equipment and its repair (there is a series in which he repairs his viewers' electronic equipment).
 - [Adam Śmiałek](https://www.youtube.com/AdamŚmiałek) - On this channel you will learn a lot about technological equipment from the past. Audiophiles and musicology learners will find here a lot of videos about music equipment (the author shows in detail how the equipment works in terms of sound quality - among others, he shows the spectrum and analyzes it). 
+- [RedaktorSzumu](https://www.youtube.com/channel/UCerRdvyHWE3Fq3fk1HG5Vzg) - A channel combining the features of the above YouTube channels, worth checking out if you are, among other, interested in repairing music equipment.
 
 #### For children and youth (Dla dzieci i młodzieży)
 
@@ -865,11 +869,11 @@ I like to add those channels that do not have exaggerate with the absurdity of t
 ([Here](#historical-historyczne) on my list are YouTube channels about history)
 
 - [Przystanek Historia by Instytut Pamięci Narodowej (IPN)](https://przystanekhistoria.pl/pa2/biblioteka-cyfrowa/publikacje) - Digital library from which you can download many free publications about history (PDF format). [Here](https://przystanekhistoria.pl/pa2/tematy/english-content) on the website you can read articles in English.  If you are interested in the history of Poland, you will surely find a lot of interesting materials on this website.
-
 - [Tytus.Edu.PL](https://tytus.edu.pl) - "Your guide to history". An interesting historical site containing a large number of articles describing various historical events.
 - [Histmag.org](https://histmag.org) - Another noteworthy Polish history portal.
 - [Ciekawostki historyczne](https://ciekawostkihistoryczne.pl/) - "The most popular magazine about history in Poland". The articles are written in the form of trivia.
 - [Historia.org.pl](https://historia.org.pl/) - Nice Polish history portal. You will find there a lot of articles, reviews and more.
+- [Imperium Romanum](https://imperiumromanum.pl/) - If you are interested in the history of ancient civilizations, especially the history of ancient Rome, this is probably worth checking out.
 
 ## Math (Matematyka)
 
